@@ -2,27 +2,27 @@
   "data": [    
     {
       "id": "1",      
-      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/blob/master/slider_two/img/coin_win.jpg",
+      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/img/coin_win.jpg",
       "url_redirect_link": "https://664.win.predchamp.com"
     },	
 	  {
       "id": "2",      
-      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/blob/master/slider_two/img/cricket_quiz.jpg",
+      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/img/cricket_quiz.jpg",
       "url_redirect_link": "https://664.win.predchamp.com"
     },
 	  {
       "id": "3",      
-      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/blob/master/slider_two/img/gk_quiz.jpg",
+      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/img/gk_quiz.jpg",
       "url_redirect_link": "https://664.win.predchamp.com"
     },
 	  {
       "id": "4",      
-      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/blob/master/slider_two/img/ipl_quiz.jpg",
+      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/img/ipl_quiz.jpg",
       "url_redirect_link": "https://664.win.predchamp.com"
     },
     {
       "id": "5",      
-      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/blob/master/slider_two/img/tech_quiz.jpg",
+      "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/img/tech_quiz.jpg",
       "url_redirect_link": "https://664.win.predchamp.com"
     }
   ]
