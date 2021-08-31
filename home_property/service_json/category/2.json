@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "11",
+            "category_name": "The One Spot - Australia",
+            "category_link": "https://www.theonespot.com.au/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "13",
+            "category_name": "Mitula Homes - Australia",
+            "category_link": "https://properties.mitula.com.au/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Homely Real Estate- Australia",
+            "category_link": "https://www.homely.com.au/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "54",
+            "category_name": "Homely Real Estate- Australia",
+            "category_link": "https://www.homely.com.au/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "56",
+            "category_name": "Zango Real Estate- Australia",
+            "category_link": "https://zango.com.au/sale/",
+            "main_category_id": "2",
+            "is_active": "1"
+        }
+    ]
+}

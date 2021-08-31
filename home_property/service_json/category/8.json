@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "60",
+            "category_name": "Rent In Singapore - Singapore",
+            "category_link": "https://rentinsingapore.com.sg/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "61",
+            "category_name": "Property Guru - Singapore",
+            "category_link": "https://www.propertyguru.com.my/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "62",
+            "category_name": "Homely Real Estate- Singapore",
+            "category_link": "https://www.homely.com.au/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "64",
+            "category_name": "Zango Real Estate- Singapore",
+            "category_link": "https://zango.com.au/sale/",
+            "main_category_id": "8",
+            "is_active": "1"
+        }
+    ]
+}

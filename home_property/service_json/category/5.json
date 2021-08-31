@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "33",
+            "category_name": "RightMove Houses For Sale - UK",
+            "category_link": "https://www.rightmove.co.uk/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "34",
+            "category_name": "Zoopla Apartments Near Me - UK",
+            "category_link": "https://www.zoopla.co.uk/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "36",
+            "category_name": "Prime Location Land For Sale - UK",
+            "category_link": "https://www.primelocation.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "38",
+            "category_name": "Funda : Home Property - UK",
+            "category_link": "https://www.funda.nl/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "39",
+            "category_name": "Redfin : Home For Rent - UK",
+            "category_link": "https://www.redfin.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        }
+    ]
+}

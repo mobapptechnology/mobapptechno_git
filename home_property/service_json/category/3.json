@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "21",
+            "category_name": "RealMaster House For Sale - CANADA",
+            "category_link": "https://www.realmaster.ca/",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "22",
+            "category_name": "Trovit Real Estate - CANADA",
+            "category_link": "https://www.trovit.ca/",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "23",
+            "category_name": "Remax Real Estate Serch - CANADA",
+            "category_link": "https://www.remax.ca/",
+            "main_category_id": "3",
+            "is_active": "1"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "49",
+            "category_name": "Suumo Real Estate - Japan",
+            "category_link": "https://suumo.jp/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "50",
+            "category_name": "Real Estate - Japan",
+            "category_link": "https://www.home.co.jp/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "52",
+            "category_name": "O Uccino Land For Sale - Japan",
+            "category_link": "https://o-uccino.com/front",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "53",
+            "category_name": "Real Estate Yahoo - Japan",
+            "category_link": "https://realestate.yahoo.co.jp/",
+            "main_category_id": "7",
+            "is_active": "1"
+        }
+    ]
+}

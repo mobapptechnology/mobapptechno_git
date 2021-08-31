@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "65",
+            "category_name": "Immo Scout24 : Home For Rent- Switzerland",
+            "category_link": "https://www.immoscout24.ch/en",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "66",
+            "category_name": "New Home : Houses For Sale- Switzerland",
+            "category_link": "https://www.newhome.ch/",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "67",
+            "category_name": "Flat Fox : Apartments Near Me- Switzerland",
+            "category_link": "https://flatfox.ch/en/",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "70",
+            "category_name": "Homely Real Estate- Switzerland",
+            "category_link": "https://www.homely.com.au/",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "72",
+            "category_name": "Zango Real Estate- Switzerland",
+            "category_link": "https://zango.com.au/sale/",
+            "main_category_id": "9",
+            "is_active": "1"
+        }
+    ]
+}

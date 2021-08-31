@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Zillow : Apartment For Rent - USA",
+            "category_link": "https://www.zillow.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Realtor : Home For Rent - USA",
+            "category_link": "https://www.realtor.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Redfin : Apartments Near Me - USA",
+            "category_link": "https://www.redfin.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Trulia : Land For Sale - USA",
+            "category_link": "https://www.trulia.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}

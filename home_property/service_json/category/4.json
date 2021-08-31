@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "26",
+            "category_name": "Immowelt Land For Sale - Germany",
+            "category_link": "https://www.immowelt.de/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "28",
+            "category_name": "Wg Gesucht Property For Sale - Germany",
+            "category_link": "https://www.wg-gesucht.de/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "29",
+            "category_name": "Nestoria Rentals Near Me - Germany",
+            "category_link": "https://www.nestoria.de/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "31",
+            "category_name": "O Uccino Apartment For Rent - Germany",
+            "category_link": "https://o-uccino.com/front",
+            "main_category_id": "4",
+            "is_active": "1"
+        }
+    ]
+}

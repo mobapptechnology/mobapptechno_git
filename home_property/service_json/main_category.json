@@ -1,0 +1,65 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Apartment For Rent",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/apartment_for_rent.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Apartments Near Me",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/apartments_near_me.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Cheap Apartments Near",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/cheap_apartments_near_me.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Home For Rent",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/home_for_rent.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Home For Sale",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/home_for_sale.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Houses For Rent Near Me",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/houses_for_rent_near_me.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Houses For Sale Near Me",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/houses_for_sale_near_me.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Land For Sale",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/land_for_sale.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Property For Sale",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/property_for_sale.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Rentals Near Me",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/home_property/img/rentals_near_me.jpg",
+            "is_active": "1"
+        }
+    ]
+}

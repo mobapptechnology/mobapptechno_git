@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "41",
+            "category_name": "MagicBricks Rentals Near Me - India",
+            "category_link": "https://www.magicbricks.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "44",
+            "category_name": "Housing Home For Rent - India",
+            "category_link": "https://housing.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "46",
+            "category_name": "Homely Real Estate- India",
+            "category_link": "https://www.homely.com.au/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "48",
+            "category_name": "Zango Real Estate- India",
+            "category_link": "https://zango.com.au/sale/",
+            "main_category_id": "6",
+            "is_active": "1"
+        }
+    ]
+}

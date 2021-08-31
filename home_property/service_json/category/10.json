@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "73",
+            "category_name": "Zillow : Property For Sale- World",
+            "category_link": "https://www.zillow.com/",
+            "main_category_id": "10",
+            "is_active": "1"
+        },
+        {
+            "id": "74",
+            "category_name": "Realtor : Rentals Near Me- World",
+            "category_link": "https://www.realtor.com/",
+            "main_category_id": "10",
+            "is_active": "1"
+        },
+        {
+            "id": "76",
+            "category_name": "Trulia : Apartment For Rent- World",
+            "category_link": "https://www.trulia.com/",
+            "main_category_id": "10",
+            "is_active": "1"
+        },
+        {
+            "id": "77",
+            "category_name": "Idea Lista : Home For Rent- World",
+            "category_link": "https://www.idealista.com/en/",
+            "main_category_id": "10",
+            "is_active": "1"
+        },
+        {
+            "id": "80",
+            "category_name": "Immobilienscout : Houses For Sale Near Me- World",
+            "category_link": "https://www.immobilienscout24.de/",
+            "main_category_id": "10",
+            "is_active": "1"
+        }
+    ]
+}
