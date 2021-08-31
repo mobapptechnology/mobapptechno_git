@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "30",
+            "category_name": "ONLINE PAYMENT OF NATIONAL PERMIT",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/faces/np/jsp/nationalpermit.jsp",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+		{
+            "id": "31",
+            "category_name": "BANK REF NO STATUS",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/faces/welcome.jsp",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+		{
+            "id": "32",
+            "category_name": "CHECK FAILED TRANSACTIONS",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/faces/np/jsp/checktransaction.jsp",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+		{
+            "id": "33",
+            "category_name": "PRINT PERMIT RECEIPT",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/faces/np/jsp/printpermitreceipt.jsp",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+		{
+            "id": "34",
+            "category_name": "PRINT NATIONAL PERMIT AUTHORIZATION",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/faces/np/jsp/printpermituser.jsp",
+            "main_category_id": "6",
+            "is_active": "1"
+        }
+    ]
+}

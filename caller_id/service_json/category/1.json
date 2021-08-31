@@ -1,0 +1,54 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Find out who called",
+            "category_link": "https://sync.me/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Trace Mobile",
+            "category_link": "https://www.findandtrace.com/trace-mobile-number-location",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Vehicle/Rto Info",
+            "category_link": "https://www.findandtrace.com/trace-find-vehicle-number-owner-registration",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Landline Fixed phone location",
+            "category_link": "https://www.findandtrace.com/trace-std-landline-number",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Find Luck",
+            "category_link": "https://www.findandtrace.com/find-luck-for-mobile-number-astrology",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+		{
+            "id": "6",
+            "category_name": "Pin Code",
+            "category_link": "https://www.findandtrace.com/find-postal-pincode",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Bulk SMS",
+            "category_link": "https://www.findandtrace.com/find-postal-pincode",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}

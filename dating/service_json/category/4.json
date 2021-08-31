@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "21",
+            "category_name": "Triller",
+            "category_link": "https://triller.co/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "22",
+            "category_name": "Flip Board",
+            "category_link": "https://flipboard.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		{
+            "id": "23",
+            "category_name": "WT Social",
+            "category_link": "https://wt.social/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "24",
+            "category_name": "Flipboard",
+            "category_link": "https://flipboard.com/topic/socialmedia",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "25",
+            "category_name": "Popbase",
+            "category_link": "https://www.pop-base.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        }
+    ] 
+}

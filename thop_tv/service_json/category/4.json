@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "16",
+            "category_name": "Gazz Etta",
+            "category_link": "https://www.gazzetta.it/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "Flash Score",
+            "category_link": "https://www.flashscore.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "Mundo Deportivo",
+            "category_link": "https://www.mundodeportivo.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "19",
+            "category_name": "Kooora",
+            "category_link": "https://www.kooora.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "20",
+            "category_name": "247 Sports",
+            "category_link": "https://247sports.com/",
+            "main_category_id": "4",
+            "is_active": "1"
+        }
+    ]
+}

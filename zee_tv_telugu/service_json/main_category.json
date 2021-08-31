@@ -1,0 +1,41 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "History",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/zee_tv_telugu/img/history.png",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "List Of Programes",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/zee_tv_telugu/img/listofprogrames.png",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Reception",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/zee_tv_telugu/img/reception.png",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "References",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/zee_tv_telugu/img/references.png",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "zee_tv_telugu HD",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/zee_tv_telugu/img/colorls_hd.png",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "International",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/zee_tv_telugu/img/international.png",
+            "is_active": "1"
+        }        
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Establishment",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#Establishment",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "History",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#History",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "List of programs",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Zee_Telugu",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Award Functions",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#Award_Functions",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Sister channels",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_TV#Sister_channels",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Zee_Telugu#External_links",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}

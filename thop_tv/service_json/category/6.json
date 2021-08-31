@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "26",
+            "category_name": "YR NO",
+            "category_link": "https://www.yr.no/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "27",
+            "category_name": "Championat",
+            "category_link": "https://www.championat.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "28",
+            "category_name": "NBA",
+            "category_link": "http://nba.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "29",
+            "category_name": "Nbc Sports",
+            "category_link": "http://nbcsports.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "30",
+            "category_name": "Sofa Score",
+            "category_link": "https://www.sofascore.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        }
+    ]
+}

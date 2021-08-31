@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "16",
+            "category_name": "Reddit",
+            "category_link": "https://www.reddit.com/",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "Quora",
+            "category_link": "https://www.quora.com/",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "Digg",
+            "category_link": "https://digg.com/",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+		{
+            "id": "19",
+            "category_name": "Pinterest",
+            "category_link": "https://www.pinterest.com/",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "20",
+            "category_name": "Flip Board",
+            "category_link": "https://flipboard.com/",
+            "main_category_id": "3",
+            "is_active": "1"
+        } 
+    ]
+}

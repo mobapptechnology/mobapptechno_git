@@ -1,0 +1,47 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "32",
+            "category_name": "Polyvore",
+            "category_link": "https://www.ssense.com/en-in?utm_source=polyvore.com&utm_medium=redirect",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "33",
+            "category_name": "Etsy",
+            "category_link": "https://www.etsy.com/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "34",
+            "category_name": "Fancy",
+            "category_link": "https://fancy.com/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+		{
+            "id": "35",
+            "category_name": "Good Reads",
+            "category_link": "https://www.goodreads.com/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },		
+		{
+            "id": "36",
+            "category_name": "Twitch",
+            "category_link": "https://www.twitch.tv/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },		
+		{
+            "id": "37",
+            "category_name": "Caring Bridge",
+            "category_link": "https://www.caringbridge.org/",
+            "main_category_id": "7",
+            "is_active": "1"
+        }
+    ]
+}

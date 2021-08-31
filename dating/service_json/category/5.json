@@ -1,0 +1,54 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "26",
+            "category_name": "Yelp",
+            "category_link": "https://www.yelp.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "27",
+            "category_name": "Zomato",
+            "category_link": "https://www.zomato.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "28",
+            "category_name": "Trip Advisor",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "29",
+            "category_name": "POF",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+		{
+            "id": "30",
+            "category_name": "Trip Advisor",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+		{
+            "id": "31",
+            "category_name": "Trip Advisor",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+		{
+            "id": "32",
+            "category_name": "Trip Advisor",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "5",
+            "is_active": "1"
+        }
+    ]
+}

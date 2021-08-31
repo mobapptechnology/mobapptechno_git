@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "29",
+            "category_name": "Elpha",
+            "category_link": "https://elpha.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "30",
+            "category_name": "Yubo",
+            "category_link": "https://yubo.live/",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "31",
+            "category_name": "House Party",
+            "category_link": "https://houseparty.com/",
+            "main_category_id": "6",
+            "is_active": "1"
+        }
+    ]
+}

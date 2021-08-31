@@ -1,0 +1,75 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "37",
+            "category_name": "Citizen Services",
+            "category_link": "https://vahan.parivahan.gov.in/vahanservice/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "38",
+            "category_name": "Fancy Number",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "39",
+            "category_name": "Analytics",
+            "category_link": "https://parivahan.gov.in/analytics/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "40",
+            "category_name": "Vahan Dashboard",
+            "category_link": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "41",
+            "category_name": "National Register Services",
+            "category_link": "https://vahan.nic.in/nrservices/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "42",
+            "category_name": "Paid NR Services",
+            "category_link": "https://vahan.parivahan.gov.in/paidnrservices/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "43",
+            "category_name": "MIS Report",
+            "category_link": "https://vahan.parivahan.gov.in/vahanreport/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "44",
+            "category_name": "Backlog",
+            "category_link": "https://vahan.parivahan.gov.in/vahanbacklog/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "45",
+            "category_name": "National Permit",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+		{
+            "id": "46",
+            "category_name": "SLD Marker",
+            "category_link": "https://vahan.parivahan.gov.in/sldmaker/vahan/welcome.xhtml",
+            "main_category_id": "8",
+            "is_active": "1"
+        }		
+    ]
+}

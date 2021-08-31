@@ -1,0 +1,47 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "38",
+            "category_name": "Goodreads",
+            "category_link": "https://www.goodreads.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "39",
+            "category_name": "Houzz",
+            "category_link": "https://www.houzz.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "40",
+            "category_name": "Last",
+            "category_link": "https://www.last.fm/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "41",
+            "category_name": "Wattpad",
+            "category_link": "https://www.wattpad.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "42",
+            "category_name": "Crunchyroll",
+            "category_link": "https://www.crunchyroll.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "43",
+            "category_name": "Soundcloud",
+            "category_link": "https://soundcloud.com/",
+            "main_category_id": "8",
+            "is_active": "1"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/StarPlus#History",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "List of programmes",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#Current_broadcasts",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Upcoming broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#Upcoming_broadcasts",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Former broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#Former_broadcasts",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "See Also",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#See_also",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+		{
+            "id": "7",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#External_links",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}

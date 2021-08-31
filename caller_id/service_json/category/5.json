@@ -1,0 +1,19 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "28",
+            "category_name": "Know your Vehicle Details",
+            "category_link": "https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+		{
+            "id": "29",
+            "category_name": "Know your License Details",
+            "category_link": "https://parivahan.gov.in/rcdlstatus/?pur_cd=101",
+            "main_category_id": "5",
+            "is_active": "1"
+        }
+    ]
+}

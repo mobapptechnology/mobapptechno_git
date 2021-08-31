@@ -1,0 +1,61 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "8",
+            "category_name": "Instagram",
+            "category_link": "https://www.instagram.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Snapchat",
+            "category_link": "https://www.snapchat.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+		{
+            "id": "10",
+            "category_name": "Whisper",
+            "category_link": "http://whisper.sh/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "11", 
+            "category_name": "Ask FM",
+            "category_link": "https://ask.fm/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "After School App",
+            "category_link": "https://afterschoolapp.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+		{
+            "id": "13",
+            "category_name": "Yelp",
+            "category_link": "https://www.yelp.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Zomato",
+            "category_link": "https://www.zomato.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "Trip Advisor",
+            "category_link": "https://www.tripadvisor.ca/",
+            "main_category_id": "2",
+            "is_active": "1"
+        }
+    ]
+}

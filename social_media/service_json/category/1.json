@@ -1,0 +1,54 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Facebook",
+            "category_link": "https://www.facebook.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Twitter",
+            "category_link": "https://twitter.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Linkedin",
+            "category_link": "https://www.linkedin.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Ihago",
+            "category_link": "https://ihago.net/#/home",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Parler",
+            "category_link": "https://parler.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+		{
+            "id": "6",
+            "category_name": "Instagram",
+            "category_link": "https://www.instagram.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Snapchat",
+            "category_link": "https://www.snapchat.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}

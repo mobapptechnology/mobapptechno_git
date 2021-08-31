@@ -1,0 +1,41 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "23",
+            "category_name": "E-Challan",
+            "category_link": "https://echallan.parivahan.gov.in/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "24",
+            "category_name": "PUC",
+            "category_link": "https://vahan.parivahan.gov.in/puc/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		{
+            "id": "25",
+            "category_name": "Vahan Dashboard",
+            "category_link": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		{
+            "id": "26",
+            "category_name": "Sarthi Dashboard",
+            "category_link": "https://sarathi.parivahan.gov.in/SarathiReport/sarathiHomePublic.do",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		{
+            "id": "27",
+            "category_name": "PUC",
+            "category_link": "https://vahan.parivahan.gov.in/puc/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+		
+    ] 
+}

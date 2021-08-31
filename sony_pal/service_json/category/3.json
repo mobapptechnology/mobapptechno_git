@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#History",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Current broadcasts",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#Programming",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Original Series",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#Original_series",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Sony_Pal#External_links",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}

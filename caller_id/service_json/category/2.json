@@ -1,0 +1,61 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "8",
+            "category_name": "Apply For Learner Licence",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "CNG Maker",
+            "category_link": "https://vahan.parivahan.gov.in/cngmaker/vahan/welcome.xhtml",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+		{
+            "id": "10",
+            "category_name": "Speed Limitation Device Maker",
+            "category_link": "https://vahan.parivahan.gov.in/sldmaker/vahan/welcome.xhtml",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "11", 
+            "category_name": "North",
+            "category_link": "https://www.morth.nic.in",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "VLTD Maker",
+            "category_link": "https://vahan.parivahan.gov.in/vltdmaker/vahan/welcome.xhtml",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+		{
+            "id": "13",
+            "category_name": "ALL INDIA TOURIST PERMIT",
+            "category_link": "https://vahan.parivahan.gov.in/aitp/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Backlog",
+            "category_link": "https://vahan.parivahan.gov.in/vahanbacklog/vahan/ui/login/login.xhtml",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "National Register Devices",
+            "category_link": "https://vahan.nic.in/nrservices/",
+            "main_category_id": "2",
+            "is_active": "1"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Social Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/1_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Media Sharing Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/2_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Discussion Forums ",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/3_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Bookmarking & Content Curation Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/4_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Consumer Review Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/5_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Blogging & Publishing Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/6_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Social shopping networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/7_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Interest-Based Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/8_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Sharing Economy Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/9_dating_btn.png",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Anonymous Social Networks",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/social_media/img/10_dating_btn.png",
+            "is_active": "1"
+        }
+    ]
+}

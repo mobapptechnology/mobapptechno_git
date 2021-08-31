@@ -1,0 +1,53 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Called Id",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/called_id.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Learners License",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/learners_license.jpg",
+            "is_active": "1"            
+        },
+        {
+            "id": "3",
+            "category_name": "Fancy Number Allocation",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/fancy_number_allocation.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+			"category_name": "Driving School",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/driving_school.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Licence Details",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/licence_details.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Natiolal Permit",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/natiolal_permit.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Test Appointment",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/test_appointment.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Vehicle Registration",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/caller_id/img/vehicle_registration.jpg",
+            "is_active": "1"
+        }
+    ]
+}
