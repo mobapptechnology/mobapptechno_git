@@ -4,7 +4,7 @@
       "id": "1",
       "app_name": "Find Houses for Sale & Apartments for Rent",
       "app_img": "house_home",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/img/house_home.png",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/house_home.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_arab",
       "app_desc": "Property Search & Real Estate App"
     },
@@ -12,53 +12,41 @@
       "id": "2",
       "app_name": "Download Aadhar card, Check Aadhar Status, Update",
       "app_img": "digital_seva_rghori",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/img/digital_seva_rghori.png",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/digital_seva_rghori.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_portu",
       "app_desc": "Aadhar card, Voter id Card, Pan Card, Ration Card, Driving Licence & PF Service"
     },
     {
       "id": "3",
-      "app_name": "",
+      "app_name": "Match. Chat. Date. Your Way.",
       "app_img": "",
-      "img_logo_url": "",
-      "app_link": "https://play.google.com/store/apps/details?id=com.bse.bswn_chini",
-      "app_desc": "Aadhar card, Voter id Card, Pan Card, Ration Card, Driving Licence & PF Service"
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/dating_logo.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.bse.bswnm_arab",
+      "app_desc": "Dating, friends, relationships and everything in between. Meet new people today!"
     },
     {
       "id": "4",
-      "app_name": "Download Aadhar card, Check Aadhar Status, Update",
-      "app_img": "digital_seva_rghori",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/img/digital_seva_rghori.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_portu",
-      "app_desc": "Aadhar card, Voter id Card, Pan Card, Ration Card, Driving Licence & PF Service"
+      "app_name": "Social Media",
+      "app_img": "",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social_media.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.bhagvandads.socialmedia",
+      "app_desc": "Social Media list of all social media application at one place for everyone."
     },
     {
       "id": "5",
-      "app_name": "Download Aadhar card, Check Aadhar Status, Update",
-      "app_img": "digital_seva_rghori",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/img/digital_seva_rghori.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_portu",
-      "app_desc": "Aadhar card, Voter id Card, Pan Card, Ration Card, Driving Licence & PF Service"
+      "app_name": "Social Media Connection",
+      "app_img": "",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/socialmediaconnection.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.bse.d_seva_in_eng",
+      "app_desc": "Welcome in the world of Social Media using features of Social Media Connection."
     },
     {
       "id": "6",
-      "app_name": "Download Aadhar card, Check Aadhar Status, Update",
-      "app_img": "digital_seva_rghori",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/img/digital_seva_rghori.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_portu",
-      "app_desc": "Aadhar card, Voter id Card, Pan Card, Ration Card, Driving Licence & PF Service"
-    },
-    {
-      "id": "7",
-      "app_name": "Download Aadhar card, Check Aadhar Status, Update",
-      "app_img": "digital_seva_rghori",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/img/digital_seva_rghori.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_portu",
-      "app_desc": "Aadhar card, Voter id Card, Pan Card, Ration Card, Driving Licence & PF Service"
-    }
-
-
-    
-	
+      "app_name": "Real Estate App: Buy, Rent & Sell Property",
+      "app_img": "",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/realestate.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.bse.bswn_chini",
+      "app_desc": "Buy, Sell & Rent - Flats, Apartments, Houses, PG, No Brokerage Properties, Plots"
+    }    
   ]
 }
