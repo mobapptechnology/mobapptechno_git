@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "1",
-      "app_name": "Collage Maker - Photo Editor",
+      "app_name": "Collage Maker",
       "app_img": "picmix",
       "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/picmix.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.picmix.photogridcollagemaker",
@@ -10,15 +10,23 @@
     },
     {
       "id": "1",
-      "app_name": "Photo Video Maker & Music",
+      "app_name": "Photo Video Maker",
       "app_img": "adob",
       "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/adob.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.adob.photovideomakerwithmusic",
       "app_desc": "The best photo video maker to merge photos to create slideshow with music"
     },
     {
+      "id": "4",
+      "app_name": "Social Media",
+      "app_img": "",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social_media.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.bhagvandads.socialmedia",
+      "app_desc": "Social Media list of all social media application at one place for everyone."
+    },
+    {
       "id": "1",
-      "app_name": "Find Houses for Sale & Apartments for Rent",
+      "app_name": "Find Houses for Sale",
       "app_img": "house_home",
       "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/house_home.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_arab",
@@ -39,15 +47,7 @@
       "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/dating_logo.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.bse.bswnm_arab",
       "app_desc": "Dating, friends, relationships and everything in between. Meet new people today!"
-    },
-    {
-      "id": "4",
-      "app_name": "Social Media",
-      "app_img": "",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social_media.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.bhagvandads.socialmedia",
-      "app_desc": "Social Media list of all social media application at one place for everyone."
-    },
+    },    
     {
       "id": "5",
       "app_name": "Social Media Connection",
