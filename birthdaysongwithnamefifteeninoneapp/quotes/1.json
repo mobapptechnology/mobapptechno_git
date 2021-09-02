@@ -1,0 +1,161 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "text": "All the flowers of the tomorrows are in the seeds of today",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "2",
+            "text": "Failure will never overTake me If my determination to suceed is strong enough",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "3",
+            "text": "Leadership Is The Ability To Get Extraordinary Achievement From Ordinary People",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "4",
+            "text": "You always pass failure on the way to success",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "5",
+            "text": "Make each day your masterpiece",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "6",
+            "text": "An investment in knowledge pays the best dividends",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "7",
+            "text": "We cannot solve problems with the kind of thinking we employed when we came up with them",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "8",
+            "text": "Everything comes to you at the right time",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "9",
+            "text": "Set a goal that makes you want to jump out of bed in the morning",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "10",
+            "text": "Never give up because great things take time",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "11",
+            "text": "Challenges are what make life interesting and Overcoming them is what makes life meaningful",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "12",
+            "text": "Life is not about waiting for the storm to pass but learning to dance in the rain",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "13",
+            "text": "The sparrow is sorry for the peacock at the burden of its tail",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "14",
+            "text": "Faith is the bird that feels the light when the dawn is still dark",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "15",
+            "text": "An investment knowledge pays the best interest",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "16",
+            "text": "Anger is never without a reason but seldom with a good one",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "17",
+            "text": "It always seems impossible until its done",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "18",
+            "text": "Education is the most powerful weapon which you can use to change the world",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "19",
+            "text": "A good head and a good heart are always a formidable combination",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "20",
+            "text": "All the money you make will never buy back your soul",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "21",
+            "text": "Live as if you were to die tomorrow. Learn as if you were to live forever",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "22",
+            "text": "If you cannot do great things, do small things in a great way",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "23",
+            "text": "Change your thoughts and you change your world",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "24",
+            "text": "Always keep your eyes open. Keep watching. Because whatever you see can inspire you",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "25",
+            "text": "If the plan does not work, change the plan but never the goal",
+            "category_id": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "26",
+            "text": "You cannot save people, you can just love them",
+            "category_id": "1",
+            "is_available": "1"
+        }
+    ]
+}

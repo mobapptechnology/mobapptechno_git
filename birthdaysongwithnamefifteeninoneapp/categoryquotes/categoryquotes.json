@@ -1,0 +1,137 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "All",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/all_back.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Aunty",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/aunty.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Brother",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/brother.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Brother In Law",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/brother_in_law.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Daughter",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/daughter.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Father",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/father.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Father In Law",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/father-in-low.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Fiance",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/fiance.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Fiancee",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/fiancee.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Friend",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/friend.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "11",
+            "category_name": "Grand Father",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/grand_father.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "Grand Mother",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/grand_mother.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "13",
+            "category_name": "Husband",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/husband.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Mother",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/mother.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "Mother In Law",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/mother_in_law.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "16",
+            "category_name": "Nephew",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/nephew.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "Niece",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/niece.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "Sister",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/sister.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "19",
+            "category_name": "Sister In Law",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/sister_in_law.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "20",
+            "category_name": "Son",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/son.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "21",
+            "category_name": "Uncle",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/uncle.jpg",
+            "is_available": "1"
+        },
+        {
+            "id": "22",
+            "category_name": "Wife",
+            "category_img": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/categoryquotes/wife.jpg",
+            "is_available": "1"
+        }
+    ]
+}
