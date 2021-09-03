@@ -1,0 +1,145 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "19",
+            "category_name": "THANK YOU",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/thank_you_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "20",
+            "category_name": "RAMDAN GREETING",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/ramadan_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "21",
+            "category_name": "TEACHER APPLICATION",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/teacher_appreciation_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "22",
+            "category_name": "GET WELL",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/get_well_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "23",
+            "category_name": "CONGRATULATIONS",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/congratulations_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "24",
+            "category_name": "LOVE & ROMANCE",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/love_romance_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "25",
+            "category_name": "EVENTS & OCASSIONS",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/events_occasions_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "26",
+            "category_name": "GOOD LUCK",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/good_luck_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "27",
+            "category_name": "SYMATHY CARD",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/sympathy_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "28",
+            "category_name": "FRIENDSHIP CARD",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/friendship_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "29",
+            "category_name": "CHEER UP",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/cheer_up_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "30",
+            "category_name": "HUGS GREETING CARD",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/hugs_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "31",
+            "category_name": "MISS YOU",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/miss_you_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        },
+        {
+            "id": "32",
+            "category_name": "SORRY GREETING CARD",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/sorry_greeting_card.png",
+            "img_data_version": "2",
+            "avoid_cache": "false",
+            "is_type": "2",
+            "is_available": "1"
+        }
+    ]
+}

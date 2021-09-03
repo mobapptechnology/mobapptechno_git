@@ -1,0 +1,185 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "BIRTHDAY",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/birthday_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "BABY SHOWER",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/baby_shower_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "WEDDING",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/wedding_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "HOLIDAY",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/holiday_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "PARTY",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/party_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "ENGAGEMENT",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/engagement_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "SAVE THE DATE",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/save_the_date_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "HOUSE WARMING",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/house_Warming_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "GRADUATION",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/graduation_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "ANNIVERSARY",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/anniversary_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "11",
+            "category_name": "BBO",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/BBQ_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "MEMORIAL ANNOUNCEMENTS",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/memorial_announcements_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "13",
+            "category_name": "RETIREMENT & FAREWELL",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/retirement_farewell_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "DINNER & PARTY",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/dinner_party_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "SUMMER & POOL",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/summer_pool_party_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "16",
+            "category_name": "PROFESSIONAL EVENTS",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/professional_events_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "BRIDEL SHOWER",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/bridal_Shower_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "COCKTAIL PARTY",
+            "publisher_name": "Krishva Infotech",
+            "category_img_url": "http://services.birthdaysongwithnamemaker.com/public/img/greeting_card/greeting_card_main/category/cocktail_party_invitation_card.png",
+            "img_data_version": "1",
+            "avoid_cache": "false",
+            "is_type": "1",
+            "is_available": "1"
+        }
+    ]
+}
