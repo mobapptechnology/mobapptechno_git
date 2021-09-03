@@ -1,0 +1,95 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "21",
+            "song_name": "Birthday Song gujarati 1",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_1.mp3",
+            "song_duration": "5",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "22",
+            "song_name": "Birthday Song gujarati 2",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_2.mp3",
+            "song_duration": "3",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "23",
+            "song_name": "Birthday Song gujarati 3",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_3.mp3",
+            "song_duration": "2",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "24",
+            "song_name": "Birthday Song gujarati 4",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_4.mp3",
+            "song_duration": "1",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "25",
+            "song_name": "Birthday Song gujarati 5",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_5.mp3",
+            "song_duration": "5",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "26",
+            "song_name": "Birthday Song gujarati 6",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_6.mp3",
+            "song_duration": "9",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "27",
+            "song_name": "Birthday Song gujarati 7",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_7.mp3",
+            "song_duration": "2",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "28",
+            "song_name": "Birthday Song gujarati 8",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_8.mp3",
+            "song_duration": "9",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "29",
+            "song_name": "Birthday Song gujarati 9",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_9.mp3",
+            "song_duration": "1",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        },
+        {
+            "id": "30",
+            "song_name": "Birthday Song gujarati 10",
+            "song_url": "http://services.birthdaysongwithnamemaker.com/public/songs/birthday_song_with_name_maker_app/birthday_song_all/birthday_song_gujarati_10.mp3",
+            "song_duration": "9",
+            "song_img_title_url": "",
+            "category_id": "3",
+            "is_available": "1"
+        }
+    ]
+}
