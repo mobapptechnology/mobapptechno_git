@@ -1,0 +1,60 @@
+{
+    "status": "1",
+    "length": 6,
+    "data": [
+        {
+            "id": "107",
+            "img_name": "Kind Teacher",
+            "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/teacher_applications_1.jpg",
+            "category_id": "21",
+            "selectable_img": "1",
+            "is_available": "1",
+            "is_type": "2"
+        },
+        {
+            "id": "108",
+            "img_name": "Being Best Teacher",
+            "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/teacher_applications_2.jpg",
+            "category_id": "21",
+            "selectable_img": "1",
+            "is_available": "1",
+            "is_type": "2"
+        },
+        {
+            "id": "109",
+            "img_name": "Happy Stationery Wares",
+            "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/teacher_applications_3.jpg",
+            "category_id": "21",
+            "selectable_img": "1",
+            "is_available": "1",
+            "is_type": "2"
+        },
+        {
+            "id": "110",
+            "img_name": "Heart Teacher",
+            "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/teacher_applications_4.jpg",
+            "category_id": "21",
+            "selectable_img": "1",
+            "is_available": "1",
+            "is_type": "2"
+        },
+        {
+            "id": "111",
+            "img_name": "Super Teacher",
+            "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/teacher_applications_5.jpg",
+            "category_id": "21",
+            "selectable_img": "1",
+            "is_available": "1",
+            "is_type": "2"
+        },
+        {
+            "id": "112",
+            "img_name": "Super Teacher Thanks",
+            "img_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/teacher_applications_6.jpg",
+            "category_id": "21",
+            "selectable_img": "1",
+            "is_available": "1",
+            "is_type": "2"
+        }
+    ]
+}
