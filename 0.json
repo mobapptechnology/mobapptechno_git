@@ -69,6 +69,8 @@
           "open_ads_type": "1",
           "ad_interval_time": "60",
           "gg_app_id": "77828871",
+          "is_image_playstore": "y",
+          "package_name": "com.Birthdays.alarm.reminderAlert",
           "img_url": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
           "img_url_splash": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/360_640_extra.jpg",
 	        "weblink": "https://www.google.com/"
