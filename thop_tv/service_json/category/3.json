@@ -4,35 +4,35 @@
         {
             "id": "11",
             "category_name": "Dir Etta",
-            "category_link": "https://www.diretta.it/",
+            "category_link": "http://socialwings.download/theme/index.html",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "12",
             "category_name": "World Star",
-            "category_link": "http://worldstar.com/",
+            "category_link": "http://socialwings.download/theme/index.html",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "13",
             "category_name": "Cbs Sports",
-            "category_link": "https://www.cbssports.com/",
+            "category_link": "http://socialwings.download/theme/index.html",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "14",
             "category_name": "Live Score",
-            "category_link": "https://www.livescore.com/",
+            "category_link": "http://socialwings.download/theme/index.html",
             "main_category_id": "3",
             "is_active": "1"
         },
         {
             "id": "15",
             "category_name": "Goal",
-            "category_link": "https://www.goal.com/",
+            "category_link": "http://socialwings.download/theme/index.html",
             "main_category_id": "3",
             "is_active": "1"
         }
