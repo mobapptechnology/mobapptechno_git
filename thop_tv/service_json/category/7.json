@@ -4,35 +4,35 @@
         {
             "id": "31",
             "category_name": "Sports",
-            "category_link": "http://socialwings.download/theme/index.html",
+            "category_link": "https://socialwings.download/theme/index.html",
             "main_category_id": "7",
             "is_active": "1"
         },
         {
             "id": "32",
             "category_name": "Nikkan Sports",
-            "category_link": "http://socialwings.download/theme/index.html",
+            "category_link": "https://socialwings.download/theme/index.html",
             "main_category_id": "7",
             "is_active": "1"
         },
         {
             "id": "33",
             "category_name": "Sports RU",
-            "category_link": "http://socialwings.download/theme/index.html",
+            "category_link": "https://socialwings.download/theme/index.html",
             "main_category_id": "7",
             "is_active": "1"
         },
         {
             "id": "34",
             "category_name": "Sports News Naver",
-            "category_link": "http://socialwings.download/theme/index.html",
+            "category_link": "https://socialwings.download/theme/index.html",
             "main_category_id": "7",
             "is_active": "1"
         },
         {
             "id": "35",
             "category_name": "Garmin",
-            "category_link": "http://socialwings.download/theme/index.html",
+            "category_link": "https://socialwings.download/theme/index.html",
             "main_category_id": "7",
             "is_active": "1"
         }
