@@ -4,49 +4,49 @@
         {
             "id": "1",
             "category_name": "History Of Channel",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#Mobile_services",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Current broadcasts",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB#Current_broadcasts",
+            "category_name": "Network",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#Network",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Upcoming broadcasts",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB#Upcoming_Broadcasts",
+            "category_name": "Airtel Business",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#Airtel_Business",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "Former broadcasts",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB#Former_broadcasts",
+            "category_name": "Airtel Money",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#Airtel_Money",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Comedy Series",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB#Comedy_series",
+            "category_name": "Airtel Broadband",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#Airtel_Broadband",
             "main_category_id": "1",
             "is_active": "1"
         },
 		{
             "id": "6",
-            "category_name": "Drama Series",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB#Drama_series",
+            "category_name": "Net Neutrality Debate",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#Net_Neutrality_Debate",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "7",
             "category_name": "References",
-            "category_link": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Sony_SAB#References",
+            "category_link": "https://en.wikipedia.org/wiki/Airtel_India#References",
             "main_category_id": "1",
             "is_active": "1"
         }
