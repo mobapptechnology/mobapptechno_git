@@ -2,7 +2,7 @@
   "status": "1",
   "data": [
       {
-          "id": "96",
+          "id": "1",
           "fb_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
           "fb_native_exit_screen_first": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
           "fb_native_exit_screen_second": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -53,27 +53,27 @@
           "mopub_Native_Large": "646817862ea34b17ac6a65b84cd1a356",
           "mopub_Native_Small": "646817862ea34b17ac6a65b84cd1a356",          
           "is_slider_one": "n",          
-          "is_slider_one_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_one/get_app_list.json",          
+          "is_slider_one_url": "https://raw.githubusercontent.com/appssmart/api/main/slider/get_app_list.json",          
           "is_slider_two": "n",          
-          "is_slider_two_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/get_app_list.json",          
+          "is_slider_two_url": "https://raw.githubusercontent.com/appssmart/api/main/slider/slider_two/get_app_list.json",          
           "is_more_app": "n",
           "is_more_app_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/get_app_list.json",
-          "disclaimer_message": "The usage of our app is free and does not require any software or registration. By using our app you accept our Terms of Use.\n\n Material on this app may include links to external websites. These external information sources are outside control. It is the responsibility of the user to make his or her own decisions about the accuracy and reliability and correctness of information found. Some of the information provided on this app is supplied by third parties.\n\n It is important that all users understand that third party information is not provided or endorsed by us and your legal relationship is with the third party. Please be aware that we have not necessarily checked third party content.",
-          "app_title": "Free Apps",
+          "disclaimer_message": "APPS",
+          "app_title": "Informations",
           "is_active": "1",
-          "front_native": "4",
-          "inner_native": "2",
+          "front_native": "5",
+          "inner_native": "4",
           "interstitial_priority": "5",
-          "spalsh_interstial_type": "2",
+          "spalsh_interstial_type": "5",
           "exit_interstial_type": "5",
           "open_ads_type": "1",
           "ad_interval_time": "1",
           "gg_app_id": "77828871",
           "is_image_playstore": "n",
-          "package_name": "com.picmix.photogridcollagemaker",
-          "img_url": "",
-          "img_url_splash": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/quiz_image.jpg",
-	        "weblink": "https://664.win.predchamp.com/" 
+          "package_name": "com.Birthdays.alarm.reminderAlert",
+          "img_url": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
+          "img_url_splash": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/360_640_extra.jpg",
+	        "weblink": "https://www.google.com/"
       }
   ]
 }
