@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "6",
+            "category_name": "Yahoo Sports",
+            "category_link": "https://sports.yahoo.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "HUPU",
+            "category_link": "https://www.hupu.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Premier League",
+            "category_link": "https://www.premierleague.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Cricbuzz",
+            "category_link": "https://www.cricbuzz.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "NFL",
+            "category_link": "https://www.nfl.com/",
+            "main_category_id": "2",
+            "is_active": "1"
+        }
+    ]
+}
