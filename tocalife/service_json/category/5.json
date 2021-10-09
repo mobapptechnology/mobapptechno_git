@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "21",
+            "category_name": "Strava",
+            "category_link": "https://www.strava.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "22",
+            "category_name": "Lequipe",
+            "category_link": "https://www.lequipe.fr/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "23",
+            "category_name": "Dream11",
+            "category_link": "https://www.dream11.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "24",
+            "category_name": "Yahoo Sports",
+            "category_link": "https://sports.yahoo.co.jp/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "25",
+            "category_name": "Sky Sports",
+            "category_link": "https://www.skysports.com/",
+            "main_category_id": "5",
+            "is_active": "1"
+        }
+    ]
+}
