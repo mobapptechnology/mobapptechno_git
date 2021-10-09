@@ -1,0 +1,55 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Cricket Live Score",
+            "category_link": "https://www.espn.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Cricket Team",
+            "category_link": "https://www.cricbuzz.com/cricket-team",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "ICC Team Ranking",
+            "category_link": "https://www.cricbuzz.com/cricket-stats/icc-rankings/men/batting",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Schedule",
+            "category_link": "https://www.cricbuzz.com/cricket-schedule/upcoming-series/international",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "IPL 2021",
+            "category_link": "https://www.cricbuzz.com/cricket-series/3472/indian-premier-league-2021",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "6",
+            "category_name": "IPL 2021 - Points Table",
+            "category_link": "https://www.cricbuzz.com/cricket-series/3472/indian-premier-league-2021/points-table",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "7",
+            "category_name": "STATS",
+            "category_link": "https://www.cricbuzz.com/cricket-series/3472/indian-premier-league-2021/stats",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+		
+    ]
+}

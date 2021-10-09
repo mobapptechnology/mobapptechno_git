@@ -1,0 +1,71 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Business TV",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/business_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Devotional TV",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/devotional_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Entertainment TV",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/entertainment_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Infotainment",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/infotainment_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Kids TV",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/kids_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Lifestyle",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/lifestyle_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Movies",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/movies_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Music",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/music_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "News",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/news_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Regional",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/regional_btn.jpg",
+            "is_active": "1"
+        },
+        {
+            "id": "11",
+            "category_name": "Sports",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/thop_tv/img/sports_btn.jpg",
+            "is_active": "1"
+        }
+    ]
+}
