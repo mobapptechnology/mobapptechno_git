@@ -64,6 +64,7 @@
           "is_active": "1",
           "front_native": "5",
           "inner_native": "4",
+          "banner_priority": "1",
           "interstitial_priority": "5",
           "spalsh_interstial_type": "5",
           "exit_interstial_type": "5",
