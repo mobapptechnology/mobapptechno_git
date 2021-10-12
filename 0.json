@@ -69,6 +69,7 @@
           "spalsh_interstial_type": "5",
           "exit_interstial_type": "5",
           "open_ads_type": "1",
+          "isActivitySkip": "y",
           "ad_interval_time": "1",
           "gg_app_id": "77828871",
           "is_image_playstore": "n",
