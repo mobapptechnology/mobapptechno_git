@@ -1,0 +1,21 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "is_slider_one": "n",
+        "is_slider_one_url": "https://raw.githubusercontent.com/appssmart/api/main/slider/get_app_list.json",
+        "is_slider_two": "n",
+        "is_slider_two_url": "https://raw.githubusercontent.com/appssmart/api/main/slider/slider_two/get_app_list.json",
+        "is_more_app": "n",
+        "is_more_app_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/get_app_list.json",
+        "disclaimer_message": "APPS",
+        "is_image_playstore": "n",
+        "package_name": "com.Birthdays.alarm.reminderAlert",
+        "img_url": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_url.png",
+        "img_url_splash": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/360_640_extra.jpg",
+        "img_native_ad": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_native_ad.jpg",
+        "img_banner_ad": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_banner_ad.jpg",
+        "weblink": "https://www.google.com/"
+      }
+  ]
+}
