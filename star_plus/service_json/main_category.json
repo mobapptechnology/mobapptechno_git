@@ -4,37 +4,37 @@
         {
             "id": "1",
             "category_name": "History",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/star_plus/img/history.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/history.png",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "List Of Programes",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/star_plus/img/listofprogrames.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/listofprogrames.png",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Reception",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/star_plus/img/reception.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/reception.png",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "References",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/star_plus/img/references.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/references.png",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "star_plus HD",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/star_plus/img/colorls_hd.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/colorls_hd.png",
             "is_active": "1"
         },
         {
             "id": "6",
             "category_name": "International",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/star_plus/img/international.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/international.png",
             "is_active": "1"
         }        
     ]

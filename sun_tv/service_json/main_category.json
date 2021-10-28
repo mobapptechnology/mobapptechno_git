@@ -4,37 +4,37 @@
         {
             "id": "1",
             "category_name": "History",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/sun_tv/img/history.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sun_tv/img/history.png",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "List Of Programes",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/sun_tv/img/listofprogrames.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sun_tv/img/listofprogrames.png",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Reception",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/sun_tv/img/reception.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sun_tv/img/reception.png",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "References",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/sun_tv/img/references.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sun_tv/img/references.png",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "Sun tv HD",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/sun_tv/img/colorls_hd.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sun_tv/img/colorls_hd.png",
             "is_active": "1"
         },
         {
             "id": "6",
             "category_name": "International",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/sun_tv/img/international.png",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sun_tv/img/international.png",
             "is_active": "1"
         }        
     ]
