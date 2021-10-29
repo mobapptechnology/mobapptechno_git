@@ -1,41 +1,41 @@
-   
 {
     "status": "1",
     "data": [
         {
-            "id": "16",
-            "category_name": "Gazz Etta",
-            "category_link": "https://www.gazzetta.it/",
-            "main_category_id": "4",
+            "id": "1",
+            "category_name": "List of applications",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#List_of_applications_developed",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "17",
-            "category_name": "Flash Score",
-            "category_link": "https://www.flashscore.com/",
-            "main_category_id": "4",
+            "id": "2",
+            "category_name": "Digital Toys",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Digital_toys",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "18",
-            "category_name": "Mundo Deportivo",
-            "category_link": "https://www.mundodeportivo.com/",
-            "main_category_id": "4",
+            "id": "3",
+            "category_name": "Awards",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Awards",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "19",
-            "category_name": "Kooora",
-            "category_link": "https://www.kooora.com/",
-            "main_category_id": "4",
+            "id": "4",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#References",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "20",
-            "category_name": "247 Sports",
-            "category_link": "https://247sports.com/",
-            "main_category_id": "4",
+            "id": "5",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#External_links",
+            "main_category_id": "1",
             "is_active": "1"
         }
+
     ]
 }

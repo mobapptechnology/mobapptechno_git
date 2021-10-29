@@ -2,39 +2,47 @@
     "status": "1",
     "data": [
         {
-            "id": "21",
-            "category_name": "Strava",
-            "category_link": "https://www.strava.com/",
-            "main_category_id": "5",
+            "id": "1",
+            "category_name": "History Toca Boca",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "22",
-            "category_name": "Lequipe",
-            "category_link": "https://www.lequipe.fr/",
-            "main_category_id": "5",
+            "id": "2",
+            "category_name": "Helicopter Taxi",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Helicopter_Taxi",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "23",
-            "category_name": "Dream11",
-            "category_link": "https://www.dream11.com/",
-            "main_category_id": "5",
+            "id": "3",
+            "category_name": "Toca Tea Party",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Tea_Party",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "24",
-            "category_name": "Yahoo Sports",
-            "category_link": "https://sports.yahoo.co.jp/",
-            "main_category_id": "5",
+            "id": "4",
+            "category_name": "Toca Kitchen",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Kitchen",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "25",
-            "category_name": "Sky Sports",
-            "category_link": "https://www.skysports.com/",
-            "main_category_id": "5",
+            "id": "5",
+            "category_name": "Toca Life Series",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Life_Series",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "6",
+            "category_name": "Toca_Life: World",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Life:_World",
+            "main_category_id": "1",
             "is_active": "1"
         }
+
     ]
 }
