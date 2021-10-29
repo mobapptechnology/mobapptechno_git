@@ -3,52 +3,45 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History Of Channel",
-            "category_link": "https://nicooapp.com/",
+            "category_name": "Thiva",
+            "category_link": "https://ff.garena.com/chars/intro/en/478/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "About US",
-            "category_link": "https://nicooapp.com/#/about",
+            "category_name": "https://ff.garena.com/chars/intro/en/477/",
+            "category_link": "",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Gameplay",
-            "category_link": "https://en.wikipedia.org/wiki/Garena_Free_Fire#Gameplay",
+            "category_name": "D-bee",
+            "category_link": "https://ff.garena.com/chars/intro/en/464/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "Reception",
-            "category_link": "https://en.wikipedia.org/wiki/Garena_Free_Fire#Reception",
+            "category_name": "Maro",
+            "category_link": "https://ff.garena.com/chars/intro/en/447/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Esports",
-            "category_link": "https://en.wikipedia.org/wiki/Garena_Free_Fire#Esports",
+            "category_name": "Xayne",
+            "category_link": "https://ff.garena.com/chars/intro/en/446/",
             "main_category_id": "1",
             "is_active": "1"
-        },
-		{
-            "id": "6",
-            "category_name": "References",
-            "category_link": "https://en.wikipedia.org/wiki/Garena_Free_Fire#References",
-            "main_category_id": "1",
-            "is_active": "1"
-        },
+        },        
         {
-            "id": "7",
-            "category_name": "External_links",
-            "category_link": "https://en.wikipedia.org/wiki/Garena_Free_Fire#External_links",
+            "id": "6",
+            "category_name": "Skyler",
+            "category_link": "https://ff.garena.com/chars/intro/en/462/",
             "main_category_id": "1",
             "is_active": "1"
-        }
+        }      
     ]
 }
