@@ -38,8 +38,8 @@
         },        
         {
             "id": "6",
-            "category_name": "https://ff.garena.com/universe/en/story/",
-            "category_link": "Story",
+            "category_name": "Story",
+            "category_link": "https://ff.garena.com/universe/en/story/",
             "main_category_id": "1",
             "is_active": "1"
         }      
