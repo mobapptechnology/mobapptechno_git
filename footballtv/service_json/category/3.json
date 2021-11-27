@@ -2,39 +2,39 @@
     "status": "1",
     "data": [
         {
-            "id": "11",
-            "category_name": "Dir Etta",
-            "category_link": "https://www.diretta.it/",
-            "main_category_id": "3",
-            "is_active": "1"
-        },
-        {
-            "id": "12",
-            "category_name": "World Star",
-            "category_link": "http://worldstar.com/",
-            "main_category_id": "3",
-            "is_active": "1"
-        },
-        {
-            "id": "13",
-            "category_name": "Cbs Sports",
-            "category_link": "https://www.cbssports.com/",
-            "main_category_id": "3",
-            "is_active": "1"
-        },
-        {
-            "id": "14",
-            "category_name": "Live Score",
+            "id": "1",
+            "category_name": "Football Live Score",
             "category_link": "https://www.livescore.com/",
-            "main_category_id": "3",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "15",
-            "category_name": "Goal",
-            "category_link": "https://www.goal.com/",
-            "main_category_id": "3",
+            "id": "2",
+            "category_name": "Hockey Live Score",
+            "category_link": "https://www.livescore.com/en/hockey/",
+            "main_category_id": "1",
             "is_active": "1"
-        }
+        },
+        {
+            "id": "3",
+            "category_name": "Basketball Live Score",
+            "category_link": "https://www.livescore.com/en/basketball/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Tennis Live Score",
+            "category_link": "https://www.livescore.com/en/tennis/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Live Score",
+            "category_link": "https://www.livescore.com/en/cricket/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }		
     ]
 }

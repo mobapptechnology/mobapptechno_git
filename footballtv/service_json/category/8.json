@@ -2,39 +2,39 @@
     "status": "1",
     "data": [
         {
-            "id": "36",
-            "category_name": "Dazn",
-            "category_link": "https://www.dazn.com/",
-            "main_category_id": "8",
+            "id": "1",
+            "category_name": "Soccer Live Score",
+            "category_link": "https://www.espn.com/soccer/scoreboard",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "37",
-            "category_name": "Fantasy Pros",
-            "category_link": "https://www.fantasypros.com/",
-            "main_category_id": "8",
+            "id": "2",
+            "category_name": "Hockey Live Score",
+            "category_link": "https://www.livescore.com/en/hockey/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "38",
-            "category_name": "Espn Cric Info",
-            "category_link": "https://www.espncricinfo.com/",
-            "main_category_id": "8",
+            "id": "3",
+            "category_name": "Basketball Live Score",
+            "category_link": "https://www.livescore.com/en/basketball/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "39",
-            "category_name": "Dicks Sport in Ggoods",
-            "category_link": "https://www.dickssportinggoods.com/",
-            "main_category_id": "8",
+            "id": "4",
+            "category_name": "Tennis Live Score",
+            "category_link": "https://www.livescore.com/en/tennis/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "40",
-            "category_name": "Fanatik",
-            "category_link": "https://www.fanatik.com.tr/",
-            "main_category_id": "8",
+            "id": "5",
+            "category_name": "Live Score",
+            "category_link": "https://www.livescore.com/en/cricket/",
+            "main_category_id": "1",
             "is_active": "1"
-        }
+        }		
     ]
 }

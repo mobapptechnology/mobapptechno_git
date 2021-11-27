@@ -1,41 +1,40 @@
-   
 {
     "status": "1",
     "data": [
         {
-            "id": "16",
-            "category_name": "Gazz Etta",
-            "category_link": "https://www.gazzetta.it/",
-            "main_category_id": "4",
+            "id": "1",
+            "category_name": "Soccer Live Score",
+            "category_link": "https://www.espn.com/soccer/scoreboard",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "17",
-            "category_name": "Flash Score",
-            "category_link": "https://www.flashscore.com/",
-            "main_category_id": "4",
+            "id": "2",
+            "category_name": "Hockey Live Score",
+            "category_link": "https://www.livescore.com/en/hockey/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "18",
-            "category_name": "Mundo Deportivo",
-            "category_link": "https://www.mundodeportivo.com/",
-            "main_category_id": "4",
+            "id": "3",
+            "category_name": "Basketball Live Score",
+            "category_link": "https://www.livescore.com/en/basketball/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "19",
-            "category_name": "Kooora",
-            "category_link": "https://www.kooora.com/",
-            "main_category_id": "4",
+            "id": "4",
+            "category_name": "Tennis Live Score",
+            "category_link": "https://www.livescore.com/en/tennis/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "20",
-            "category_name": "247 Sports",
-            "category_link": "https://247sports.com/",
-            "main_category_id": "4",
+            "id": "5",
+            "category_name": "Live Score",
+            "category_link": "https://www.livescore.com/en/cricket/",
+            "main_category_id": "1",
             "is_active": "1"
-        }
+        }		
     ]
 }

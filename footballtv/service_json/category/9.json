@@ -2,39 +2,39 @@
     "status": "1",
     "data": [
         {
-            "id": "41",
-            "category_name": "Steam Powered",
-            "category_link": "https://store.steampowered.com/",
-            "main_category_id": "9",
+            "id": "1",
+            "category_name": "Football Live Score",
+            "category_link": "https://www.livescore.com/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "42",
-            "category_name": "Nba Streams",
-            "category_link": "http://nbastreams.xyz/",
-            "main_category_id": "9",
+            "id": "2",
+            "category_name": "Hockey Live Score",
+            "category_link": "https://www.livescore.com/en/hockey/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "43",
-            "category_name": "Calci Omercato",
-            "category_link": "https://www.calciomercato.com/",
-            "main_category_id": "9",
+            "id": "3",
+            "category_name": "Basketball Live Score",
+            "category_link": "https://www.livescore.com/en/basketball/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "44",
-            "category_name": "Abola",
-            "category_link": "https://abola.pt/",
-            "main_category_id": "9",
+            "id": "4",
+            "category_name": "Tennis Live Score",
+            "category_link": "https://www.livescore.com/en/tennis/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "45",
-            "category_name": "Net Shoes",
-            "category_link": "https://www.netshoes.com.br/",
-            "main_category_id": "9",
+            "id": "5",
+            "category_name": "Live Score",
+            "category_link": "https://www.livescore.com/en/cricket/",
+            "main_category_id": "1",
             "is_active": "1"
-        }
+        }		
     ]
 }
