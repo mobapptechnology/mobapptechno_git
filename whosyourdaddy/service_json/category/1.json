@@ -1,0 +1,48 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "About Touchgrind Scooter Live",
+            "category_link": "https://www.illusionlabs.com/portfolio/touchgrind-scooter-live/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "BECOME A LEGEND Step 1",
+            "category_link": "https://www.illusionlabs.com/wp-content/uploads/2021/05/scooter01.png",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "BECOME A LEGEND Step 2",
+            "category_link": "https://www.illusionlabs.com/wp-content/uploads/2021/05/scooter02.png",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "FAQ",
+            "category_link": "https://www.illusionlabs.com/touchgrind-scooter-support/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "About the Company",
+            "category_link": "https://www.illusionlabs.com/company/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "6",
+            "category_name": "Download Games",
+            "category_link": "https://www.illusionlabs.com/games/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+
+    ]
+}
