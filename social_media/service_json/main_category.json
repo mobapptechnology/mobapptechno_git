@@ -4,67 +4,170 @@
         {
             "id": "1",
             "category_name": "Facebook",
-            "category_icon": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/facebook.png",
 			"category_url": "https://www.facebook.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Twitter",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/twitter.png",
+			"category_url": "https://twitter.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Linkedin",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/linkedin.png",
+			"category_url": "https://www.linkedin.com/",
+            "is_active": "1"
+        },		
+		{
+            "id": "1",
+            "category_name": "Parler",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/parler.png",
+			"category_url": "https://parler.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Instagram",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/instagram.png",
+			"category_url": "https://www.instagram.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Snapchat",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/snapchat.png",
+			"category_url": "https://www.snapchat.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Reddit",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/reddit.png",
+			"category_url": "https://www.reddit.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Quora",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/quora.png",
+			"category_url": "https://www.quora.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Digg",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/digg.png",
+			"category_url": "https://digg.com/",
             "is_active": "1"
         },
 		{
             "id": "1",
-            "category_name": "",
-            "category_icon": "",
-			"category_url": "",
+            "category_name": "Pinterest",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/pinterest.png",
+			"category_url": "https://www.pinterest.com/",
             "is_active": "1"
         },
-		
-		
+		{
+            "id": "1",
+            "category_name": "Flip Board",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/flipboard.png",
+			"category_url": "https://flipboard.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Yelp",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/yelp.png",
+			"category_url": "https://www.yelp.com/",
+            "is_active": "1"
+        },		
+		{
+            "id": "1",
+            "category_name": "Trip Advisor",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/tripadvisor_logo.png",
+			"category_url": "https://www.tripadvisor.ca/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Wordpress",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/wordpress.png",
+			"category_url": "https://wordpress.org/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Medium",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/medium.png",
+			"category_url": "https://medium.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Tumblr",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/tumblr.png",
+			"category_url": "https://www.tumblr.com/",
+            "is_active": "1"
+        },		
+		{
+            "id": "1",
+            "category_name": "Etsy",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/etsy.png",
+			"category_url": "https://www.etsy.com/",
+            "is_active": "1"
+        },						
+		{
+            "id": "1",
+            "category_name": "Last",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/lastfm.png",
+			"category_url": "https://www.last.fm/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Airbnb",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/airbnb.png",
+			"category_url": "https://www.airbnb.ca/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Uber",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/.png",
+			"category_url": "https://www.uber.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Taskrabbit",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/.png",
+			"category_url": "https://www.taskrabbit.com/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Whisper",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/.png",
+			"category_url": "http://whisper.sh/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Ask FM",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/.png",
+			"category_url": "https://ask.fm/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "After School App",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/.png",
+			"category_url": "https://afterschoolapp.com/",
+            "is_active": "1"
+        }		
     ]
 }
