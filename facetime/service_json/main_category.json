@@ -3,39 +3,101 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History",
-            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/history.png",
+            "category_name": "History Of Channel",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://en.wikipedia.org/wiki/FaceTime",
             "is_active": "1"
         },
-        {
-            "id": "2",
-            "category_name": "List Of Programes",
-            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/listofprogrames.png",
+		{
+            "id": "1",
+            "category_name": "Video or Audio Call",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/make-a-facetime-video-or-audio-call/",
             "is_active": "1"
         },
-        {
-            "id": "3",
-            "category_name": "Reception",
-            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/reception.png",
+		{
+            "id": "1",
+            "category_name": "Visual Guide",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/how-to-facetime-call/",
             "is_active": "1"
         },
-        {
-            "id": "4",
-            "category_name": "References",
-            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/references.png",
+		{
+            "id": "1",
+            "category_name": "Microphone for Facetime",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/use-the-secondary-iphone-microphone-for-facetime/",
             "is_active": "1"
         },
-        {
-            "id": "5",
-            "category_name": "facetime HD",
-            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/colorls_hd.png",
+		{
+            "id": "1",
+            "category_name": "security issue from lock screen",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/facetime-security-issue-from-lock-screen/",
             "is_active": "1"
         },
-        {
-            "id": "6",
-            "category_name": "International",
-            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/international.png",
+		{
+            "id": "1",
+            "category_name": "Isn’t Showing Up",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/facetime-isnt-showing-up/",
             "is_active": "1"
-        }        
+        },
+		{
+            "id": "1",
+            "category_name": "Home Security Camera",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/facetime-as-a-home-security-camera/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "Simple Version",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "https://facetimeapp.com/how-to-facetime-the-simple-version/",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "",
+            "is_active": "1"
+        },
+		{
+            "id": "1",
+            "category_name": "",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/facetime/img/facetime.png",
+			"category_url": "",
+            "is_active": "1"
+        }
     ]
 }

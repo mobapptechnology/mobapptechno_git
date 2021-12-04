@@ -3,7 +3,7 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History Of Channel",
+            "category_name": "History",
             "category_link": "https://en.wikipedia.org/wiki/FaceTime",
             "main_category_id": "1",
             "is_active": "1"
