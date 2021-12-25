@@ -1,0 +1,61 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "History Of Channel",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Implementation",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Implementation",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Standards",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Standards",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "FaceTime Audio",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#FaceTime_Audio",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Limited Availability",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Limited_availability",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+		{
+            "id": "6",
+            "category_name": "Controversy",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Controversy",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/FaceTime#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+    ]
+}
