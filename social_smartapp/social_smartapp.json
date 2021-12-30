@@ -6,91 +6,91 @@
             "id": "1",
             "name": "Tiktok",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/1_tiktok.png",
-			"url": "https://www.tiktok.com/",
+			"url": "https://www.tiktok.com/"
         },
 		{
             "id": "2",
             "name": "Instagram",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/2_insta.png",
-			"url": "https://www.instagram.com/",
+			"url": "https://www.instagram.com/"
         },
 		{
             "id": "3",
             "name": "Snapchat",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/3_snapchat.png",
-			"url": "https://www.snapchat.com/",
+			"url": "https://www.snapchat.com/"
         },
 		{
             "id": "4",
             "name": "Facebook",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/4_facebook.png",
-			"url": "https://www.facebook.com/",
+			"url": "https://www.facebook.com/"
         },
 		{
             "id": "5",
             "name": "Twitter",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/5_twitter.png",
-			"url": "https://twitter.com/",            
+			"url": "https://twitter.com/"          
         },
 		{
             "id": "6",
             "name": "Reddit",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/6_reddit.png",
-			"url": "https://www.reddit.com/",            
+			"url": "https://www.reddit.com/"            
         },
 		{
             "id": "7",
             "name": "Tagged",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/7_tagged.png",
-			"url": "https://www.tagged.com/",            
+			"url": "https://www.tagged.com/"         
         },
 		{
             "id": "8",
             "name": "Tumblr",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/8_tumblr.png",
-			"url": "https://www.tumblr.com/",            
+			"url": "https://www.tumblr.com/"          
         },
 		{
             "id": "9",
             "name": "Telegram",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/_telegram.png",
-			"url": "https://telegram.org/",            
+			"url": "https://telegram.org/"         
         },
 		{
            "id": "10",
             "name": "Mojapp",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/10_mojapp.png",
-			"url": "https://mojapp.in/",           
+			"url": "https://mojapp.in/"     
         },
 		{
             "id": "11",
             "name": "WhatsApp",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/11_whatsapp.png",
-			"url": "https://www.whatsapp.com/",            
+			"url": "https://www.whatsapp.com/"            
         },
 		{
             "id": "12",
             "name": "Linkedin",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/12_linkedin.png",
-			"url": "https://www.linkedin.com/",            
+			"url": "https://www.linkedin.com/"           
         },
 		{
             "id": "13",
             "name": "Youtube",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/13_youtube.png",
-			"url": "https://www.youtube.com/",            
+			"url": "https://www.youtube.com/"          
         },
 		{
             "id": "14",
             "name": "Pinterest",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/14_pinterest.png",
-			"url": "https://pinterest.com/",            
+			"url": "https://pinterest.com/"        
         },
 		{
             "id": "15",
             "name": "Flickr",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/15_flickr.png",
-			"url": "https://www.flickr.com/",              
+			"url": "https://www.flickr.com/"           
         }
       ],
       "category":"social"
