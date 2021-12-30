@@ -91,7 +91,7 @@
             "name": "Flickr",
             "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/15_flickr.png",
 			"url": "https://www.flickr.com/"           
-        }
+        } 
       ],
       "category":"social"
    } 
