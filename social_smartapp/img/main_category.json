@@ -1,0 +1,257 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "name": "Hily",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/hily.png",
+			"url": "https://hily.com/"
+        },
+		{
+            "id": "1",
+            "name": "Hinge",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/hinge.png",
+			"url": "https://hinge.co/"
+        },
+		{
+            "id": "1",
+            "name": "Okcupid",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/okcupid.png",
+			"url": "https://www.okcupid.com/"
+        },
+		{
+            "id": "1",
+            "name": "Uk Match",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/match_dating.png",
+			"url": "https://uk.match.com/"
+        },
+		{
+            "id": "1",
+            "name": "BLK",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/blk.png",
+			"url": "https://www.blk-app.com/"
+        },
+		{
+            "id": "1",
+            "name": "Chispa",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/chispa.png",
+			"url": "https://www.chispa-app.com/"
+        },
+		{
+            "id": "1",
+            "name": "Clover",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/clover.png",
+			"url": "https://clover.co/"
+        },
+		{
+            "id": "1",
+            "name": "Mocospace",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/mocospace.png",
+			"url": "https://www.mocospace.com/"
+        },
+		{
+            "id": "1",
+            "name": "Farmers Only",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/farmersonly.png",
+			"url": "https://www.farmersonly.com/"
+        },
+		{
+            "id": "1",
+            "name": "Eharmony",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/eharmony.png",
+			"url": "https://www.eharmony.com/"
+        },
+		{
+            "id": "1",
+            "name": "Meetville",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/meetville.png",
+			"url": "https://meetville.com/"
+        },
+		{
+            "id": "1",
+            "name": "Hot or Not",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/hotornot.png",
+			"url": "https://hotornot.com/"
+        },
+		{
+            "id": "1",
+            "name": "Omegle",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/omegle.png",
+			"url": "https://www.omegle.com/"
+        },
+		{
+            "id": "1",
+            "name": "Coffee Meets Bagel",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/coffeemeetsbagel.png",
+			"url": "https://coffeemeetsbagel.com/"
+        },
+		{
+            "id": "1",
+            "name": "Black People Meet",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/blackpeoplemeet.png",
+			"url": "https://www.blackpeoplemeet.com/"
+        },
+		{
+            "id": "1",
+            "name": "Mingle2",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/mingle2.png",
+			"url": "https://mingle2.com/"
+        },
+		{
+            "id": "1",
+            "name": "Single Parent Meet",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/singleparentmeet.png",
+			"url": "https://www.singleparentmeet.com/"
+        },
+		{
+            "id": "1",
+            "name": "Our Time",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/ourtime.png",
+			"url": "https://www.ourtime.co.uk/"
+        },
+		{
+            "id": "1",
+            "name": "Christian Dating for Free",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/christiandatingforfree.png",
+			"url": "https://www.christiandatingforfree.com/"
+        },
+		{
+            "id": "1",
+            "name": "Interracialmatch",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/interracialmatch.png",
+			"url": "https://www.interracialmatch.com/"
+        },
+		{
+            "id": "1",
+            "name": "Yocutie",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/yocutie.png",
+			"url": "https://www.yocutie.com/"
+        },
+		{
+            "id": "1",
+            "name": "Blendr",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/blendr.png",
+			"url": "https://blendr.com/"
+        },
+		{
+            "id": "1",
+            "name": "Dig Dates",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/digdates.png",
+			"url": "https://digdates.com/"
+        },
+		{
+            "id": "1",
+            "name": "Fast Meet",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/fastmeet.png",
+			"url": "http://fastmeet.com/"
+        },
+		{
+            "id": "1",
+            "name": "Elite Singles",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/elitesingles.png",
+			"url": "http://singles-dating.elitesingles.com/"
+        },
+		{
+            "id": "1",
+            "name": "Muzmatch",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/muzmatch.png",
+			"url": "https://muzmatch.com/"
+        },
+		{
+            "id": "1",
+            "name": "Neenbo",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/neenbo.png",
+			"url": "https://www.neenbo.com/"
+        },
+		{
+            "id": "1",
+            "name": "Galaxy",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/galaxy.png",
+			"url": "https://in-galaxy.com/"
+        },
+		{
+            "id": "1",
+            "name": "Muslima",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/muslima.png",
+			"url": "https://www.muslima.com/"
+        },
+		{
+            "id": "1",
+            "name": "Chatroulette",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/chatroulette.png",
+			"url": "https://chatroulette.com/"
+        },
+		{
+            "id": "1",
+            "name": "Rondevo",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/rondevo.png",
+			"url": "https://rondevo.com/"
+        },
+		{
+            "id": "1",
+            "name": "Singles",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/singles.png.png",
+			"url": "https://uk.match.com"
+        },
+		{
+            "id": "1",
+            "name": "Meet4u",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/meet4u.png",
+			"url": "https://meet4u.com/"
+        },
+		{
+            "id": "1",
+            "name": "Adult Finder",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/adultfinder.png",
+			"url": "https://www.adultfinder.co/"
+        },
+		{
+            "id": "1",
+            "name": "Choice of Love",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/choiceoflove.png",
+			"url": "https://www.choiceoflove.com/"
+        },
+		{
+            "id": "1",
+            "name": "Interracial Cupid",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/interracialcupid.png",
+			"url": "https://www.interracialcupid.com/"
+        },
+		{
+            "id": "1",
+            "name": "Dilmil",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/dilmil.png",
+			"url": "https://dilmil.co/"
+        },
+		{
+            "id": "1",
+            "name": "Chat Rooms",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/chatrooms.png",
+			"url": "https://omegle.webcam/chatrooms.php"
+        },
+		{
+            "id": "1",
+            "name": "Planet Romeo",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/planetromeo.png",
+			"url": "https://www.planetromeo.com/"
+        },
+		{
+            "id": "1",
+            "name": "Latin American Cupid",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/latinamericancupid.png",
+			"url": "https://www.latinamericancupid.com/"
+        },
+		{
+            "id": "1",
+            "name": "BBW Cupid",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/bbwcupid.png",
+			"url": "https://www.bbwcupid.com/"
+        },
+		{
+            "id": "1",
+            "name": "Find My Friends",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_media/img/find_myfriends.png.png",
+			"url": "https://find-myfriends.com/"
+        }
+    ]
+}
