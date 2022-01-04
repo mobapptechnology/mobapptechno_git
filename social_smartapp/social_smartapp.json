@@ -378,7 +378,7 @@
 		{
             "id": "1",
             "name": "Single Parent Meet",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/singleparentmeet.png",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/single_parent_meet.png",
 			"url": "https://www.singleparentmeet.com/"
         },
 		{
@@ -504,7 +504,7 @@
 		{
             "id": "1",
             "name": "Chat Rooms",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chatrooms.png",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/omegle.png",
 			"url": "https://omegle.webcam/chatrooms.php"
         },
 		{
@@ -1332,7 +1332,7 @@
 		{
             "id": "1",
             "name": "Bungie",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bungie.png",
 			"url": "https://www.bungie.net/"
         },
 		{
