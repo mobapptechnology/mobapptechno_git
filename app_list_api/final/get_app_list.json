@@ -2,51 +2,51 @@
   "data": [
     {
       "id": "1",
-      "app_name": "Collage Maker",
-      "app_img": "picmix",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/picmix.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.picmix.photogridcollagemaker",
-      "app_desc": "Photo Collage Maker - photo editor & photo collage"
+      "app_name": "Track Shows & Movies",
+      "app_img": "social",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.com.movieplex.android",
+      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
     },
     {
       "id": "2",
-      "app_name": "Photo Video Maker",
-      "app_img": "adob",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/adob.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.adob.photovideomakerwithmusic",
-      "app_desc": "The best photo video maker to merge photos to create slideshow with music"
+      "app_name": "Cam Scanner",
+      "app_img": "camscanner",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/camscanner.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.camerascannerdocumentscanner.com",
+      "app_desc": "Document scanner with PDF Scanner, PDF Maker, Document Scanner, PDF Reader"
     },
     {
       "id": "3",
       "app_name": "Social Media",
-      "app_img": "",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social_media.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.bhagvandads.socialmedia",
-      "app_desc": "Social Media list of all social media application at one place for everyone."
+      "app_img": "social",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.socialmessenger.allinoneapps",
+      "app_desc": "Shopping, Social Media, Games, News, Dating, Sports, Food Delivery, Real Estate"
     },
     {
       "id": "4",
-      "app_name": "Find Houses for Sale",
-      "app_img": "house_home",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/house_home.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.rghori.bswnm_arab",
-      "app_desc": "Property Search & Real Estate App"
+      "app_name": "Face Swap, AI face swap",
+      "app_img": "faceswap",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/faceswap.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.faceappfaceswap.com",
+      "app_desc": "Swap Faces in your own photos. Funny Face Swap App with Live Camera"
     },    
     {
       "id": "5",
-      "app_name": "Match. Chat. Date. Your Way.",
-      "app_img": "",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/dating_logo.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.bse.bswnm_arab",
-      "app_desc": "Dating, friends, relationships and everything in between. Meet new people today!"
+      "app_name": "Collage Maker - Photo Editor, Photo Collage",
+      "app_img": "picmix",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/picmix.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.picmix.photogridcollagemaker",
+      "app_desc": "Photo Collage Maker - photo editor & photo collage"
     },    
     {
       "id": "6",
-      "app_name": "Social Media Connection",
-      "app_img": "",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/socialmediaconnection.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.bse.d_seva_in_eng",
-      "app_desc": "Welcome in the world of Social Media using features of Social Media Connection."
+      "app_name": "Photo Video Maker & Music",
+      "app_img": "adob",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/adob.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.adob.photovideomakerwithmusic",
+      "app_desc": "The best photo video maker to merge photos to create slideshow with music"
     }   
   ]
 }
