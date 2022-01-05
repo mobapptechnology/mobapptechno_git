@@ -1,1819 +1,1829 @@
-[
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Tiktok",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/1_tiktok.png",
-			"url": "https://www.tiktok.com/"
-        },
-		{
-            "id": "2",
-            "name": "Instagram",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/2_insta.png",
-			"url": "https://www.instagram.com/"
-        },
-		{
-            "id": "3",
-            "name": "Snapchat",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/3_snapchat.png",
-			"url": "https://www.snapchat.com/"
-        },
-		{
-            "id": "4",
-            "name": "Facebook",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/4_facebook.png",
-			"url": "https://www.facebook.com/"
-        },
-		{
-            "id": "5",
-            "name": "Twitter",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/5_twitter.png",
-			"url": "https://twitter.com/"          
-        },
-		{
-            "id": "6",
-            "name": "Reddit",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/6_reddit.png",
-			"url": "https://www.reddit.com/"            
-        },
-		{
-            "id": "7",
-            "name": "Tagged",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/7_tagged.png",
-			"url": "https://www.tagged.com/"         
-        },
-		{
-            "id": "8",
-            "name": "Tumblr",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/8_tumblr.png",
-			"url": "https://www.tumblr.com/"          
-        },
-		{
-            "id": "9",
-            "name": "Telegram",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/9_telegram.png",
-			"url": "https://telegram.org/"         
-        },
-		{
-           "id": "10",
-            "name": "Mojapp",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/10_mojapp.png",
-			"url": "https://mojapp.in/"     
-        },
-		{
-            "id": "11",
-            "name": "WhatsApp",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/11_whatsapp.png",
-			"url": "https://www.whatsapp.com/"            
-        },
-		{
-            "id": "12",
-            "name": "Linkedin",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_linkedin.png",
-			"url": "https://www.linkedin.com/"           
-        },
-		{
-            "id": "13",
-            "name": "Youtube",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/13_youtube.png",
-			"url": "https://www.youtube.com/"          
-        },
-		{
-            "id": "14",
-            "name": "Pinterest",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/14_pinterest.png",
-			"url": "https://pinterest.com/"        
-        },
-		{
-            "id": "15",
-            "name": "Flickr",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/15_flickr.png",
-			"url": "https://www.flickr.com/"           
-        }
-      ],
-      "category":"Social"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Walmart",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/1_walmart.png",
-			"url": "https://www.walmart.com/"
-        },
-		{
-            "id": "2",
-            "name": "Klarna",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/2_klarna.png",
-			"url": "https://www.klarna.com/"
-        },
-		{
-            "id": "3",
-            "name": "Amazon",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/3_amazon.png",
-			"url": "https://www.amazon.in/"
-        },
-		{
-            "id": "4",
-            "name": "Etsy",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/4_etsy.png",
-			"url": "https://www.etsy.com/"
-        },
-		{
-            "id": "5",
-            "name": "Nike",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/5_nike.png",
-			"url": "https://www.nike.com/"
-        },
-		{
-            "id": "6",
-            "name": "Affirm",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/6_affirm.png",
-			"url": "https://www.affirm.com/"
-        },
-		{
-            "id": "7",
-            "name": "Target",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/7_target.png",
-			"url": "https://www.target.com/"
-        },{
-            "id": "8",
-            "name": "Shein",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/8_shein.png",
-			"url": "https://www.shein.in/"
-        },{
-            "id": "9",
-            "name": "Wayfair",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/9_wayfair.png",
-			"url": "https://www.wayfair.com/"
-        },
-		{
-            "id": "10",
-            "name": "Afterpay",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/10_afterpay.png",
-			"url": "https://www.afterpay.com/"
-        },
-		{
-            "id": "11",
-            "name": "Bestbuy",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/11_bestbuy.png",
-			"url": "https://www.bestbuy.com/"
-        },
-		{
-            "id": "12",
-            "name": "eBay",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_ebay.png",
-			"url": "https://www.ebay.com/"
-        },
-		{
-            "id": "13",
-            "name": "Macys",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/13_macys.png",
-			"url": "https://www.macys.com/"
-        },
-		{
-            "id": "14",
-            "name": "Kohls",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/14_kohls.png",
-			"url": "https://www.kohls.com/"
-        },
-		{
-            "id": "15",
-            "name": "Homedepot",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/15_homedepot.png",
-			"url": "https://www.homedepot.com/"
-        },
-		{
-            "id": "16",
-            "name": "Rakuten",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/16_rakuten.png",
-			"url": "https://www.rakuten.com/"
-        },
-		{
-            "id": "17",
-            "name": "Samsclub",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/17_samsclub.png",
-			"url": "https://www.samsclub.com/"
-        },{
-            "id": "18",
-            "name": "Mercari",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/18_mercari.png",
-			"url": "https://www.mercari.com/"
-        },
-		{
-            "id": "19",
-            "name": "Belk",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/19_belk.png",
-			"url": "https://www.belk.com/"
-        },
-		{
-            "id": "20",
-            "name": "Lowes",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/20_lowes.png",
-			"url": "https://www.lowes.com/"
-        },
-		{
-            "id": "21",
-            "name": "Walgreens",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/21_walgreens.png",
-			"url": "https://www.walgreens.com/"
-        },
-		{
-            "id": "22",
-            "name": "Chewy",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/22_chewy.png",
-			"url": "https://www.chewy.com/"
-        },
-		{
-            "id": "23",
-            "name": "Dollargeneral",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/23_dollargeneral.png",
-			"url": "https://www.dollargeneral.com/"
-        },
-		{
-            "id": "24",
-            "name": "Aliexpress",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/24_aliexpress.png",
-			"url": "https://best.aliexpress.com/"
-        },
-		{
-            "id": "25",
-            "name": "Costco",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/25_costco.png",
-			"url": "https://www.costco.com/"
-        },{
-            "id": "26",
-            "name": "Poshmark",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/26_poshmark.png",
-			"url": "https://poshmark.com/"
-        },{
-            "id": "27",
-            "name": "Overstock",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/27_overstock.png",
-			"url": "https://www.overstock.com/"
-        },
-		{
-            "id": "28",
-            "name": "Dhgate",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/28_dhgate.png",
-			"url": "https://www.dhgate.com/"
-        },
-		{
-            "id": "29",
-            "name": "Blushmark",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/29_blushmark.png",
-			"url": "https://us.blushmark.com/"
-        },
-		{
-            "id": "30",
-            "name": "Jcpenney",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/30_jcpenney.png",
-			"url": "https://www.jcpenney.com/"
-        }
-      ],
-      "category":"Shopping"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Hily",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hily.png",
-			"url": "https://hily.com/"
-        },
-		{
-            "id": "1",
-            "name": "Hinge",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hinge.png",
-			"url": "https://hinge.co/"
-        },
-		{
-            "id": "1",
-            "name": "Okcupid",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/okcupid.png",
-			"url": "https://www.okcupid.com/"
-        },
-		{
-            "id": "1",
-            "name": "Uk Match",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/match_dating.png",
-			"url": "https://uk.match.com/"
-        },
-		{
-            "id": "1",
-            "name": "BLK",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blk.png",
-			"url": "https://www.blk-app.com/"
-        },
-		{
-            "id": "1",
-            "name": "Chispa",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chispa.png",
-			"url": "https://www.chispa-app.com/"
-        },
-		{
-            "id": "1",
-            "name": "Clover",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/clover.png",
-			"url": "https://clover.co/"
-        },
-		{
-            "id": "1",
-            "name": "Mocospace",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mocospace.png",
-			"url": "https://www.mocospace.com/"
-        },
-		{
-            "id": "1",
-            "name": "Farmers Only",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/farmersonly.png",
-			"url": "https://www.farmersonly.com/"
-        },
-		{
-            "id": "1",
-            "name": "Eharmony",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/eharmony.png",
-			"url": "https://www.eharmony.com/"
-        },
-		{
-            "id": "1",
-            "name": "Meetville",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/meetville.png",
-			"url": "https://meetville.com/"
-        },
-		{
-            "id": "1",
-            "name": "Hot or Not",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hotornot.png",
-			"url": "https://hotornot.com/"
-        },
-		{
-            "id": "1",
-            "name": "Omegle",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/omegle.png",
-			"url": "https://www.omegle.com/"
-        },
-		{
-            "id": "1",
-            "name": "Coffee Meets Bagel",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/coffeemeetsbagel.png",
-			"url": "https://coffeemeetsbagel.com/"
-        },
-		{
-            "id": "1",
-            "name": "Black People Meet",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blackpeoplemeet.png",
-			"url": "https://www.blackpeoplemeet.com/"
-        },
-		{
-            "id": "1",
-            "name": "Mingle2",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mingle2.png",
-			"url": "https://mingle2.com/"
-        },
-		{
-            "id": "1",
-            "name": "Single Parent Meet",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/single_parent_meet.png",
-			"url": "https://www.singleparentmeet.com/"
-        },
-		{
-            "id": "1",
-            "name": "Our Time",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ourtime.png",
-			"url": "https://www.ourtime.co.uk/"
-        },
-		{
-            "id": "1",
-            "name": "Christian Dating for Free",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/christiandatingforfree.png",
-			"url": "https://www.christiandatingforfree.com/"
-        },
-		{
-            "id": "1",
-            "name": "Interracialmatch",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/interracialmatch.png",
-			"url": "https://www.interracialmatch.com/"
-        },
-		{
-            "id": "1",
-            "name": "Yocutie",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yocutie.png",
-			"url": "https://www.yocutie.com/"
-        },
-		{
-            "id": "1",
-            "name": "Blendr",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blendr.png",
-			"url": "https://blendr.com/"
-        },
-		{
-            "id": "1",
-            "name": "Dig Dates",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/digdates.png",
-			"url": "https://digdates.com/"
-        },
-		{
-            "id": "1",
-            "name": "Fast Meet",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/fastmeet.png",
-			"url": "http://fastmeet.com/"
-        },
-		{
-            "id": "1",
-            "name": "Elite Singles",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/elitesingles.png",
-			"url": "http://singles-dating.elitesingles.com/"
-        },
-		{
-            "id": "1",
-            "name": "Muzmatch",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/muzmatch.png",
-			"url": "https://muzmatch.com/"
-        },
-		{
-            "id": "1",
-            "name": "Neenbo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/neenbo.png",
-			"url": "https://www.neenbo.com/"
-        },
-		{
-            "id": "1",
-            "name": "Galaxy",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/galaxy.png",
-			"url": "https://in-galaxy.com/"
-        },
-		{
-            "id": "1",
-            "name": "Muslima",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/muslima.png",
-			"url": "https://www.muslima.com/"
-        },
-		{
-            "id": "1",
-            "name": "Chatroulette",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chatroulette.png",
-			"url": "https://chatroulette.com/"
-        },
-		{
-            "id": "1",
-            "name": "Rondevo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rondevo.png",
-			"url": "https://rondevo.com/"
-        },
-		{
-            "id": "1",
-            "name": "Singles",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/singles.png",
-			"url": "https://uk.match.com"
-        },
-		{
-            "id": "1",
-            "name": "Meet4u",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/meet4u.png",
-			"url": "https://meet4u.com/"
-        },
-		{
-            "id": "1",
-            "name": "Adult Finder",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/adultfinder.png",
-			"url": "https://www.adultfinder.co/"
-        },
-		{
-            "id": "1",
-            "name": "Choice of Love",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/choiceoflove.png",
-			"url": "https://www.choiceoflove.com/"
-        },
-		{
-            "id": "1",
-            "name": "Interracial Cupid",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/interracialcupid.png",
-			"url": "https://www.interracialcupid.com/"
-        },
-		{
-            "id": "1",
-            "name": "Dilmil",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dilmil.png",
-			"url": "https://dilmil.co/"
-        },
-		{
-            "id": "1",
-            "name": "Chat Rooms",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/omegle.png",
-			"url": "https://omegle.webcam/chatrooms.php"
-        },
-		{
-            "id": "1",
-            "name": "Planet Romeo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/planetromeo.png",
-			"url": "https://www.planetromeo.com/"
-        },
-		{
-            "id": "1",
-            "name": "Latin American Cupid",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/latinamericancupid.png",
-			"url": "https://www.latinamericancupid.com/"
-        },
-		{
-            "id": "1",
-            "name": "BBW Cupid",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bbwcupid.png",
-			"url": "https://www.bbwcupid.com/"
-        },
-		{
-            "id": "1",
-            "name": "Find My Friends",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/find_myfriends.png",
-			"url": "https://find-myfriends.com/"
-        }
-      ],
-      "category":"Dating"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Espn",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/espn.png",
-			"url": "https://www.espn.com"
-        },
-		{
-            "id": "1",
-            "name": "Cricbuzz",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cricbuzz.png",
-			"url": "https://www.cricbuzz.com"
-        },
-		{
-            "id": "1",
-            "name": "Espncricinfo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/espncricinfo.png",
-			"url": "http://www.espncricinfo.com/"
-        },
-		{
-            "id": "1",
-            "name": "Live Score",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/livescore.png",
-			"url": "https://www.livescore.com/"
-        },
-		{
-            "id": "1",
-            "name": "Yahoo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yahoo.png",
-			"url": "https://www.yahoo.com"
-        },
-		{
-            "id": "1",
-            "name": "Nba",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nba.png",
-			"url": "https://www.nba.com"
-        },
-		{
-            "id": "1",
-            "name": "Goal",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/goal.png",
-			"url": "https://www.goal.com"
-        },
-		{
-            "id": "1",
-            "name": "Bleacher Report",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bleacherreport.png",
-			"url": "https://bleacherreport.com"
-        },
-		{
-            "id": "1",
-            "name": "Premier League",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/premierleague.png",
-			"url": "https://www.premierleague.com"
-        },
-		{
-            "id": "1",
-            "name": "Cbssports",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cbssports.png",
-			"url": "https://www.cbssports.com"
-        },
-		{
-            "id": "1",
-            "name": "Nhl",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nhl.png",
-			"url": "https://www.nhl.com"
-        },
-		{
-            "id": "1",
-            "name": "Flash Score",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/flashscore.png",
-			"url": "https://www.flashscore.com"
-        },
-		{
-            "id": "1",
-            "name": "Sky Sports",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/skysports.png",
-			"url": "https://www.skysports.com"
-        },
-		{
-            "id": "1",
-            "name": "Strava",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/strava.png",
-			"url": "https://www.strava.com"
-        },
-		{
-            "id": "1",
-            "name": "Nbcsports",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nbcsports.png",
-			"url": "https://www.nbcsports.com"
-        },
-		{
-            "id": "1",
-            "name": "NFL",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nfl.png",
-			"url": "https://www.nfl.com"
-        },
-		{
-            "id": "1",
-            "name": "Rei",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rei.png",
-			"url": "https://www.rei.com/"
-        },
-		{
-            "id": "1",
-            "name": "Fil Goal",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/filgoal.png",
-			"url": "https://www.filgoal.com"
-        },
-		{
-            "id": "1",
-            "name": "Formula1",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/formula1.png",
-			"url": "https://www.formula1.com"
-        },
-		{
-            "id": "1",
-            "name": "Basketball Reference",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/basketball_reference.png",
-			"url": "https://www.basketball-reference.com"
-        },
-		{
-            "id": "1",
-            "name": "Wwe",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wwe.png",
-			"url": "https://www.wwe.com"
-        },
-		{
-            "id": "1",
-            "name": "Dead Spin",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/deadspin.png",
-			"url": "https://deadspin.com"
-        },
-		{
-            "id": "1",
-            "name": "Si",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/si.png",
-			"url": "https://www.si.com"
-        },
-		{
-            "id": "1",
-            "name": "Ronaldo7",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ronaldo7.png",
-			"url": "https://www.ronaldo7.net"
-        },
-		{
-            "id": "1",
-            "name": "Soccerway",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/soccerway.png",
-			"url": "https://www.soccerway.com"
-        },
-		{
-            "id": "1",
-            "name": "Tsn",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tsn.png",
-			"url": "https://www.tsn.ca"
-        },
-		{
-            "id": "1",
-            "name": "Roto World",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rotoworld.png",
-			"url": "https://www.rotoworld.com"
-        },
-		{
-            "id": "1",
-            "name": "Ncaa",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ncaa.png",
-			"url": "https://www.ncaa.com"
-        },
-		{
-            "id": "1",
-            "name": "Who Scored",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/whoscored.png",
-			"url": "https://www.whoscored.com"
-        },
-		{
-            "id": "1",
-            "name": "N Rivals",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/n_rivals.png",
-			"url": "https://n.rivals.com"
-        },
-		{
-            "id": "1",
-            "name": "Hkjc",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hkjc.png",
-			"url": "https://www.hkjc.com/"
-        },
-		{
-            "id": "1",
-            "name": "Sherdog",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sherdog.png",
-			"url": "https://www.sherdog.com"
-        },
-		{
-            "id": "1",
-            "name": "Maxpreps",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/maxpreps.png",
-			"url": "http://www.maxpreps.com/"
-        },
-		{
-            "id": "1",
-            "name": "Pgatour",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pgatour.png",
-			"url": "https://www.pgatour.com"
-        },
-		{
-            "id": "1",
-            "name": "Football 365",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/football365.png",
-			"url": "https://www.football365.com"
-        },
-		{
-            "id": "1",
-            "name": "Nbc Sports",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nbcsports.png",
-			"url": "https://www.nbcsports.com"
-        },
-		{
-            "id": "1",
-            "name": "Active",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/active.png",
-			"url": "https://www.active.com"
-        },
-		{
-            "id": "1",
-            "name": "Fox Sports",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/foxsports.png",
-			"url": "https://www.foxsports.com"
-        },
-		{
-            "id": "1",
-            "name": "Euro Sport",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/eurosport.png",
-			"url": "https://www.eurosport.com"
-        },
-		{
-            "id": "1",
-            "name": "Ufc",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ufc.png",
-			"url": "https://www.ufc.com"
-        },
-		{
-            "id": "1",
-            "name": "Pinkbike",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pinkbike.png",
-			"url": "https://www.pinkbike.com"
-        },
-		{
-            "id": "1",
-            "name": "Soccer Stand",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/soccerstand.png",
-			"url": "https://www.soccerstand.com"
-        },
-		{
-            "id": "1",
-            "name": "Real Madrid",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/realmadrid.png",
-			"url": "https://www.realmadrid.com/"
-        }
-      ],
-      "category":"Sports"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Zillow",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/zillow.png",
-			"url": "https://www.zillow.com/"
-        },
-		{
-            "id": "1",
-            "name": "Realtor",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/realtor.png",
-			"url": "https://www.realtor.com/"
-        },
-		{
-            "id": "1",
-            "name": "Trulia",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/trulia.png",
-			"url": "https://www.trulia.com/"
-        },
-		{
-            "id": "1",
-            "name": "Home Advisor",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/homeadvisor.png",
-			"url": "https://www.homeadvisor.com/"
-        },
-		{
-            "id": "1",
-            "name": "Apartments",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/apartments.png",
-			"url": "https://www.apartments.com/"
-        },
-		{
-            "id": "1",
-            "name": "Apartment List",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/apartmentlist.png",
-			"url": "https://www.apartmentlist.com/"
-        },
-		{
-            "id": "1",
-            "name": "Redfin",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/redfin.png",
-			"url": "https://www.redfin.com/"
-        },
-		{
-            "id": "1",
-            "name": "Thumbtack",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/thumbtack.png",
-			"url": "https://www.thumbtack.com/"
-        },
-		{
-            "id": "1",
-            "name": "Vivint",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/vivint.png",
-			"url": "https://www.vivint.com/"
-        },
-		{
-            "id": "1",
-            "name": "Alfred",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/alfred.png",
-			"url": "https://alfred.camera/"
-        },
-		{
-            "id": "1",
-            "name": "hotpads",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hotpads.png",
-			"url": "https://hotpads.com/"
-        },
-		{
-            "id": "1",
-            "name": "Takl",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/takl.png",
-			"url": "https://www.takl.com/"
-        },
-		{
-            "id": "1",
-            "name": "Houzz",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/houzz.png",
-			"url": "https://www.houzz.in/"
-        },
-		{
-            "id": "1",
-            "name": "Grow It Mobile",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/growitmobile.png",
-			"url": "https://www.growitmobile.com/"
-        },
-		{
-            "id": "1",
-            "name": "Sure Universal",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sureuniversal.png",
-			"url": "https://www.sureuniversal.com/"
-        },
-		{
-            "id": "1",
-            "name": "zumper",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/zumper.png",
-			"url": "https://www.zumper.com/"
-        },
-		{
-            "id": "1",
-            "name": "Birdnet",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/birdnet.png",
-			"url": "https://birdnet.cornell.edu/"
-        },
-		{
-            "id": "1",
-            "name": "Colorsnap",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/colorsnap.png",
-			"url": "https://www.colorsnap.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ecobee",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ecobee.png",
-			"url": "https://www.ecobee.com/"
-        },
-		{
-            "id": "1",
-            "name": "Momentum Dash",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/momentumdash.png",
-			"url": "https://momentumdash.com/"
-        },
-		{
-            "id": "1",
-            "name": "Opendoor",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/opendoor.png",
-			"url": "https://www.opendoor.com/"
-        },
-		{
-            "id": "1",
-            "name": "Rent",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rent.png",
-			"url": "https://www.rent.com/"
-        },
-		{
-            "id": "1",
-            "name": "Home Design",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/home_design.png",
-			"url": "https://en.homedesign3d.net/"
-        },
-		{
-            "id": "1",
-            "name": "Appfolio",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/appfolio.png",
-			"url": "https://www.appfolio.com/"
-        },
-		{
-            "id": "1",
-            "name": "Home Snap",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/homesnap.png",
-			"url": "https://www.homesnap.com/"
-        },
-		{
-            "id": "1",
-            "name": "Lesliespool",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/lesliespool.png",
-			"url": "https://www.lesliespool.com/"
-        },
-		{
-            "id": "1",
-            "name": "Todyapp",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/todyapp.png",
-			"url": "http://todyapp.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ushud",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ushud.png",
-			"url": "https://ushud.com/"
-        },
-		{
-            "id": "1",
-            "name": "Remax",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/remax.png",
-			"url": "https://www.remax.com/"
-        },
-		{
-            "id": "1",
-            "name": "Orbitonline",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bhyve.png",
-			"url": "https://bhyve.orbitonline.com/"
-        },
-		{
-            "id": "1",
-            "name": "Homes",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/homes.png",
-			"url": "https://www.homes.com/"
-        },
-		{
-            "id": "1",
-            "name": "Rachio",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rachio.png",
-			"url": "https://www.rachio.com/"
-        },
-		{
-            "id": "1",
-            "name": "Har",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/har.png",
-			"url": "https://www.har.com/"
-        },
-		{
-            "id": "1",
-            "name": "Tiny Cammonitor",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tinycammonitor.png",
-			"url": "https://tinycammonitor.com/"
-        },
-		{
-            "id": "1",
-            "name": "Reali",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/reali.png",
-			"url": "https://www.reali.com/"
-        },
-		{
-            "id": "1",
-            "name": "Cold Wellbanker",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/coldwellbanker.png",
-			"url": "https://www.coldwellbanker.com/"
-        },
-		{
-            "id": "1",
-            "name": "Century21",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/century21.png",
-			"url": "https://www.century21.com/"
-        },
-		{
-            "id": "1",
-            "name": "Schlage",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/schlage.png",
-			"url": "https://www.schlage.com/"
-        },
-		{
-            "id": "1",
-            "name": "Roomsketcher",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/roomsketcher.png",
-			"url": "https://www.roomsketcher.com/"
-        },
-		{
-            "id": "1",
-            "name": "Nocable",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nocable.png",
-			"url": "https://nocable.org/"
-        },
-		{
-            "id": "1",
-            "name": "Ecovacs",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ecovacs.png",
-			"url": "https://www.ecovacs.com/us"
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": "https://www.cricbuzz.com/"
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        },
-		{
-            "id": "1",
-            "name": "",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
-			"url": ""
-        }
-      ],
-      "category":"Property"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Twitch",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/twitch.png",
-			"url": "https://www.twitch.tv/"
-        },
-		{
-            "id": "1",
-            "name": "Roblox",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/roblox.png",
-			"url": "https://www.roblox.com/"
-        },
-		{
-            "id": "1",
-            "name": "Steampowered",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/steampowered.png",
-			"url": "https://store.steampowered.com/"
-        },
-		{
-            "id": "1",
-            "name": "Gamespot",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/gamespot.png",
-			"url": "https://www.gamespot.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ign",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/in_ign.png",
-			"url": "https://in.ign.com/"
-        },
-		{
-            "id": "1",
-            "name": "EA",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ea.png",
-			"url": "https://www.ea.com/"
-        },
-		{
-            "id": "1",
-            "name": "League of Legends",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/leagueoflegends.png",
-			"url": "https://play.euw.leagueoflegends.com/"
-        },
-		{
-            "id": "1",
-            "name": "Playstation",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/playstation.png",
-			"url": "https://www.playstation.com/"
-        },
-		{
-            "id": "1",
-            "name": "Nexusmods",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nexusmods.png",
-			"url": "https://www.nexusmods.com/"
-        },
-		{
-            "id": "1",
-            "name": "Epicgames",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/epicgames.png",
-			"url": "https://www.epicgames.com/"
-        },
-		{
-            "id": "1",
-            "name": "Chess",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chess.png",
-			"url": "https://www.chess.com/"
-        },
-		{
-            "id": "1",
-            "name": "Wowhead",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wowhead.png",
-			"url": "https://www.wowhead.com/"
-        },
-		{
-            "id": "1",
-            "name": "Nvidia",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nvidia.png",
-			"url": "https://www.nvidia.com/"
-        },
-		{
-            "id": "1",
-            "name": "Blizzard",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blizzard.png",
-			"url": "https://www.blizzard.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ubisoft",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ubisoft.png",
-			"url": "https://www.ubisoft.com/"
-        },
-		{
-            "id": "1",
-            "name": "pcgamer",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pcgamer.png",
-			"url": "https://www.pcgamer.com/"
-        },
-		{
-            "id": "1",
-            "name": "Unity",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/unity.png",
-			"url": "https://unity.com/"
-        },
-		{
-            "id": "1",
-            "name": "Nintendo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nintendo.png",
-			"url": "https://www.nintendo.com/"
-        },
-		{
-            "id": "1",
-            "name": "Xbox",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/xbox.png",
-			"url": "https://www.xbox.com/"
-        },
-		{
-            "id": "1",
-            "name": "bulbagarden",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bulbagarden.png",
-			"url": "https://bulbagarden.net/"
-        },
-		{
-            "id": "1",
-            "name": "Minecraft",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/minecraft.png",
-			"url": "https://www.minecraft.net/"
-        },
-		{
-            "id": "1",
-            "name": "Board Gamegeek",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/boardgamegeek.png",
-			"url": "https://boardgamegeek.com/"
-        },
-		{
-            "id": "1",
-            "name": "Rockstar Games",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rockstargames.png",
-			"url": "https://www.rockstargames.com/"
-        },
-		{
-            "id": "1",
-            "name": "Itch",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/itch.png",
-			"url": "https://itch.io/"
-        },
-		{
-            "id": "1",
-            "name": "Eurogamer",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/eurogamer.png",
-			"url": "https://www.eurogamer.net/"
-        },
-		{
-            "id": "1",
-            "name": "Sporcle",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sporcle.png",
-			"url": "https://www.sporcle.com/"
-        },
-		{
-            "id": "1",
-            "name": "Wizards",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wizards.png",
-			"url": "http://company.wizards.com/"
-        },
-		{
-            "id": "1",
-            "name": "Miniclip",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/miniclip.png",
-			"url": "https://www.miniclip.com/"
-        },
-		{
-            "id": "1",
-            "name": "Square Enix",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/square_enix.png",
-			"url": "https://www.square-enix.com/"
-        },
-		{
-            "id": "1",
-            "name": "Gamesradar",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/gamesradar.png",
-			"url": "https://www.gamesradar.com/"
-        },
-		{
-            "id": "1",
-            "name": "Easports",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/easports.png",
-			"url": "https://www.easports.com/"
-        },
-		{
-            "id": "1",
-            "name": "Runescape",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/runescape.png",
-			"url": "https://www.runescape.com/"
-        },
-		{
-            "id": "1",
-            "name": "Minecraft Forum",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/minecraftforum.png",
-			"url": "https://www.minecraftforum.net/"
-        },
-		{
-            "id": "1",
-            "name": "Bungie",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bungie.png",
-			"url": "https://www.bungie.net/"
-        },
-		{
-            "id": "1",
-            "name": "Mtggoldfish",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mtggoldfish.png",
-			"url": "https://www.mtggoldfish.com/"
-        },
-		{
-            "id": "1",
-            "name": "Pokemon",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pokemon.png",
-			"url": "https://www.pokemon.com/"
-        },
-		{
-            "id": "1",
-            "name": "Vg247",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/vg247.png",
-			"url": "https://www.vg247.com/"
-        },
-		{
-            "id": "1",
-            "name": "Betfair",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/betfair.png",
-			"url": "http://www.betfair.com/"
-        },
-		{
-            "id": "1",
-            "name": "Games Workshop",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/games_workshop.png",
-			"url": "http://games-workshop.com/"
-        },
-		{
-            "id": "1",
-            "name": "Orbitz",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/Orbitz.png",
-			"url": "https://www.orbitz.com/"
-        }
-      ],
-      "category":"All In 1 Games"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Newsbreakapp",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/newsbreakapp.png",
-			"url": "http://www.newsbreakapp.com/"
-        },
-		{
-            "id": "1",
-            "name": "twitter",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/twitter.png",
-			"url": "https://twitter.com/"
-        },
-		{
-            "id": "1",
-            "name": "Reddit",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/reddit.png",
-			"url": "https://www.reddit.com/"
-        },
-		{
-            "id": "1",
-            "name": "Smart News",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/smartnews.png",
-			"url": "https://www.smartnews.com/"
-        },
-		{
-            "id": "1",
-            "name": "Castbox",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/castbox.png",
-			"url": "https://castbox.fm/"
-        },
-		{
-            "id": "1",
-            "name": "Podcoin",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/podcoin.png",
-			"url": "https://www.podcoin.com/"
-        },
-		{
-            "id": "1",
-            "name": "Jailbase",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/jailbase.png",
-			"url": "https://www.jailbase.com/"
-        },
-		{
-            "id": "1",
-            "name": "Cnn",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cnn.png",
-			"url": "https://edition.cnn.com/"
-        },
-		{
-            "id": "1",
-            "name": "Foxnews",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/foxnews.png",
-			"url": "https://www.foxnews.com/"
-        },
-		{
-            "id": "1",
-            "name": "Nytimes",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nytimes.png",
-			"url": "https://www.nytimes.com/"
-        },
-		{
-            "id": "1",
-            "name": "Yahoo",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yahoo.png",
-			"url": "https://sports.yahoo.com/"
-        },
-		{
-            "id": "1",
-            "name": "Google",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/google.png",
-			"url": "https://news.google.com/"
-        },
-		{
-            "id": "1",
-            "name": "Aol",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/aol.png",
-			"url": "https://www.aol.com/"
-        },
-		{
-            "id": "1",
-            "name": "The Citizen",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/thecitizen.png",
-			"url": "https://thecitizen.com/"
-        },
-		{
-            "id": "1",
-            "name": "Podcast",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/podcast.png",
-			"url": "https://podcast.app/"
-        },
-		{
-            "id": "1",
-            "name": "Broad Castify",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/broadcastify.png",
-			"url": "https://www.broadcastify.com/"
-        },
-		{
-            "id": "1",
-            "name": "Medium",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/medium.png",
-			"url": "https://medium.com/"
-        },
-		{
-            "id": "1",
-            "name": "BBC",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bbc.png",
-			"url": "https://www.bbc.com/news"
-        },
-		{
-            "id": "1",
-            "name": "Cbs News",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cbsnews.png",
-			"url": "https://www.cbsnews.com/"
-        },
-		{
-            "id": "1",
-            "name": "Washington Post",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/washingtonpost.png",
-			"url": "https://www.washingtonpost.com/"
-        },
-		{
-            "id": "1",
-            "name": "Npr",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/npr.png",
-			"url": "https://www.npr.org/"
-        },
-		{
-            "id": "1",
-            "name": "briefing",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/briefing.png",
-			"url": "https://www.briefing.com/"
-        },
-		{
-            "id": "1",
-            "name": "one Npr",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/one_npr.png",
-			"url": "https://one.npr.org/"
-        },
-		{
-            "id": "1",
-            "name": "China Daily",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chinadaily.png",
-			"url": "http://www.chinadaily.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ap News",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/apnews.png",
-			"url": "https://www.apnews.com/"
-        },
-		{
-            "id": "1",
-            "name": "Microsoft",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/microsoft.png",
-			"url": "https://news.microsoft.com/"
-        },
-		{
-            "id": "1",
-            "name": "Buzzfeed",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/buzzfeed.png",
-			"url": "https://www.buzzfeed.com/"
-        },
-		{
-            "id": "1",
-            "name": "Msnbc",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/msnbc.png",
-			"url": "https://www.msnbc.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ultimasnoticias",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ultimasnoticias.png",
-			"url": "http://www.ultimasnoticias.com."
-        },
-		{
-            "id": "1",
-            "name": "Wsj",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wsj.png",
-			"url": "https://www.wsj.com/"
-        },
-		{
-            "id": "1",
-            "name": "Boostforreddit",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/boostforreddit.png",
-			"url": "http://boostforreddit.com/"
-        },
-		{
-            "id": "1",
-            "name": "Abcnews",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/abcnews.png",
-			"url": "https://abcnews.go.com/"
-        },
-		{
-            "id": "1",
-            "name": "Getpocket",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/getpocket.png",
-			"url": "https://getpocket.com/"
-        },
-		{
-            "id": "1",
-            "name": "Bloomberg",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bloomberg.png",
-			"url": "https://www.bloomberg.com/"
-        },
-		{
-            "id": "1",
-            "name": "Univision",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/univision.png",
-			"url": "https://www.univision.com/"
-        },
-		{
-            "id": "1",
-            "name": "Oann",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/oann.png",
-			"url": "https://www.oann.com/"
-        },
-		{
-            "id": "1",
-            "name": "telemundopr",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/telemundopr.png",
-			"url": "https://www.telemundopr.com/"
-        },
-		{
-            "id": "1",
-            "name": "Cnet",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cnet.png",
-			"url": "https://www.cnet.com/"
-        },
-		{
-            "id": "1",
-            "name": "Illinois Lottery",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/illinoislottery.png",
-			"url": "https://www.illinoislottery.com/"
-        },
-		{
-            "id": "1",
-            "name": "Abc13",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/abc13.png",
-			"url": "https://abc13.com/"
-        },
-		{
-            "id": "1",
-            "name": "Reuters",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/reuters.png",
-			"url": "https://reuters.com/"
-        },
-		{
-            "id": "1",
-            "name": "Dailymail",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dailymail.png",
-			"url": "https://www.dailymail.co.uk/"
-        }
-      ],
-      "category":"News"
-   },
-   {
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
-      "appList":[
-         {
-            "id": "1",
-            "name": "Doordash",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/doordash.png",
-			"url": "https://www.doordash.com/"
-        },
-		{
-            "id": "1",
-            "name": "Ubereats",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ubereats.png",
-			"url": "https://u.ubereats.com/"
-        },
-		{
-            "id": "1",
-            "name": "Grubhub",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/grubhub.png",
-			"url": "https://www.grubhub.com/"
-        },
-		{
-            "id": "1",
-            "name": "Mcdonalds",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mcdonalds.png",
-			"url": "https://www.mcdonalds.com"
-        },
-		{
-            "id": "1",
-            "name": "postmates",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/postmates.png",
-			"url": "https://postmates.com/"
-        },
-		{
-            "id": "1",
-            "name": "Starbucks",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/starbucks.png",
-			"url": "https://www.starbucks.com/"
-        },
-		{
-            "id": "1",
-            "name": "Sonic Drive in",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sonicdrivein.png",
-			"url": "https://www.sonicdrivein.com/"
-        },
-		{
-            "id": "1",
-            "name": "Dominos",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dominos.png",
-			"url": "https://www.dominos.com/"
-        },
-		{
-            "id": "1",
-            "name": "Chick",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chick.png",
-			"url": "www.chick-fil-a.com/"
-        },
-		{
-            "id": "1",
-            "name": "Burger King",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/burger_king.png",
-			"url": "https://www.bk.com/"
-        },
-		{
-            "id": "1",
-            "name": "Subway",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/subway.png",
-			"url": "https://www.subway.com"
-        },
-		{
-            "id": "1",
-            "name": "Littlecaesars",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/littlecaesars.png",
-			"url": "https://littlecaesars.com"
-        },{
-            "id": "1",
-            "name": "Murphydriverewards",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/murphydriverewards.png",
-			"url": "https://www.murphydriverewards.com/"
-        },
-		{
-            "id": "1",
-            "name": "Pizzahut",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pizzahut.png",
-			"url": "https://www.pizzahut.com/"
-        },
-		{
-            "id": "1",
-            "name": "Instacart",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/instacart.png",
-			"url": "https://www.instacart.com/"
-        },
-		{
-            "id": "1",
-            "name": "tasty",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tasty.png",
-			"url": "https://tasty.co/"
-        },
-		{
-            "id": "1",
-            "name": "Tacobell",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tacobell.png",
-			"url": "https://www.tacobell.com/"
-        },
-		{
-            "id": "1",
-            "name": "Chipotle",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chipotle.png",
-			"url": "https://www.chipotle.com/"
-        },
-		{
-            "id": "1",
-            "name": "Wendys",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wendys.png",
-			"url": "https://www.wendys.com/"
-        },
-		{
-            "id": "1",
-            "name": "Dunkin India",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dunkinindia.png",
-			"url": "http://www.dunkinindia.com/"
-        },
-		{
-            "id": "1",
-            "name": "Dairy Queen",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dairyqueen.png",
-			"url": "https://www.dairyqueen.com/"
-        },
-		{
-            "id": "1",
-            "name": "Papa Johns",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/papajohns.png",
-			"url": "https://www.papajohns.com/"
-        },
-		{
-            "id": "1",
-            "name": "Gopuff",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/gopuff.png",
-			"url": "https://gopuff.com"
-        },
-		{
-            "id": "1",
-            "name": "Panera Bread",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/panerabread.png",
-			"url": "https://www.panerabread.com/"
-        },{
-            "id": "1",
-            "name": "Delivery.png",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/delivery.png",
-			"url": "https://delivery.7-eleven.com/"
-        },
-		{
-            "id": "1",
-            "name": "Waitrapp",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/waitrapp.png",
-			"url": "https://waitrapp.com/"
-        },
-		{
-            "id": "1",
-            "name": "Yummly",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yummly.png",
-			"url": "https://www.yummly.com/"
-        },
-		{
-            "id": "1",
-            "name": "Popeyes",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/popeyes.png",
-			"url": "https://popeyes.com/"
-        },
-		{
-            "id": "1",
-            "name": "Slice Life",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/slicelife.png",
-			"url": "https://slicelife.com/"
-        },
-		{
-            "id": "1",
-            "name": "Jackinthe Box",
-            "appIcon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/jackinthebox.png",
-			"url": "https://www.jackinthebox.com/"
-        }
-      ],
-      "category":"Food Delivery"
-   }
-]
+{
+   "status":"1",
+   "data":[
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Tiktok",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/1_tiktok.png",
+               "url":"https://www.tiktok.com/"
+            },
+            {
+               "id":"2",
+               "name":"Instagram",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/2_insta.png",
+               "url":"https://www.instagram.com/"
+            },
+            {
+               "id":"3",
+               "name":"Snapchat",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/3_snapchat.png",
+               "url":"https://www.snapchat.com/"
+            },
+            {
+               "id":"4",
+               "name":"Facebook",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/4_facebook.png",
+               "url":"https://www.facebook.com/"
+            },
+            {
+               "id":"5",
+               "name":"Twitter",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/5_twitter.png",
+               "url":"https://twitter.com/"
+            },
+            {
+               "id":"6",
+               "name":"Reddit",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/6_reddit.png",
+               "url":"https://www.reddit.com/"
+            },
+            {
+               "id":"7",
+               "name":"Tagged",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/7_tagged.png",
+               "url":"https://www.tagged.com/"
+            },
+            {
+               "id":"8",
+               "name":"Tumblr",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/8_tumblr.png",
+               "url":"https://www.tumblr.com/"
+            },
+            {
+               "id":"9",
+               "name":"Telegram",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/9_telegram.png",
+               "url":"https://telegram.org/"
+            },
+            {
+               "id":"10",
+               "name":"Mojapp",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/10_mojapp.png",
+               "url":"https://mojapp.in/"
+            },
+            {
+               "id":"11",
+               "name":"WhatsApp",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/11_whatsapp.png",
+               "url":"https://www.whatsapp.com/"
+            },
+            {
+               "id":"12",
+               "name":"Linkedin",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_linkedin.png",
+               "url":"https://www.linkedin.com/"
+            },
+            {
+               "id":"13",
+               "name":"Youtube",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/13_youtube.png",
+               "url":"https://www.youtube.com/"
+            },
+            {
+               "id":"14",
+               "name":"Pinterest",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/14_pinterest.png",
+               "url":"https://pinterest.com/"
+            },
+            {
+               "id":"15",
+               "name":"Flickr",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/15_flickr.png",
+               "url":"https://www.flickr.com/"
+            }
+         ],
+         "category":"Social"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Walmart",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/1_walmart.png",
+               "url":"https://www.walmart.com/"
+            },
+            {
+               "id":"2",
+               "name":"Klarna",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/2_klarna.png",
+               "url":"https://www.klarna.com/"
+            },
+            {
+               "id":"3",
+               "name":"Amazon",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/3_amazon.png",
+               "url":"https://www.amazon.in/"
+            },
+            {
+               "id":"4",
+               "name":"Etsy",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/4_etsy.png",
+               "url":"https://www.etsy.com/"
+            },
+            {
+               "id":"5",
+               "name":"Nike",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/5_nike.png",
+               "url":"https://www.nike.com/"
+            },
+            {
+               "id":"6",
+               "name":"Affirm",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/6_affirm.png",
+               "url":"https://www.affirm.com/"
+            },
+            {
+               "id":"7",
+               "name":"Target",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/7_target.png",
+               "url":"https://www.target.com/"
+            },
+            {
+               "id":"8",
+               "name":"Shein",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/8_shein.png",
+               "url":"https://www.shein.in/"
+            },
+            {
+               "id":"9",
+               "name":"Wayfair",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/9_wayfair.png",
+               "url":"https://www.wayfair.com/"
+            },
+            {
+               "id":"10",
+               "name":"Afterpay",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/10_afterpay.png",
+               "url":"https://www.afterpay.com/"
+            },
+            {
+               "id":"11",
+               "name":"Bestbuy",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/11_bestbuy.png",
+               "url":"https://www.bestbuy.com/"
+            },
+            {
+               "id":"12",
+               "name":"eBay",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_ebay.png",
+               "url":"https://www.ebay.com/"
+            },
+            {
+               "id":"13",
+               "name":"Macys",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/13_macys.png",
+               "url":"https://www.macys.com/"
+            },
+            {
+               "id":"14",
+               "name":"Kohls",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/14_kohls.png",
+               "url":"https://www.kohls.com/"
+            },
+            {
+               "id":"15",
+               "name":"Homedepot",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/15_homedepot.png",
+               "url":"https://www.homedepot.com/"
+            },
+            {
+               "id":"16",
+               "name":"Rakuten",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/16_rakuten.png",
+               "url":"https://www.rakuten.com/"
+            },
+            {
+               "id":"17",
+               "name":"Samsclub",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/17_samsclub.png",
+               "url":"https://www.samsclub.com/"
+            },
+            {
+               "id":"18",
+               "name":"Mercari",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/18_mercari.png",
+               "url":"https://www.mercari.com/"
+            },
+            {
+               "id":"19",
+               "name":"Belk",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/19_belk.png",
+               "url":"https://www.belk.com/"
+            },
+            {
+               "id":"20",
+               "name":"Lowes",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/20_lowes.png",
+               "url":"https://www.lowes.com/"
+            },
+            {
+               "id":"21",
+               "name":"Walgreens",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/21_walgreens.png",
+               "url":"https://www.walgreens.com/"
+            },
+            {
+               "id":"22",
+               "name":"Chewy",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/22_chewy.png",
+               "url":"https://www.chewy.com/"
+            },
+            {
+               "id":"23",
+               "name":"Dollargeneral",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/23_dollargeneral.png",
+               "url":"https://www.dollargeneral.com/"
+            },
+            {
+               "id":"24",
+               "name":"Aliexpress",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/24_aliexpress.png",
+               "url":"https://best.aliexpress.com/"
+            },
+            {
+               "id":"25",
+               "name":"Costco",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/25_costco.png",
+               "url":"https://www.costco.com/"
+            },
+            {
+               "id":"26",
+               "name":"Poshmark",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/26_poshmark.png",
+               "url":"https://poshmark.com/"
+            },
+            {
+               "id":"27",
+               "name":"Overstock",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/27_overstock.png",
+               "url":"https://www.overstock.com/"
+            },
+            {
+               "id":"28",
+               "name":"Dhgate",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/28_dhgate.png",
+               "url":"https://www.dhgate.com/"
+            },
+            {
+               "id":"29",
+               "name":"Blushmark",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/29_blushmark.png",
+               "url":"https://us.blushmark.com/"
+            },
+            {
+               "id":"30",
+               "name":"Jcpenney",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/30_jcpenney.png",
+               "url":"https://www.jcpenney.com/"
+            }
+         ],
+         "category":"Shopping"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Hily",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hily.png",
+               "url":"https://hily.com/"
+            },
+            {
+               "id":"1",
+               "name":"Hinge",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hinge.png",
+               "url":"https://hinge.co/"
+            },
+            {
+               "id":"1",
+               "name":"Okcupid",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/okcupid.png",
+               "url":"https://www.okcupid.com/"
+            },
+            {
+               "id":"1",
+               "name":"Uk Match",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/match_dating.png",
+               "url":"https://uk.match.com/"
+            },
+            {
+               "id":"1",
+               "name":"BLK",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blk.png",
+               "url":"https://www.blk-app.com/"
+            },
+            {
+               "id":"1",
+               "name":"Chispa",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chispa.png",
+               "url":"https://www.chispa-app.com/"
+            },
+            {
+               "id":"1",
+               "name":"Clover",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/clover.png",
+               "url":"https://clover.co/"
+            },
+            {
+               "id":"1",
+               "name":"Mocospace",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mocospace.png",
+               "url":"https://www.mocospace.com/"
+            },
+            {
+               "id":"1",
+               "name":"Farmers Only",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/farmersonly.png",
+               "url":"https://www.farmersonly.com/"
+            },
+            {
+               "id":"1",
+               "name":"Eharmony",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/eharmony.png",
+               "url":"https://www.eharmony.com/"
+            },
+            {
+               "id":"1",
+               "name":"Meetville",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/meetville.png",
+               "url":"https://meetville.com/"
+            },
+            {
+               "id":"1",
+               "name":"Hot or Not",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hotornot.png",
+               "url":"https://hotornot.com/"
+            },
+            {
+               "id":"1",
+               "name":"Omegle",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/omegle.png",
+               "url":"https://www.omegle.com/"
+            },
+            {
+               "id":"1",
+               "name":"Coffee Meets Bagel",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/coffeemeetsbagel.png",
+               "url":"https://coffeemeetsbagel.com/"
+            },
+            {
+               "id":"1",
+               "name":"Black People Meet",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blackpeoplemeet.png",
+               "url":"https://www.blackpeoplemeet.com/"
+            },
+            {
+               "id":"1",
+               "name":"Mingle2",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mingle2.png",
+               "url":"https://mingle2.com/"
+            },
+            {
+               "id":"1",
+               "name":"Single Parent Meet",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/single_parent_meet.png",
+               "url":"https://www.singleparentmeet.com/"
+            },
+            {
+               "id":"1",
+               "name":"Our Time",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ourtime.png",
+               "url":"https://www.ourtime.co.uk/"
+            },
+            {
+               "id":"1",
+               "name":"Christian Dating for Free",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/christiandatingforfree.png",
+               "url":"https://www.christiandatingforfree.com/"
+            },
+            {
+               "id":"1",
+               "name":"Interracialmatch",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/interracialmatch.png",
+               "url":"https://www.interracialmatch.com/"
+            },
+            {
+               "id":"1",
+               "name":"Yocutie",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yocutie.png",
+               "url":"https://www.yocutie.com/"
+            },
+            {
+               "id":"1",
+               "name":"Blendr",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blendr.png",
+               "url":"https://blendr.com/"
+            },
+            {
+               "id":"1",
+               "name":"Dig Dates",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/digdates.png",
+               "url":"https://digdates.com/"
+            },
+            {
+               "id":"1",
+               "name":"Fast Meet",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/fastmeet.png",
+               "url":"http://fastmeet.com/"
+            },
+            {
+               "id":"1",
+               "name":"Elite Singles",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/elitesingles.png",
+               "url":"http://singles-dating.elitesingles.com/"
+            },
+            {
+               "id":"1",
+               "name":"Muzmatch",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/muzmatch.png",
+               "url":"https://muzmatch.com/"
+            },
+            {
+               "id":"1",
+               "name":"Neenbo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/neenbo.png",
+               "url":"https://www.neenbo.com/"
+            },
+            {
+               "id":"1",
+               "name":"Galaxy",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/galaxy.png",
+               "url":"https://in-galaxy.com/"
+            },
+            {
+               "id":"1",
+               "name":"Muslima",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/muslima.png",
+               "url":"https://www.muslima.com/"
+            },
+            {
+               "id":"1",
+               "name":"Chatroulette",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chatroulette.png",
+               "url":"https://chatroulette.com/"
+            },
+            {
+               "id":"1",
+               "name":"Rondevo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rondevo.png",
+               "url":"https://rondevo.com/"
+            },
+            {
+               "id":"1",
+               "name":"Singles",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/singles.png",
+               "url":"https://uk.match.com"
+            },
+            {
+               "id":"1",
+               "name":"Meet4u",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/meet4u.png",
+               "url":"https://meet4u.com/"
+            },
+            {
+               "id":"1",
+               "name":"Adult Finder",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/adultfinder.png",
+               "url":"https://www.adultfinder.co/"
+            },
+            {
+               "id":"1",
+               "name":"Choice of Love",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/choiceoflove.png",
+               "url":"https://www.choiceoflove.com/"
+            },
+            {
+               "id":"1",
+               "name":"Interracial Cupid",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/interracialcupid.png",
+               "url":"https://www.interracialcupid.com/"
+            },
+            {
+               "id":"1",
+               "name":"Dilmil",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dilmil.png",
+               "url":"https://dilmil.co/"
+            },
+            {
+               "id":"1",
+               "name":"Chat Rooms",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/omegle.png",
+               "url":"https://omegle.webcam/chatrooms.php"
+            },
+            {
+               "id":"1",
+               "name":"Planet Romeo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/planetromeo.png",
+               "url":"https://www.planetromeo.com/"
+            },
+            {
+               "id":"1",
+               "name":"Latin American Cupid",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/latinamericancupid.png",
+               "url":"https://www.latinamericancupid.com/"
+            },
+            {
+               "id":"1",
+               "name":"BBW Cupid",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bbwcupid.png",
+               "url":"https://www.bbwcupid.com/"
+            },
+            {
+               "id":"1",
+               "name":"Find My Friends",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/find_myfriends.png",
+               "url":"https://find-myfriends.com/"
+            }
+         ],
+         "category":"Dating"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Espn",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/espn.png",
+               "url":"https://www.espn.com"
+            },
+            {
+               "id":"1",
+               "name":"Cricbuzz",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cricbuzz.png",
+               "url":"https://www.cricbuzz.com"
+            },
+            {
+               "id":"1",
+               "name":"Espncricinfo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/espncricinfo.png",
+               "url":"http://www.espncricinfo.com/"
+            },
+            {
+               "id":"1",
+               "name":"Live Score",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/livescore.png",
+               "url":"https://www.livescore.com/"
+            },
+            {
+               "id":"1",
+               "name":"Yahoo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yahoo.png",
+               "url":"https://www.yahoo.com"
+            },
+            {
+               "id":"1",
+               "name":"Nba",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nba.png",
+               "url":"https://www.nba.com"
+            },
+            {
+               "id":"1",
+               "name":"Goal",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/goal.png",
+               "url":"https://www.goal.com"
+            },
+            {
+               "id":"1",
+               "name":"Bleacher Report",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bleacherreport.png",
+               "url":"https://bleacherreport.com"
+            },
+            {
+               "id":"1",
+               "name":"Premier League",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/premierleague.png",
+               "url":"https://www.premierleague.com"
+            },
+            {
+               "id":"1",
+               "name":"Cbssports",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cbssports.png",
+               "url":"https://www.cbssports.com"
+            },
+            {
+               "id":"1",
+               "name":"Nhl",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nhl.png",
+               "url":"https://www.nhl.com"
+            },
+            {
+               "id":"1",
+               "name":"Flash Score",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/flashscore.png",
+               "url":"https://www.flashscore.com"
+            },
+            {
+               "id":"1",
+               "name":"Sky Sports",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/skysports.png",
+               "url":"https://www.skysports.com"
+            },
+            {
+               "id":"1",
+               "name":"Strava",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/strava.png",
+               "url":"https://www.strava.com"
+            },
+            {
+               "id":"1",
+               "name":"Nbcsports",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nbcsports.png",
+               "url":"https://www.nbcsports.com"
+            },
+            {
+               "id":"1",
+               "name":"NFL",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nfl.png",
+               "url":"https://www.nfl.com"
+            },
+            {
+               "id":"1",
+               "name":"Rei",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rei.png",
+               "url":"https://www.rei.com/"
+            },
+            {
+               "id":"1",
+               "name":"Fil Goal",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/filgoal.png",
+               "url":"https://www.filgoal.com"
+            },
+            {
+               "id":"1",
+               "name":"Formula1",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/formula1.png",
+               "url":"https://www.formula1.com"
+            },
+            {
+               "id":"1",
+               "name":"Basketball Reference",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/basketball_reference.png",
+               "url":"https://www.basketball-reference.com"
+            },
+            {
+               "id":"1",
+               "name":"Wwe",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wwe.png",
+               "url":"https://www.wwe.com"
+            },
+            {
+               "id":"1",
+               "name":"Dead Spin",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/deadspin.png",
+               "url":"https://deadspin.com"
+            },
+            {
+               "id":"1",
+               "name":"Si",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/si.png",
+               "url":"https://www.si.com"
+            },
+            {
+               "id":"1",
+               "name":"Ronaldo7",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ronaldo7.png",
+               "url":"https://www.ronaldo7.net"
+            },
+            {
+               "id":"1",
+               "name":"Soccerway",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/soccerway.png",
+               "url":"https://www.soccerway.com"
+            },
+            {
+               "id":"1",
+               "name":"Tsn",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tsn.png",
+               "url":"https://www.tsn.ca"
+            },
+            {
+               "id":"1",
+               "name":"Roto World",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rotoworld.png",
+               "url":"https://www.rotoworld.com"
+            },
+            {
+               "id":"1",
+               "name":"Ncaa",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ncaa.png",
+               "url":"https://www.ncaa.com"
+            },
+            {
+               "id":"1",
+               "name":"Who Scored",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/whoscored.png",
+               "url":"https://www.whoscored.com"
+            },
+            {
+               "id":"1",
+               "name":"N Rivals",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/n_rivals.png",
+               "url":"https://n.rivals.com"
+            },
+            {
+               "id":"1",
+               "name":"Hkjc",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hkjc.png",
+               "url":"https://www.hkjc.com/"
+            },
+            {
+               "id":"1",
+               "name":"Sherdog",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sherdog.png",
+               "url":"https://www.sherdog.com"
+            },
+            {
+               "id":"1",
+               "name":"Maxpreps",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/maxpreps.png",
+               "url":"http://www.maxpreps.com/"
+            },
+            {
+               "id":"1",
+               "name":"Pgatour",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pgatour.png",
+               "url":"https://www.pgatour.com"
+            },
+            {
+               "id":"1",
+               "name":"Football 365",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/football365.png",
+               "url":"https://www.football365.com"
+            },
+            {
+               "id":"1",
+               "name":"Nbc Sports",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nbcsports.png",
+               "url":"https://www.nbcsports.com"
+            },
+            {
+               "id":"1",
+               "name":"Active",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/active.png",
+               "url":"https://www.active.com"
+            },
+            {
+               "id":"1",
+               "name":"Fox Sports",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/foxsports.png",
+               "url":"https://www.foxsports.com"
+            },
+            {
+               "id":"1",
+               "name":"Euro Sport",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/eurosport.png",
+               "url":"https://www.eurosport.com"
+            },
+            {
+               "id":"1",
+               "name":"Ufc",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ufc.png",
+               "url":"https://www.ufc.com"
+            },
+            {
+               "id":"1",
+               "name":"Pinkbike",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pinkbike.png",
+               "url":"https://www.pinkbike.com"
+            },
+            {
+               "id":"1",
+               "name":"Soccer Stand",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/soccerstand.png",
+               "url":"https://www.soccerstand.com"
+            },
+            {
+               "id":"1",
+               "name":"Real Madrid",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/realmadrid.png",
+               "url":"https://www.realmadrid.com/"
+            }
+         ],
+         "category":"Sports"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Zillow",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/zillow.png",
+               "url":"https://www.zillow.com/"
+            },
+            {
+               "id":"1",
+               "name":"Realtor",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/realtor.png",
+               "url":"https://www.realtor.com/"
+            },
+            {
+               "id":"1",
+               "name":"Trulia",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/trulia.png",
+               "url":"https://www.trulia.com/"
+            },
+            {
+               "id":"1",
+               "name":"Home Advisor",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/homeadvisor.png",
+               "url":"https://www.homeadvisor.com/"
+            },
+            {
+               "id":"1",
+               "name":"Apartments",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/apartments.png",
+               "url":"https://www.apartments.com/"
+            },
+            {
+               "id":"1",
+               "name":"Apartment List",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/apartmentlist.png",
+               "url":"https://www.apartmentlist.com/"
+            },
+            {
+               "id":"1",
+               "name":"Redfin",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/redfin.png",
+               "url":"https://www.redfin.com/"
+            },
+            {
+               "id":"1",
+               "name":"Thumbtack",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/thumbtack.png",
+               "url":"https://www.thumbtack.com/"
+            },
+            {
+               "id":"1",
+               "name":"Vivint",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/vivint.png",
+               "url":"https://www.vivint.com/"
+            },
+            {
+               "id":"1",
+               "name":"Alfred",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/alfred.png",
+               "url":"https://alfred.camera/"
+            },
+            {
+               "id":"1",
+               "name":"hotpads",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/hotpads.png",
+               "url":"https://hotpads.com/"
+            },
+            {
+               "id":"1",
+               "name":"Takl",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/takl.png",
+               "url":"https://www.takl.com/"
+            },
+            {
+               "id":"1",
+               "name":"Houzz",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/houzz.png",
+               "url":"https://www.houzz.in/"
+            },
+            {
+               "id":"1",
+               "name":"Grow It Mobile",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/growitmobile.png",
+               "url":"https://www.growitmobile.com/"
+            },
+            {
+               "id":"1",
+               "name":"Sure Universal",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sureuniversal.png",
+               "url":"https://www.sureuniversal.com/"
+            },
+            {
+               "id":"1",
+               "name":"zumper",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/zumper.png",
+               "url":"https://www.zumper.com/"
+            },
+            {
+               "id":"1",
+               "name":"Birdnet",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/birdnet.png",
+               "url":"https://birdnet.cornell.edu/"
+            },
+            {
+               "id":"1",
+               "name":"Colorsnap",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/colorsnap.png",
+               "url":"https://www.colorsnap.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ecobee",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ecobee.png",
+               "url":"https://www.ecobee.com/"
+            },
+            {
+               "id":"1",
+               "name":"Momentum Dash",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/momentumdash.png",
+               "url":"https://momentumdash.com/"
+            },
+            {
+               "id":"1",
+               "name":"Opendoor",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/opendoor.png",
+               "url":"https://www.opendoor.com/"
+            },
+            {
+               "id":"1",
+               "name":"Rent",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rent.png",
+               "url":"https://www.rent.com/"
+            },
+            {
+               "id":"1",
+               "name":"Home Design",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/home_design.png",
+               "url":"https://en.homedesign3d.net/"
+            },
+            {
+               "id":"1",
+               "name":"Appfolio",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/appfolio.png",
+               "url":"https://www.appfolio.com/"
+            },
+            {
+               "id":"1",
+               "name":"Home Snap",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/homesnap.png",
+               "url":"https://www.homesnap.com/"
+            },
+            {
+               "id":"1",
+               "name":"Lesliespool",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/lesliespool.png",
+               "url":"https://www.lesliespool.com/"
+            },
+            {
+               "id":"1",
+               "name":"Todyapp",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/todyapp.png",
+               "url":"http://todyapp.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ushud",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ushud.png",
+               "url":"https://ushud.com/"
+            },
+            {
+               "id":"1",
+               "name":"Remax",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/remax.png",
+               "url":"https://www.remax.com/"
+            },
+            {
+               "id":"1",
+               "name":"Orbitonline",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bhyve.png",
+               "url":"https://bhyve.orbitonline.com/"
+            },
+            {
+               "id":"1",
+               "name":"Homes",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/homes.png",
+               "url":"https://www.homes.com/"
+            },
+            {
+               "id":"1",
+               "name":"Rachio",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rachio.png",
+               "url":"https://www.rachio.com/"
+            },
+            {
+               "id":"1",
+               "name":"Har",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/har.png",
+               "url":"https://www.har.com/"
+            },
+            {
+               "id":"1",
+               "name":"Tiny Cammonitor",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tinycammonitor.png",
+               "url":"https://tinycammonitor.com/"
+            },
+            {
+               "id":"1",
+               "name":"Reali",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/reali.png",
+               "url":"https://www.reali.com/"
+            },
+            {
+               "id":"1",
+               "name":"Cold Wellbanker",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/coldwellbanker.png",
+               "url":"https://www.coldwellbanker.com/"
+            },
+            {
+               "id":"1",
+               "name":"Century21",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/century21.png",
+               "url":"https://www.century21.com/"
+            },
+            {
+               "id":"1",
+               "name":"Schlage",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/schlage.png",
+               "url":"https://www.schlage.com/"
+            },
+            {
+               "id":"1",
+               "name":"Roomsketcher",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/roomsketcher.png",
+               "url":"https://www.roomsketcher.com/"
+            },
+            {
+               "id":"1",
+               "name":"Nocable",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nocable.png",
+               "url":"https://nocable.org/"
+            },
+            {
+               "id":"1",
+               "name":"Ecovacs",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ecovacs.png",
+               "url":"https://www.ecovacs.com/us"
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":"https://www.cricbuzz.com/"
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            },
+            {
+               "id":"1",
+               "name":"",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/.png",
+               "url":""
+            }
+         ],
+         "category":"Property"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Twitch",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/twitch.png",
+               "url":"https://www.twitch.tv/"
+            },
+            {
+               "id":"1",
+               "name":"Roblox",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/roblox.png",
+               "url":"https://www.roblox.com/"
+            },
+            {
+               "id":"1",
+               "name":"Steampowered",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/steampowered.png",
+               "url":"https://store.steampowered.com/"
+            },
+            {
+               "id":"1",
+               "name":"Gamespot",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/gamespot.png",
+               "url":"https://www.gamespot.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ign",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/in_ign.png",
+               "url":"https://in.ign.com/"
+            },
+            {
+               "id":"1",
+               "name":"EA",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ea.png",
+               "url":"https://www.ea.com/"
+            },
+            {
+               "id":"1",
+               "name":"League of Legends",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/leagueoflegends.png",
+               "url":"https://play.euw.leagueoflegends.com/"
+            },
+            {
+               "id":"1",
+               "name":"Playstation",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/playstation.png",
+               "url":"https://www.playstation.com/"
+            },
+            {
+               "id":"1",
+               "name":"Nexusmods",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nexusmods.png",
+               "url":"https://www.nexusmods.com/"
+            },
+            {
+               "id":"1",
+               "name":"Epicgames",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/epicgames.png",
+               "url":"https://www.epicgames.com/"
+            },
+            {
+               "id":"1",
+               "name":"Chess",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chess.png",
+               "url":"https://www.chess.com/"
+            },
+            {
+               "id":"1",
+               "name":"Wowhead",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wowhead.png",
+               "url":"https://www.wowhead.com/"
+            },
+            {
+               "id":"1",
+               "name":"Nvidia",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nvidia.png",
+               "url":"https://www.nvidia.com/"
+            },
+            {
+               "id":"1",
+               "name":"Blizzard",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/blizzard.png",
+               "url":"https://www.blizzard.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ubisoft",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ubisoft.png",
+               "url":"https://www.ubisoft.com/"
+            },
+            {
+               "id":"1",
+               "name":"pcgamer",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pcgamer.png",
+               "url":"https://www.pcgamer.com/"
+            },
+            {
+               "id":"1",
+               "name":"Unity",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/unity.png",
+               "url":"https://unity.com/"
+            },
+            {
+               "id":"1",
+               "name":"Nintendo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nintendo.png",
+               "url":"https://www.nintendo.com/"
+            },
+            {
+               "id":"1",
+               "name":"Xbox",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/xbox.png",
+               "url":"https://www.xbox.com/"
+            },
+            {
+               "id":"1",
+               "name":"bulbagarden",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bulbagarden.png",
+               "url":"https://bulbagarden.net/"
+            },
+            {
+               "id":"1",
+               "name":"Minecraft",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/minecraft.png",
+               "url":"https://www.minecraft.net/"
+            },
+            {
+               "id":"1",
+               "name":"Board Gamegeek",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/boardgamegeek.png",
+               "url":"https://boardgamegeek.com/"
+            },
+            {
+               "id":"1",
+               "name":"Rockstar Games",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/rockstargames.png",
+               "url":"https://www.rockstargames.com/"
+            },
+            {
+               "id":"1",
+               "name":"Itch",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/itch.png",
+               "url":"https://itch.io/"
+            },
+            {
+               "id":"1",
+               "name":"Eurogamer",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/eurogamer.png",
+               "url":"https://www.eurogamer.net/"
+            },
+            {
+               "id":"1",
+               "name":"Sporcle",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sporcle.png",
+               "url":"https://www.sporcle.com/"
+            },
+            {
+               "id":"1",
+               "name":"Wizards",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wizards.png",
+               "url":"http://company.wizards.com/"
+            },
+            {
+               "id":"1",
+               "name":"Miniclip",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/miniclip.png",
+               "url":"https://www.miniclip.com/"
+            },
+            {
+               "id":"1",
+               "name":"Square Enix",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/square_enix.png",
+               "url":"https://www.square-enix.com/"
+            },
+            {
+               "id":"1",
+               "name":"Gamesradar",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/gamesradar.png",
+               "url":"https://www.gamesradar.com/"
+            },
+            {
+               "id":"1",
+               "name":"Easports",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/easports.png",
+               "url":"https://www.easports.com/"
+            },
+            {
+               "id":"1",
+               "name":"Runescape",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/runescape.png",
+               "url":"https://www.runescape.com/"
+            },
+            {
+               "id":"1",
+               "name":"Minecraft Forum",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/minecraftforum.png",
+               "url":"https://www.minecraftforum.net/"
+            },
+            {
+               "id":"1",
+               "name":"Bungie",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bungie.png",
+               "url":"https://www.bungie.net/"
+            },
+            {
+               "id":"1",
+               "name":"Mtggoldfish",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mtggoldfish.png",
+               "url":"https://www.mtggoldfish.com/"
+            },
+            {
+               "id":"1",
+               "name":"Pokemon",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pokemon.png",
+               "url":"https://www.pokemon.com/"
+            },
+            {
+               "id":"1",
+               "name":"Vg247",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/vg247.png",
+               "url":"https://www.vg247.com/"
+            },
+            {
+               "id":"1",
+               "name":"Betfair",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/betfair.png",
+               "url":"http://www.betfair.com/"
+            },
+            {
+               "id":"1",
+               "name":"Games Workshop",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/games_workshop.png",
+               "url":"http://games-workshop.com/"
+            },
+            {
+               "id":"1",
+               "name":"Orbitz",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/Orbitz.png",
+               "url":"https://www.orbitz.com/"
+            }
+         ],
+         "category":"All In 1 Games"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Newsbreakapp",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/newsbreakapp.png",
+               "url":"http://www.newsbreakapp.com/"
+            },
+            {
+               "id":"1",
+               "name":"twitter",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/twitter.png",
+               "url":"https://twitter.com/"
+            },
+            {
+               "id":"1",
+               "name":"Reddit",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/reddit.png",
+               "url":"https://www.reddit.com/"
+            },
+            {
+               "id":"1",
+               "name":"Smart News",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/smartnews.png",
+               "url":"https://www.smartnews.com/"
+            },
+            {
+               "id":"1",
+               "name":"Castbox",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/castbox.png",
+               "url":"https://castbox.fm/"
+            },
+            {
+               "id":"1",
+               "name":"Podcoin",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/podcoin.png",
+               "url":"https://www.podcoin.com/"
+            },
+            {
+               "id":"1",
+               "name":"Jailbase",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/jailbase.png",
+               "url":"https://www.jailbase.com/"
+            },
+            {
+               "id":"1",
+               "name":"Cnn",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cnn.png",
+               "url":"https://edition.cnn.com/"
+            },
+            {
+               "id":"1",
+               "name":"Foxnews",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/foxnews.png",
+               "url":"https://www.foxnews.com/"
+            },
+            {
+               "id":"1",
+               "name":"Nytimes",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/nytimes.png",
+               "url":"https://www.nytimes.com/"
+            },
+            {
+               "id":"1",
+               "name":"Yahoo",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yahoo.png",
+               "url":"https://sports.yahoo.com/"
+            },
+            {
+               "id":"1",
+               "name":"Google",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/google.png",
+               "url":"https://news.google.com/"
+            },
+            {
+               "id":"1",
+               "name":"Aol",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/aol.png",
+               "url":"https://www.aol.com/"
+            },
+            {
+               "id":"1",
+               "name":"The Citizen",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/thecitizen.png",
+               "url":"https://thecitizen.com/"
+            },
+            {
+               "id":"1",
+               "name":"Podcast",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/podcast.png",
+               "url":"https://podcast.app/"
+            },
+            {
+               "id":"1",
+               "name":"Broad Castify",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/broadcastify.png",
+               "url":"https://www.broadcastify.com/"
+            },
+            {
+               "id":"1",
+               "name":"Medium",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/medium.png",
+               "url":"https://medium.com/"
+            },
+            {
+               "id":"1",
+               "name":"BBC",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bbc.png",
+               "url":"https://www.bbc.com/news"
+            },
+            {
+               "id":"1",
+               "name":"Cbs News",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cbsnews.png",
+               "url":"https://www.cbsnews.com/"
+            },
+            {
+               "id":"1",
+               "name":"Washington Post",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/washingtonpost.png",
+               "url":"https://www.washingtonpost.com/"
+            },
+            {
+               "id":"1",
+               "name":"Npr",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/npr.png",
+               "url":"https://www.npr.org/"
+            },
+            {
+               "id":"1",
+               "name":"briefing",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/briefing.png",
+               "url":"https://www.briefing.com/"
+            },
+            {
+               "id":"1",
+               "name":"one Npr",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/one_npr.png",
+               "url":"https://one.npr.org/"
+            },
+            {
+               "id":"1",
+               "name":"China Daily",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chinadaily.png",
+               "url":"http://www.chinadaily.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ap News",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/apnews.png",
+               "url":"https://www.apnews.com/"
+            },
+            {
+               "id":"1",
+               "name":"Microsoft",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/microsoft.png",
+               "url":"https://news.microsoft.com/"
+            },
+            {
+               "id":"1",
+               "name":"Buzzfeed",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/buzzfeed.png",
+               "url":"https://www.buzzfeed.com/"
+            },
+            {
+               "id":"1",
+               "name":"Msnbc",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/msnbc.png",
+               "url":"https://www.msnbc.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ultimasnoticias",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ultimasnoticias.png",
+               "url":"http://www.ultimasnoticias.com."
+            },
+            {
+               "id":"1",
+               "name":"Wsj",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wsj.png",
+               "url":"https://www.wsj.com/"
+            },
+            {
+               "id":"1",
+               "name":"Boostforreddit",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/boostforreddit.png",
+               "url":"http://boostforreddit.com/"
+            },
+            {
+               "id":"1",
+               "name":"Abcnews",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/abcnews.png",
+               "url":"https://abcnews.go.com/"
+            },
+            {
+               "id":"1",
+               "name":"Getpocket",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/getpocket.png",
+               "url":"https://getpocket.com/"
+            },
+            {
+               "id":"1",
+               "name":"Bloomberg",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/bloomberg.png",
+               "url":"https://www.bloomberg.com/"
+            },
+            {
+               "id":"1",
+               "name":"Univision",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/univision.png",
+               "url":"https://www.univision.com/"
+            },
+            {
+               "id":"1",
+               "name":"Oann",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/oann.png",
+               "url":"https://www.oann.com/"
+            },
+            {
+               "id":"1",
+               "name":"telemundopr",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/telemundopr.png",
+               "url":"https://www.telemundopr.com/"
+            },
+            {
+               "id":"1",
+               "name":"Cnet",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/cnet.png",
+               "url":"https://www.cnet.com/"
+            },
+            {
+               "id":"1",
+               "name":"Illinois Lottery",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/illinoislottery.png",
+               "url":"https://www.illinoislottery.com/"
+            },
+            {
+               "id":"1",
+               "name":"Abc13",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/abc13.png",
+               "url":"https://abc13.com/"
+            },
+            {
+               "id":"1",
+               "name":"Reuters",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/reuters.png",
+               "url":"https://reuters.com/"
+            },
+            {
+               "id":"1",
+               "name":"Dailymail",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dailymail.png",
+               "url":"https://www.dailymail.co.uk/"
+            }
+         ],
+         "category":"News"
+      },
+      {
+         "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Test/main/social-media.png",
+         "appList":[
+            {
+               "id":"1",
+               "name":"Doordash",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/doordash.png",
+               "url":"https://www.doordash.com/"
+            },
+            {
+               "id":"1",
+               "name":"Ubereats",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/ubereats.png",
+               "url":"https://u.ubereats.com/"
+            },
+            {
+               "id":"1",
+               "name":"Grubhub",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/grubhub.png",
+               "url":"https://www.grubhub.com/"
+            },
+            {
+               "id":"1",
+               "name":"Mcdonalds",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/mcdonalds.png",
+               "url":"https://www.mcdonalds.com"
+            },
+            {
+               "id":"1",
+               "name":"postmates",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/postmates.png",
+               "url":"https://postmates.com/"
+            },
+            {
+               "id":"1",
+               "name":"Starbucks",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/starbucks.png",
+               "url":"https://www.starbucks.com/"
+            },
+            {
+               "id":"1",
+               "name":"Sonic Drive in",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/sonicdrivein.png",
+               "url":"https://www.sonicdrivein.com/"
+            },
+            {
+               "id":"1",
+               "name":"Dominos",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dominos.png",
+               "url":"https://www.dominos.com/"
+            },
+            {
+               "id":"1",
+               "name":"Chick",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chick.png",
+               "url":"www.chick-fil-a.com/"
+            },
+            {
+               "id":"1",
+               "name":"Burger King",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/burger_king.png",
+               "url":"https://www.bk.com/"
+            },
+            {
+               "id":"1",
+               "name":"Subway",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/subway.png",
+               "url":"https://www.subway.com"
+            },
+            {
+               "id":"1",
+               "name":"Littlecaesars",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/littlecaesars.png",
+               "url":"https://littlecaesars.com"
+            },
+            {
+               "id":"1",
+               "name":"Murphydriverewards",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/murphydriverewards.png",
+               "url":"https://www.murphydriverewards.com/"
+            },
+            {
+               "id":"1",
+               "name":"Pizzahut",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/pizzahut.png",
+               "url":"https://www.pizzahut.com/"
+            },
+            {
+               "id":"1",
+               "name":"Instacart",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/instacart.png",
+               "url":"https://www.instacart.com/"
+            },
+            {
+               "id":"1",
+               "name":"tasty",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tasty.png",
+               "url":"https://tasty.co/"
+            },
+            {
+               "id":"1",
+               "name":"Tacobell",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/tacobell.png",
+               "url":"https://www.tacobell.com/"
+            },
+            {
+               "id":"1",
+               "name":"Chipotle",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/chipotle.png",
+               "url":"https://www.chipotle.com/"
+            },
+            {
+               "id":"1",
+               "name":"Wendys",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/wendys.png",
+               "url":"https://www.wendys.com/"
+            },
+            {
+               "id":"1",
+               "name":"Dunkin India",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dunkinindia.png",
+               "url":"http://www.dunkinindia.com/"
+            },
+            {
+               "id":"1",
+               "name":"Dairy Queen",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/dairyqueen.png",
+               "url":"https://www.dairyqueen.com/"
+            },
+            {
+               "id":"1",
+               "name":"Papa Johns",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/papajohns.png",
+               "url":"https://www.papajohns.com/"
+            },
+            {
+               "id":"1",
+               "name":"Gopuff",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/gopuff.png",
+               "url":"https://gopuff.com"
+            },
+            {
+               "id":"1",
+               "name":"Panera Bread",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/panerabread.png",
+               "url":"https://www.panerabread.com/"
+            },
+            {
+               "id":"1",
+               "name":"Delivery.png",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/delivery.png",
+               "url":"https://delivery.7-eleven.com/"
+            },
+            {
+               "id":"1",
+               "name":"Waitrapp",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/waitrapp.png",
+               "url":"https://waitrapp.com/"
+            },
+            {
+               "id":"1",
+               "name":"Yummly",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/yummly.png",
+               "url":"https://www.yummly.com/"
+            },
+            {
+               "id":"1",
+               "name":"Popeyes",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/popeyes.png",
+               "url":"https://popeyes.com/"
+            },
+            {
+               "id":"1",
+               "name":"Slice Life",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/slicelife.png",
+               "url":"https://slicelife.com/"
+            },
+            {
+               "id":"1",
+               "name":"Jackinthe Box",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/jackinthebox.png",
+               "url":"https://www.jackinthebox.com/"
+            }
+         ],
+         "category":"Food Delivery"
+      }
+   ]
+}
