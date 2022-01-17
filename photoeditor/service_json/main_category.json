@@ -1,0 +1,29 @@
+{
+    "status": "1",
+    "data": [
+        {            
+            "category_name": "test",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/photoeditor/img/1.jpg"
+        },
+		{            
+            "category_name": "test",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/photoeditor/img/2.jpg"
+        },
+		{            
+            "category_name": "test",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/photoeditor/img/3.jpg"
+        },
+		{            
+            "category_name": "test",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/photoeditor/img/4.jpg"
+        },
+		{            
+            "category_name": "test",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/photoeditor/img/5.jpg"
+        },
+		{            
+            "category_name": "test",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/photoeditor/img/6.jpg"
+        }
+    ]
+}
