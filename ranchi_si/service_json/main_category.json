@@ -5,36 +5,42 @@
             "id": "1",
             "category_name": "History",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/history.png",
+            "category_url": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#What_is_Ranch_Simulator?",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "List Of Programes",
+            "category_name": "Story",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/listofprogrames.png",
+            "category_url": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Story",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Reception",
+            "category_name": "Gameplay",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/reception.png",
+            "category_url": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Gameplay",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "Buildings",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/references.png",
+            "category_url": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Buildings",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "zee_tv_telugu HD",
+            "category_name": "Workstation",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/colorls_hd.png",
+            "category_url": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Workstation",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "International",
+            "category_name": "Garage",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/international.png",
+            "category_url": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Garage",
             "is_active": "1"
         }        
     ]

@@ -24,14 +24,14 @@
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "Award_Functions",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/references.png",
             "category_url": "https://en.wikipedia.org/wiki/Zee_Telugu#Award_Functions",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "zee tv telugu HD",
+            "category_name": "Zee tv telugu HD",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/zee_tv_telugu/img/colorls_hd.png",
             "category_url": "https://en.wikipedia.org/wiki/Zee_TV#Sister_channels",
             "is_active": "1"
