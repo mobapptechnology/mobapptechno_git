@@ -1,0 +1,47 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Thiva",
+            "category_link": "https://ff.garena.com/chars/intro/en/478/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "https://ff.garena.com/chars/intro/en/477/0",
+            "category_link": "",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "D-bee",
+            "category_link": "https://ff.garena.com/chars/intro/en/464/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Maro",
+            "category_link": "https://ff.garena.com/chars/intro/en/447/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Xayne",
+            "category_link": "https://ff.garena.com/chars/intro/en/446/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },        
+        {
+            "id": "6",
+            "category_name": "Skyler",
+            "category_link": "https://ff.garena.com/chars/intro/en/462/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        }      
+    ]
+}

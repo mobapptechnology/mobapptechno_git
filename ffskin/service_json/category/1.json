@@ -1,0 +1,47 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Weapons",
+            "category_link": "https://ff.garena.com/weapons/index/en/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Wallpaper",
+            "category_link": "https://ff.garena.com/media/wallpaper/en/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Map",
+            "category_link": "https://ff.garena.com/map/static/en/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "News",
+            "category_link": "https://ff.garena.com/news/index/en/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Comic",
+            "category_link": "https://ff.garena.com/universe/en/comic/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },        
+        {
+            "id": "6",
+            "category_name": "Story",
+            "category_link": "https://ff.garena.com/universe/en/story/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }      
+    ]
+}

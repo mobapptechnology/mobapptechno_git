@@ -1,0 +1,47 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Wolfrahh",
+            "category_link": "https://ff.garena.com/chars/intro/en/210/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Alvaro",
+            "category_link": "https://ff.garena.com/chars/intro/en/145/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Antonio",
+            "category_link": "https://ff.garena.com/chars/intro/en/17/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Paloma",
+            "category_link": "https://ff.garena.com/chars/intro/en/12/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Miguel",
+            "category_link": "https://ff.garena.com/chars/intro/en/4/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        },        
+        {
+            "id": "6",
+            "category_name": "Nikita",
+            "category_link": "https://ff.garena.com/chars/intro/en/16/0",
+            "main_category_id": "1",
+            "is_active": "1"
+        }      
+    ]
+}
