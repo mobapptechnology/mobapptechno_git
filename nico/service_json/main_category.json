@@ -3,38 +3,44 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History",
+            "category_name": "Weapons",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sony_sab/img/history.png",
+            "category_url": "https://ff.garena.com/weapons/index/en/",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "List Of Programes",
+            "category_name": "Wallpaper",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sony_sab/img/listofprogrames.png",
+            "category_url": "https://ff.garena.com/media/wallpaper/en/",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Reception",
+            "category_name": "Map",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sony_sab/img/reception.png",
+            "category_url": "https://ff.garena.com/map/static/en/",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "News",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sony_sab/img/references.png",
+            "category_url": "https://ff.garena.com/news/index/en/",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Channeles",
+            "category_name": "Comic",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sony_sab/img/colorls_hd.png",
+            "category_url": "https://ff.garena.com/universe/en/comic/",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "International",
+            "category_name": "Story",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/sony_sab/img/international.png",
+            "category_url": "https://ff.garena.com/universe/en/story/",
             "is_active": "1"
         }        
     ]

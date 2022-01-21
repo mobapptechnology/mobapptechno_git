@@ -4,42 +4,42 @@
         {
             "id": "1",
             "category_name": "Hayato Yagami",
-            "category_link": "https://ff.garena.com/chars/intro/en/3/",
+            "category_link": "https://ff.garena.com/chars/intro/en/3/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "Moco",
-            "category_link": "https://ff.garena.com/chars/intro/en/10/",
+            "category_link": "https://ff.garena.com/chars/intro/en/10/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Steffie",
-            "category_link": "https://ff.garena.com/chars/intro/en/150/",
+            "category_link": "https://ff.garena.com/chars/intro/en/150/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "Misha",
-            "category_link": "https://ff.garena.com/chars/intro/en/9/",
+            "category_link": "https://ff.garena.com/chars/intro/en/9/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "Maxim",
-            "category_link": "https://ff.garena.com/chars/intro/en/15/",
+            "category_link": "https://ff.garena.com/chars/intro/en/15/0",
             "main_category_id": "1",
             "is_active": "1"
         },        
         {
             "id": "6",
             "category_name": "Andrew",
-            "category_link": "https://ff.garena.com/chars/intro/en/2/",
+            "category_link": "https://ff.garena.com/chars/intro/en/2/0",
             "main_category_id": "1",
             "is_active": "1"
         }      

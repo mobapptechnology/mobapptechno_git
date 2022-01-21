@@ -4,42 +4,42 @@
         {
             "id": "1",
             "category_name": "Caroline",
-            "category_link": "https://ff.garena.com/chars/intro/en/11/",
+            "category_link": "https://ff.garena.com/chars/intro/en/11/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "Laura",
-            "category_link": "https://ff.garena.com/chars/intro/en/5/",
+            "category_link": "https://ff.garena.com/chars/intro/en/5/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Rafael",
-            "category_link": "https://ff.garena.com/chars/intro/en/14/",
+            "category_link": "https://ff.garena.com/chars/intro/en/14/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "Alok",
-            "category_link": "https://ff.garena.com/chars/intro/en/146/",
+            "category_link": "https://ff.garena.com/chars/intro/en/146/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "Jota",
-            "category_link": "https://ff.garena.com/chars/intro/en/178/",
+            "category_link": "https://ff.garena.com/chars/intro/en/178/0",
             "main_category_id": "1",
             "is_active": "1"
         },        
         {
             "id": "6",
             "category_name": "Clu",
-            "category_link": "https://ff.garena.com/chars/intro/en/209/",
+            "category_link": "https://ff.garena.com/chars/intro/en/209/0",
             "main_category_id": "1",
             "is_active": "1"
         }      

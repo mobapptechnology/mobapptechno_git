@@ -4,42 +4,42 @@
         {
             "id": "1",
             "category_name": "Shirou",
-            "category_link": "https://ff.garena.com/chars/intro/en/405/",
+            "category_link": "https://ff.garena.com/chars/intro/en/405/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "Chrono",
-            "category_link": "https://ff.garena.com/chars/intro/en/299/",
+            "category_link": "https://ff.garena.com/chars/intro/en/299/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Dasha",
-            "category_link": "https://ff.garena.com/chars/intro/en/293/",
+            "category_link": "https://ff.garena.com/chars/intro/en/293/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "K",
-            "category_link": "https://ff.garena.com/chars/intro/en/255/",
+            "category_link": "https://ff.garena.com/chars/intro/en/255/0",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "Luqueta",
-            "category_link": "https://ff.garena.com/chars/intro/en/243/",
+            "category_link": "https://ff.garena.com/chars/intro/en/243/0",
             "main_category_id": "1",
             "is_active": "1"
         },        
         {
             "id": "6",
             "category_name": "Kelly",
-            "category_link": "https://ff.garena.com/chars/intro/en/1/",
+            "category_link": "https://ff.garena.com/chars/intro/en/1/0",
             "main_category_id": "1",
             "is_active": "1"
         }      
