@@ -3,38 +3,44 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History",
+            "category_name": "Touchgrind Scooter Live",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/history.png",
+            "category_url": "https://www.illusionlabs.com/portfolio/touchgrind-scooter-live/",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "List Of Programes",
+            "category_name": "BECOME A LEGEND Step 1",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/listofprogrames.png",
+            "category_url": "https://www.illusionlabs.com/wp-content/uploads/2021/05/scooter01.png",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Reception",
+            "category_name": "BECOME A LEGEND Step 2",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/reception.png",
+            "category_url": "https://www.illusionlabs.com/wp-content/uploads/2021/05/scooter02.png",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "FAQ",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/references.png",
+            "category_url": "https://www.illusionlabs.com/touchgrind-scooter-support/",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "scooter HD",
+            "category_name": "About the Company",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/colorls_hd.png",
+            "category_url": "https://www.illusionlabs.com/company/",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "International",
+            "category_name": "Download Games",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/international.png",
+            "category_url": "https://www.illusionlabs.com/games/",
             "is_active": "1"
         }        
     ]

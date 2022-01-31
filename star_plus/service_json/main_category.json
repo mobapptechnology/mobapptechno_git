@@ -3,39 +3,59 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History",
+            "category_name": "History Of Channel",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/history.png",
+            "category_url": "https://en.wikipedia.org/wiki/StarPlus#History",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "List Of Programes",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/listofprogrames.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Reception",
+            "category_name": "Current broadcasts",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/reception.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#Current_broadcasts",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "Upcoming broadcasts",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/references.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#Upcoming_broadcasts",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "star_plus HD",
+            "category_name": "Former broadcasts",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/colorls_hd.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#Former_broadcasts",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "International",
+            "category_name": "See Also",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/international.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#See_also",
             "is_active": "1"
-        }        
+        },
+        {
+            "id": "7",
+            "category_name": "External Links",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/international.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#External_links",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "References",
+            "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/star_plus/img/international.png",
+            "category_url": "https://en.wikipedia.org/wiki/List_of_programmes_broadcast_by_StarPlus#References",
+            "is_active": "1"
+        }
     ]
 }

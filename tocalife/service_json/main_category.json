@@ -3,38 +3,44 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History",
+            "category_name": "History Toca Boca",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/tocalife/img/history.png",
+            "category_url": "https://en.wikipedia.org/wiki/Toca_Boca",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "List Of Programes",
+            "category_name": "Helicopter Taxi",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/tocalife/img/listofprogrames.png",
+            "category_url": "https://en.wikipedia.org/wiki/Toca_Boca#Helicopter_Taxi",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Reception",
+            "category_name": "Toca Tea Party",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/tocalife/img/reception.png",
+            "category_url": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Tea_Party",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "Toca Kitchen",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/tocalife/img/references.png",
+            "category_url": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Kitchen",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "tocalife HD",
+            "category_name": "Toca Life Series",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/tocalife/img/colorls_hd.png",
+            "category_url": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Life_Series",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "International",
+            "category_name": "Toca_Life: World",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/tocalife/img/international.png",
+            "category_url": "https://en.wikipedia.org/wiki/Toca_Boca#Toca_Life:_World",
             "is_active": "1"
         }        
     ]
