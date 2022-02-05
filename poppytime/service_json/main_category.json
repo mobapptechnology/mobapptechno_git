@@ -3,38 +3,44 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History",
+            "category_name": "Gameplay",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/history.png",
+            "category_url": "https://en.wikipedia.org/wiki/Poppy_Playtime#Gameplay",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "List Of Programes",
+            "category_name": "Plot",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/listofprogrames.png",
+            "category_url": "https://en.wikipedia.org/wiki/Poppy_Playtime#Plot",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Reception",
+            "category_name": "Chapter 1 A Tight Squeeze",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/reception.png",
+            "category_url": "https://en.wikipedia.org/wiki/Poppy_Playtime#Chapter_1_%E2%80%93_A_Tight_Squeeze",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "References",
+            "category_name": "Initial Release",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/references.png",
+            "category_url": "https://en.wikipedia.org/wiki/Poppy_Playtime#Initial_release",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "scooter HD",
+            "category_name": "Reception",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/colorls_hd.png",
+            "category_url": "https://en.wikipedia.org/wiki/Poppy_Playtime#Reception",
             "is_active": "1"
         },
         {
             "id": "6",
-            "category_name": "International",
+            "category_name": "References",
             "category_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/scooter/img/international.png",
+            "category_url": "https://en.wikipedia.org/wiki/Poppy_Playtime#References",
             "is_active": "1"
         }        
     ]

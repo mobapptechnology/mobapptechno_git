@@ -3,43 +3,43 @@
     "data": [
         {
             "id": "1",
-            "category_name": "About Touchgrind Scooter Live",
-            "category_link": "https://www.illusionlabs.com/portfolio/touchgrind-scooter-live/",
+            "category_name": "Gameplay",
+            "category_link": "https://en.wikipedia.org/wiki/Poppy_Playtime#Gameplay",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "BECOME A LEGEND Step 1",
-            "category_link": "https://www.illusionlabs.com/wp-content/uploads/2021/05/scooter01.png",
+            "category_name": "Plot",
+            "category_link": "https://en.wikipedia.org/wiki/Poppy_Playtime#Plot",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "BECOME A LEGEND Step 2",
-            "category_link": "https://www.illusionlabs.com/wp-content/uploads/2021/05/scooter02.png",
+            "category_name": "Chapter 1 A Tight Squeeze",
+            "category_link": "https://en.wikipedia.org/wiki/Poppy_Playtime#Chapter_1_%E2%80%93_A_Tight_Squeeze",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "FAQ",
-            "category_link": "https://www.illusionlabs.com/touchgrind-scooter-support/",
+            "category_name": "Initial Release",
+            "category_link": "https://en.wikipedia.org/wiki/Poppy_Playtime#Initial_release",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "About the Company",
-            "category_link": "https://www.illusionlabs.com/company/",
+            "category_name": "Reception",
+            "category_link": "https://en.wikipedia.org/wiki/Poppy_Playtime#Reception",
             "main_category_id": "1",
             "is_active": "1"
         },		
         {
             "id": "6",
-            "category_name": "Download Games",
-            "category_link": "https://www.illusionlabs.com/games/",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Poppy_Playtime#References",
             "main_category_id": "1",
             "is_active": "1"
         }
