@@ -2,39 +2,75 @@
     "status": "1",
     "data": [
         {
-            "id": "21",
-            "category_name": "Strava",
-            "category_link": "https://www.strava.com/",
-            "main_category_id": "5",
+            "id": "1",
+            "category_name": "Cricket Live Score",
+            "category_link": "https://www.espn.com/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "22",
-            "category_name": "Lequipe",
-            "category_link": "https://www.lequipe.fr/",
-            "main_category_id": "5",
+            "id": "2",
+            "category_name": "Quiz 1",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "23",
-            "category_name": "Dream11",
-            "category_link": "https://www.dream11.com/",
-            "main_category_id": "5",
+            "id": "3",
+            "category_name": "Quiz 2",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "24",
-            "category_name": "Yahoo Sports",
-            "category_link": "https://sports.yahoo.co.jp/",
-            "main_category_id": "5",
+            "id": "4",
+            "category_name": "Quiz 3",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "25",
-            "category_name": "Sky Sports",
-            "category_link": "https://www.skysports.com/",
-            "main_category_id": "5",
+            "id": "5",
+            "category_name": "Quiz 4",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "6",
+            "category_name": "Quiz 5",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "7",
+            "category_name": "Quiz 6",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Quiz 7",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "9",
+            "category_name": "Quiz 8",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "10",
+            "category_name": "Quiz 9",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         }
+		
     ]
 }

@@ -2,39 +2,75 @@
     "status": "1",
     "data": [
         {
-            "id": "36",
-            "category_name": "Dazn",
-            "category_link": "https://www.dazn.com/",
-            "main_category_id": "8",
+            "id": "1",
+            "category_name": "Cricket Live Score",
+            "category_link": "https://www.espn.com/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "37",
-            "category_name": "Fantasy Pros",
-            "category_link": "https://www.fantasypros.com/",
-            "main_category_id": "8",
+            "id": "2",
+            "category_name": "Quiz 1",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "38",
-            "category_name": "Espn Cric Info",
-            "category_link": "https://www.espncricinfo.com/",
-            "main_category_id": "8",
+            "id": "3",
+            "category_name": "Quiz 2",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "39",
-            "category_name": "Dicks Sport in Ggoods",
-            "category_link": "https://www.dickssportinggoods.com/",
-            "main_category_id": "8",
+            "id": "4",
+            "category_name": "Quiz 3",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "40",
-            "category_name": "Fanatik",
-            "category_link": "https://www.fanatik.com.tr/",
-            "main_category_id": "8",
+            "id": "5",
+            "category_name": "Quiz 4",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "6",
+            "category_name": "Quiz 5",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "7",
+            "category_name": "Quiz 6",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Quiz 7",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "9",
+            "category_name": "Quiz 8",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },		
+        {
+            "id": "10",
+            "category_name": "Quiz 9",
+            "category_link": "https://socialwings.download/",
+            "main_category_id": "1",
             "is_active": "1"
         }
+		
     ]
 }
