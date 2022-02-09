@@ -3,38 +3,87 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Soccer Live Score",
-            "category_link": "https://www.espn.com/soccer/scoreboard",
+            "category_name": "Football Live Score",
+            "category_link": "https://www.flashscore.in/football/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Hockey Live Score",
-            "category_link": "https://www.livescore.com/en/hockey/",
+            "category_name": "Quiz 1",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "3",
-            "category_name": "Basketball Live Score",
-            "category_link": "https://www.livescore.com/en/basketball/",
+            "id": "2",
+            "category_name": "Quiz 2",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "4",
-            "category_name": "Tennis Live Score",
-            "category_link": "https://www.livescore.com/en/tennis/",
+            "id": "2",
+            "category_name": "Quiz 3",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
-            "id": "5",
-            "category_name": "Live Score",
-            "category_link": "https://www.livescore.com/en/cricket/",
+            "id": "2",
+            "category_name": "Quiz 4",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
-        }		
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 5",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 6",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 7",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 8",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 9",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 10",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Quiz 11",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }        	
     ]
 }

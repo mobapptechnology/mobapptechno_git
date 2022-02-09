@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Soccer Live Score",
+            "category_link": "https://www.espn.com/soccer/scoreboard",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Hockey Live Score",
+            "category_link": "https://www.livescore.com/en/hockey/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Basketball Live Score",
+            "category_link": "https://www.livescore.com/en/basketball/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Tennis Live Score",
+            "category_link": "https://www.livescore.com/en/tennis/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Live Score",
+            "category_link": "https://www.livescore.com/en/cricket/",
+            "main_category_id": "1",
+            "is_active": "1"
+        }		
+    ]
+}

@@ -3,7 +3,7 @@
     "data": [
         {
             "id": "1",
-            "category_name": "Ranch Simulator",
+            "category_name": "What_is_Ranch_Simulator",
             "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#What_is_Ranch_Simulator?",
             "main_category_id": "1",
             "is_active": "1"
@@ -11,42 +11,42 @@
         {
             "id": "2",
             "category_name": "Story",
-            "category_link": "http://664.win.predchamp.com/",
+            "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Story",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Gameplay",
-            "category_link": "http://664.win.predchamp.com/",
+            "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Gameplay",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "Buildings",
-            "category_link": "http://664.win.predchamp.com/",
+            "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Buildings",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "Ranch",
-            "category_link": "http://664.win.predchamp.com/",
+            "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Ranch",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "6",
             "category_name": "Barn",
-            "category_link": "http://664.win.predchamp.com/",
+            "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Barn",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "7",
             "category_name": "Shop",
-            "category_link": "http://664.win.predchamp.com/",
+            "category_link": "https://en.wikipedia.org/wiki/Draft:Ranch_simulator#Shop",
             "main_category_id": "1",
             "is_active": "1"
         }
