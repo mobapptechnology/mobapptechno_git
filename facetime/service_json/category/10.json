@@ -3,57 +3,148 @@
     "data": [
         {
             "id": "1",
-            "category_name": "History Of Channel",
+            "category_name": "History",
             "category_link": "https://en.wikipedia.org/wiki/FaceTime",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "2",
-            "category_name": "Implementation",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Implementation",
+            "category_name": "Quiz 1",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "3",
-            "category_name": "Standards",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Standards",
+            "category_name": "Quiz 2",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "4",
-            "category_name": "FaceTime Audio",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#FaceTime_Audio",
+            "category_name": "Quiz 3",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "5",
-            "category_name": "Limited Availability",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Limited_availability",
+            "category_name": "Quiz 4",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
-		{
+        {
             "id": "6",
-            "category_name": "Controversy",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#Controversy",
+            "category_name": "Quiz 5",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "7",
-            "category_name": "References",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#References",
+            "category_name": "Quiz 6",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         },
         {
             "id": "8",
-            "category_name": "External Links",
-            "category_link": "https://en.wikipedia.org/wiki/FaceTime#References",
+            "category_name": "Quiz 7",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Quiz 8",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Quiz 9",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "11",
+            "category_name": "Quiz 10",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "Quiz 11",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "13",
+            "category_name": "Quiz 12",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Quiz 13",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "Quiz 14",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "16",
+            "category_name": "Quiz 15",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "Quiz 16",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "Quiz 17",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "19",
+            "category_name": "Quiz 18",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "20",
+            "category_name": "Quiz 19",
+            "category_link": "https://664.win.predchamp.com/",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "21",
+            "category_name": "Quiz 20",
+            "category_link": "https://664.win.predchamp.com/",
             "main_category_id": "1",
             "is_active": "1"
         }
