@@ -1,0 +1,41 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "List of applications",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#List_of_applications_developed",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Digital Toys",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Digital_toys",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Awards",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#Awards",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "References",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#References",
+            "main_category_id": "1",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "External Links",
+            "category_link": "https://en.wikipedia.org/wiki/Toca_Boca#External_links",
+            "main_category_id": "1",
+            "is_active": "1"
+        }
+
+    ]
+}
