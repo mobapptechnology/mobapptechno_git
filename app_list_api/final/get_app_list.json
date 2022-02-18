@@ -9,6 +9,22 @@
       "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
     },
     {
+      "id": "1",
+      "app_name": "Track Shows & Movies",
+      "app_img": "social",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
+      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
+    },    
+    {
+      "id": "1",
+      "app_name": "Track Shows & Movies",
+      "app_img": "social",
+      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
+      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
+    },
+    {
       "id": "2",
       "app_name": "Cam Scanner",
       "app_img": "camscanner",
