@@ -2,83 +2,51 @@
   "data": [
     {
       "id": "1",
-      "app_name": "Track Shows & Movies",
-      "app_img": "social",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
-      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
-    },
-    {
-      "id": "1",
-      "app_name": "Track Shows & Movies",
-      "app_img": "social",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
-      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
-    },    
-    {
-      "id": "1",
-      "app_name": "Track Shows & Movies",
-      "app_img": "social",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
-      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
+      "app_name": "Photo Video Maker and Music",
+      "app_img": "Adob",
+      "img_logo_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/img/adob.png",
+      "app_link": "com.adob.photovideoeditorslideshowvideomaker",
+      "app_desc": "Create photo slideshow & video with music"
     },
     {
       "id": "2",
-      "app_name": "Cam Scanner",
-      "app_img": "camscanner",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/camscanner.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.camerascannerdocumentscanner.com",
-      "app_desc": "Document scanner with PDF Scanner, PDF Maker, Document Scanner, PDF Reader"
-    },
+      "app_name": "Birthday Song With Name",
+      "app_img": "Birthday Song With Name",
+      "img_logo_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/img/birthday_15_in_1.png",
+      "app_link": "com.birthdaysongwithnamemaker.photovideomakerwithmusic",
+      "app_desc": "Happy Birthday Video App for Birthday Photo Frame"
+    },   
     {
       "id": "3",
       "app_name": "Social Media",
       "app_img": "social",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social.png",
+      "img_logo_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/img/social.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.socialmessenger.allinoneapps",
       "app_desc": "Shopping, Social Media, Games, News, Dating, Sports, Food Delivery, Real Estate"
-    },
+    }, 
     {
       "id": "4",
       "app_name": "Face Swap, AI face swap",
       "app_img": "faceswap",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/faceswap.png",
+      "img_logo_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/img/faceswap.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.faceappfaceswap.com",
-      "app_desc": "Swap Faces in your own photos. Funny Face Swap App with Live Camera"
-    },    
-    {
-      "id": "1",
-      "app_name": "Track Shows & Movies",
-      "app_img": "social",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/movieplex.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
-      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
+      "app_desc": "Swap Faces in your own photos. Funny Face Swap App with Live Camera"      
     },
     {
-      "id": "2",
+      "id": "5",
       "app_name": "Cam Scanner",
       "app_img": "camscanner",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/camscanner.png",
+      "img_logo_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/img/camscanner.png",
       "app_link": "https://play.google.com/store/apps/details?id=com.camerascannerdocumentscanner.com",
       "app_desc": "Document scanner with PDF Scanner, PDF Maker, Document Scanner, PDF Reader"
-    },
+    },    
     {
-      "id": "3",
-      "app_name": "Social Media",
+      "id": "6",
+      "app_name": "Track Shows & Movies",
       "app_img": "social",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/social.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.socialmessenger.allinoneapps",
-      "app_desc": "Shopping, Social Media, Games, News, Dating, Sports, Food Delivery, Real Estate"
-    },
-    {
-      "id": "4",
-      "app_name": "Face Swap, AI face swap",
-      "app_img": "faceswap",
-      "img_logo_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/img/faceswap.png",
-      "app_link": "https://play.google.com/store/apps/details?id=com.faceappfaceswap.com",
-      "app_desc": "Swap Faces in your own photos. Funny Face Swap App with Live Camera"
-    }
+      "img_logo_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/img/movieplex.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.movieplex.android",
+      "app_desc": "Find out where to watch your favorite movies & TV shows streaming online"
+    }   
   ]
 }
