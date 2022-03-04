@@ -1,0 +1,22 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "is_slider_one": "n",          
+        "is_slider_one_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_one/get_app_list.json",          
+        "is_slider_two": "n",          
+        "is_slider_two_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/get_app_list.json",          
+        "is_more_app": "n",
+        "is_more_app_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/get_app_list.json",
+        "disclaimer_message": "The usage of our app is free and does not require any software or registration. By using our app you accept our Terms of Use.\n\n Material on this app may include links to external websites. These external information sources are outside control. It is the responsibility of the user to make his or her own decisions about the accuracy and reliability and correctness of information found. Some of the information provided on this app is supplied by third parties.\n\n It is important that all users understand that third party information is not provided or endorsed by us and your legal relationship is with the third party. Please be aware that we have not necessarily checked third party content.",
+        "is_image_playstore": "n",
+        "package_name": "com.birthdaysongwithnamemaker.photovideomakerwithmusic",
+        "img_url": "",
+        "img_url_splash": "",
+        "img_native_ad": "",
+        "img_banner_ad": "",
+        "img_banner_ad_large": "",
+        "weblink": "http://664.win.predchamp.com/"
+      }
+  ]
+}
