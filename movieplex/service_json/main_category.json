@@ -1,0 +1,227 @@
+{
+    "status": "1",
+    "data": {
+    "packages": [
+      {
+        "clearName": "Netflix",
+        "id": "cGF8OA==",
+        "shortName": "nfx",
+        "technicalName": "netflix",
+        "packageId": 8,
+        "selected": true,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_netflix.png"
+      },
+      {
+        "clearName": "Amazon Prime Video",
+        "id": "cGF8MTE5",
+        "shortName": "prv",
+        "technicalName": "amazonprimevideo",
+        "packageId": 119,
+        "selected": true,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_amazonprime.png"
+      },
+      {
+        "clearName": "Hotstar",
+        "id": "cGF8MTIy",
+        "shortName": "hst",
+        "technicalName": "hotstar",
+        "packageId": 122,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_hotstar.png"
+      },
+      {
+        "clearName": "Voot",
+        "id": "cGF8MTIx",
+        "shortName": "voo",
+        "technicalName": "voot",
+        "packageId": 121,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_voot.png"
+      },
+      {
+        "clearName": "Jio Cinema",
+        "id": "cGF8MjIw",
+        "shortName": "jio",
+        "technicalName": "jiocinema",
+        "packageId": 220,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_jiocinema.png"
+      },
+      {
+        "clearName": "Zee5",
+        "id": "cGF8MjMy",
+        "shortName": "zee",
+        "technicalName": "zee5",
+        "packageId": 232,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_zee5.png"
+      },
+      {
+        "clearName": "Eros Now",
+        "id": "cGF8MjE4",
+        "shortName": "ern",
+        "technicalName": "erosnow",
+        "packageId": 218,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_eros_now.png"
+      },
+      {
+        "clearName": "Mubi",
+        "id": "cGF8MTE=",
+        "shortName": "mbi",
+        "technicalName": "mubi",
+        "packageId": 11,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_mubi.png"
+      },
+      {
+        "clearName": "Apple TV Plus",
+        "id": "cGF8MzUw",
+        "shortName": "atp",
+        "technicalName": "appletvplus",
+        "packageId": 350,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_appletv.png"
+      },
+      {
+        "clearName": "Sony Liv",
+        "id": "cGF8MjM3",
+        "shortName": "snl",
+        "technicalName": "sonyliv",
+        "packageId": 237,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_sonyliv.png"
+      },
+      {
+        "clearName": "YouTube",
+        "id": "cGF8MTky",
+        "shortName": "yot",
+        "technicalName": "youtube",
+        "packageId": 192,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_youtube.png"
+      },
+      {
+        "clearName": "GuideDoc",
+        "id": "cGF8MTAw",
+        "shortName": "gdc",
+        "technicalName": "guidedoc",
+        "packageId": 100,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_guide_doc.jpg"
+      },
+      {
+        "clearName": "Yupp TV",
+        "id": "cGF8MjU1",
+        "shortName": "ytv",
+        "technicalName": "yupptv",
+        "packageId": 255,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_yupp_tv.jpg"
+      },
+      {
+        "clearName": "Sun Nxt",
+        "id": "cGF8MzA5",
+        "shortName": "snx",
+        "technicalName": "sunnxt",
+        "packageId": 309,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_sun_next.jpg"
+      },
+      {
+        "clearName": "Alt Balaji",
+        "id": "cGF8MzE5",
+        "shortName": "abj",
+        "technicalName": "altbalaji",
+        "packageId": 319,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_alt_balaji.png"
+      },
+      {
+        "clearName": "Hungama Play",
+        "id": "cGF8NDM3",
+        "shortName": "hgp",
+        "technicalName": "hungamaplay",
+        "packageId": 437,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_hungama.png"
+      },
+      {
+        "clearName": "Curiosity Stream",
+        "id": "cGF8MTkw",
+        "shortName": "cts",
+        "technicalName": "curiositystream",
+        "packageId": 190,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_curiosity_stream.png"
+      },
+      {
+        "clearName": "ShemarooMe",
+        "id": "cGF8NDc0",
+        "shortName": "sme",
+        "technicalName": "shemaroome",
+        "packageId": 474,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_shemaroo.jpg"
+      },
+      {
+        "clearName": "Tata Sky",
+        "id": "cGF8NTAy",
+        "shortName": "tts",
+        "technicalName": "tatasky",
+        "packageId": 502,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_tata_sky.jpg"
+      },
+      {
+        "clearName": "Discovery Plus",
+        "id": "cGF8NTEw",
+        "shortName": "dsp",
+        "technicalName": "discoveryplus",
+        "packageId": 510,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_discovery.jpg"
+      },
+      {
+        "clearName": "ManoramaMax",
+        "id": "cGF8NDgy",
+        "shortName": "mrx",
+        "technicalName": "manoramamax",
+        "packageId": 482,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_manorama.png"
+      },
+      {
+        "clearName": "Rooster Teeth",
+        "id": "cGF8NDg1",
+        "shortName": "rst",
+        "technicalName": "roosterteeth",
+        "packageId": 485,
+        "selected": false,
+        "is_enable": true,
+        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_rooster_teeth.png"
+      }
+    ]
+  }
+}
