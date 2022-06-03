@@ -1,0 +1,5145 @@
+{
+	"status": "1",
+	"data": {
+		"skip_count": 0,
+		"days": [
+			{
+				"date": "2022-05-31",
+				"providers": [
+					{
+						"total": 23,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tss311662",
+								"id": 311662,
+								"title": "Season 7",
+								"full_path": "/in/tv-show/fear-the-walking-dead/season-7",
+								"poster": "/poster/268875310/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/269914818/{profile}",
+										"backdrop_blur_hash": "L9840nAHq_t5}nNvVuX7NH#-OXW;"
+									},
+									{
+										"backdrop_url": "/backdrop/251388321/{profile}",
+										"backdrop_blur_hash": "LKQ6]A9K+b+wESIX%c?V~i,:y9Sz"
+									},
+									{
+										"backdrop_url": "/backdrop/251388322/{profile}",
+										"backdrop_blur_hash": "LKPWp80Q]~^0%0#+x?xr%vi{y9kS"
+									},
+									{
+										"backdrop_url": "/backdrop/208379163/{profile}",
+										"backdrop_blur_hash": "L34LaxWC0Jxu-:WBIot7V]j[jZWB"
+									},
+									{
+										"backdrop_url": "/backdrop/243989549/{profile}",
+										"backdrop_blur_hash": "L}IFe;of~XfjM{afWBaysoWVkCay"
+									}
+								],
+								"tmdb_popularity": 397.562,
+								"object_type": "show_season",
+								"original_title": "7ος κύκλος",
+								"offers": [
+									{
+										"jw_entity_id": "tss311662",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d40a6bb0-c957-4ac0-884c-bb4cd34c21bc",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.d40a6bb0-c957-4ac0-884c-bb4cd34c21bc",
+											"deeplink_rokuos": "launch/13?contentID=B09JFMLPGK&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 15,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 397.562
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 127089
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 864205.2
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 101
+									}
+								],
+								"show_id": 36000,
+								"show_title": "Fear the Walking Dead",
+								"season_number": 7
+							},
+							{
+								"jw_entity_id": "tss235032",
+								"id": 235032,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/bang-bang-baby/season-1",
+								"poster": "/poster/278627087/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/272395426/{profile}",
+										"backdrop_blur_hash": "LVExi8*^RkK5AS#?r?S$VCX:bZrX"
+									}
+								],
+								"tmdb_popularity": 9.771,
+								"object_type": "show_season",
+								"original_title": "Sezonul 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss235032",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d31b3fd-617d-497f-9de5-21cc0a4cd18e",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.1d31b3fd-617d-497f-9de5-21cc0a4cd18e",
+											"deeplink_rokuos": "launch/13?contentID=B09XK67MVY&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 10,
+										"new_element_count": 5,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 9.771
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 152
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 957.6
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.3
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.3
+									}
+								],
+								"show_id": 224849,
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm86968",
+								"id": 86968,
+								"title": "Aitraaz",
+								"full_path": "/in/movie/aitraaz",
+								"poster": "/poster/191751617/{profile}",
+								"tmdb_popularity": 7.025,
+								"object_type": "movie",
+								"original_title": "ऐतराज़",
+								"offers": [
+									{
+										"jw_entity_id": "tm86968",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c27a6554-406d-42bc-b1e2-9cc1ddc8a82b",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.c27a6554-406d-42bc-b1e2-9cc1ddc8a82b",
+											"deeplink_rokuos": "launch/13?contentID=B0B1TZYK93&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 22315
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 67405.8
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 7.025
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 10213
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm186785",
+								"id": 186785,
+								"title": "Khal Nayak",
+								"full_path": "/in/movie/khal-nayak",
+								"poster": "/poster/207353298/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/58690148/{profile}",
+										"backdrop_blur_hash": "LGB.1W?bxvNeIoM|R*od1a+]RjEf"
+									},
+									{
+										"backdrop_url": "/backdrop/58690149/{profile}",
+										"backdrop_blur_hash": "LMKcFN}qf#ivDkSgW-^kKdozsDIo"
+									},
+									{
+										"backdrop_url": "/backdrop/415691/{profile}",
+										"backdrop_blur_hash": "L6E_aXI.V@0dTL9tX9xb57$*WAof"
+									}
+								],
+								"tmdb_popularity": 3.548,
+								"object_type": "movie",
+								"original_title": "Khal Nayak",
+								"offers": [
+									{
+										"jw_entity_id": "tm186785",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ffa69cb4-bb80-49aa-98ef-255a9911b150",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.ffa69cb4-bb80-49aa-98ef-255a9911b150",
+											"deeplink_rokuos": "launch/13?contentID=B09V1LTM6F&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 3310
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 32295
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 23501
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.1
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 3.548
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm6781",
+								"id": 6781,
+								"title": "Saudagar",
+								"full_path": "/in/movie/saudagar",
+								"poster": "/poster/138451950/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/156765212/{profile}",
+										"backdrop_blur_hash": "LHDlAi=[-4?H0.IpRjS7Ost6NvtQ"
+									}
+								],
+								"tmdb_popularity": 2.75,
+								"object_type": "movie",
+								"original_title": "सौदागर",
+								"offers": [
+									{
+										"jw_entity_id": "tm6781",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9962c6e1-92e6-483e-9f49-8adf903c8bd8",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.9962c6e1-92e6-483e-9f49-8adf903c8bd8",
+											"deeplink_rokuos": "launch/13?contentID=B09WZMSDGB&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 1414
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 166017
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 9332.4
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.4
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 2.75
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm87681",
+								"id": 87681,
+								"title": "Udhaya",
+								"full_path": "/in/movie/udhaya",
+								"poster": "/poster/179075671/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/199849629/{profile}",
+										"backdrop_blur_hash": "LNF}vCxZNGMx0f%2t6xtE2IVWqIp"
+									},
+									{
+										"backdrop_url": "/backdrop/199849627/{profile}",
+										"backdrop_blur_hash": "LMG6FnI;nNrX5+SfS$kC0~oeJTt7"
+									},
+									{
+										"backdrop_url": "/backdrop/199849628/{profile}",
+										"backdrop_blur_hash": "LMKlj:0KT{HYIna0xGtkK0ofsDNZ"
+									},
+									{
+										"backdrop_url": "/backdrop/240463377/{profile}",
+										"backdrop_blur_hash": "LGLWt#58I84;x^_4W9WA?vtQa%RP"
+									},
+									{
+										"backdrop_url": "/backdrop/240463376/{profile}",
+										"backdrop_blur_hash": "LVNTI2Wu00%2V?Imxb%LtQIB%LbG"
+									}
+								],
+								"tmdb_popularity": 2.03,
+								"object_type": "movie",
+								"original_title": "உதயா",
+								"offers": [
+									{
+										"jw_entity_id": "tm87681",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2bdb04e-00e8-4475-86f7-d1cc0b078d42",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a2bdb04e-00e8-4475-86f7-d1cc0b078d42",
+											"deeplink_rokuos": "launch/13?contentID=B0B2CNQXQX&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 4.3
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 2.03
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 987
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 69658
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 4244.0999999999999
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm97335",
+								"id": 97335,
+								"title": "Karz",
+								"full_path": "/in/movie/karz",
+								"poster": "/poster/272159059/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/185917205/{profile}",
+										"backdrop_blur_hash": "LACidQ?GIBt40L$+baI;EeInxuxa"
+									}
+								],
+								"tmdb_popularity": 1.96,
+								"object_type": "movie",
+								"original_title": "कर्ज़",
+								"offers": [
+									{
+										"jw_entity_id": "tm97335",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a5cef74f-e122-46c3-808f-178558de04d9",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a5cef74f-e122-46c3-808f-178558de04d9",
+											"deeplink_rokuos": "launch/13?contentID=B0B1J2QL2Q&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 23715
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 16842.4
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.4
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.96
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 2276
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm132024",
+								"id": 132024,
+								"title": "Simhadri",
+								"full_path": "/in/movie/simhadri",
+								"poster": "/poster/258508122/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/11501518/{profile}",
+										"backdrop_blur_hash": "LMQ[O@M}?M?YDzNL-;$wY6Rkrq%2"
+									},
+									{
+										"backdrop_url": "/backdrop/11501517/{profile}",
+										"backdrop_blur_hash": "LjPi@st7_4j[.9WBV@j[WVWAoff6"
+									},
+									{
+										"backdrop_url": "/backdrop/189732667/{profile}",
+										"backdrop_blur_hash": "LRGR0HyCIo0e.7t8V@IUr=RRs-oe"
+									}
+								],
+								"tmdb_popularity": 1.752,
+								"object_type": "movie",
+								"original_title": "సింహాద్రి",
+								"offers": [
+									{
+										"jw_entity_id": "tm132024",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69b102ff-c7ad-4d6a-a649-af1ba7dce582",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.69b102ff-c7ad-4d6a-a649-af1ba7dce582",
+											"deeplink_rokuos": "launch/13?contentID=B09TQ7HPPV&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.3
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.4
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.752
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 3058
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 80805
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 22629.2
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm189662",
+								"id": 189662,
+								"title": "Kaalamellam Kaathiruppen",
+								"full_path": "/in/movie/kaalamellam-kaathiruppen",
+								"poster": "/poster/141441609/{profile}",
+								"tmdb_popularity": 1.375,
+								"object_type": "movie",
+								"original_title": "Kaalamellam Kaathiruppen",
+								"offers": [
+									{
+										"jw_entity_id": "tm189662",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbac2c5-d052-4907-a523-319a21151846",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4cbac2c5-d052-4907-a523-319a21151846",
+											"deeplink_rokuos": "launch/13?contentID=B09Y1H15VV&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 6.9
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.375
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 530
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 78650
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 3657
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm21579",
+								"id": 21579,
+								"title": "Vaanavil",
+								"full_path": "/in/movie/vaanavil",
+								"poster": "/poster/278076274/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/448741/{profile}",
+										"backdrop_blur_hash": "LCEoiT7%D*^4;@=rs:NH9u^4NFNG"
+									}
+								],
+								"tmdb_popularity": 1.157,
+								"object_type": "movie",
+								"original_title": "வானவில்",
+								"offers": [
+									{
+										"jw_entity_id": "tm21579",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0de5aac2-5325-4b51-86fd-22643ec3ffc6",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.0de5aac2-5325-4b51-86fd-22643ec3ffc6",
+											"deeplink_rokuos": "launch/13?contentID=B0B1W636MF&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 6.3
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.157
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 12
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 66521
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 75.6
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.5
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-30",
+				"providers": [
+					{
+						"total": 6,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss306224",
+								"id": 306224,
+								"title": "Season 6",
+								"full_path": "/in/tv-show/riverdale/season-6",
+								"poster": "/poster/265046698/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/4443979/{profile}",
+										"backdrop_blur_hash": "LGGaz%}=qsD%IJIVyq%0L2GGwfRi"
+									},
+									{
+										"backdrop_url": "/backdrop/5929900/{profile}",
+										"backdrop_blur_hash": "LEAl@g}8v|X9}@-BwbohD~NxkWae"
+									},
+									{
+										"backdrop_url": "/backdrop/8632540/{profile}",
+										"backdrop_blur_hash": "LJBVw-V@9bWB~VjEIVWBxvs,NGWB"
+									},
+									{
+										"backdrop_url": "/backdrop/109898104/{profile}",
+										"backdrop_blur_hash": "LbAeHsIUkDM_.TWBR-j[ozaxkWkC"
+									}
+								],
+								"tmdb_popularity": 415.941,
+								"object_type": "show_season",
+								"original_title": "Season 6",
+								"offers": [
+									{
+										"jw_entity_id": "tss306224",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80133311",
+											"deeplink_web": "http://www.netflix.com/watch/80133311",
+											"deeplink_rokuos": "launch/12?contentID=80133311&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 16,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:popularity",
+										"value": 163
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 415.941
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 139632
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 935534.4
+									}
+								],
+								"show_id": 53023,
+								"show_title": "Riverdale",
+								"season_number": 6
+							},
+							{
+								"jw_entity_id": "tss350415",
+								"id": 350415,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/marriage-white-paper/season-1",
+								"poster": "/poster/280849963/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280565248/{profile}",
+										"backdrop_blur_hash": "LUEE*;0yKO:ltlWXRjsmxaaKRjoz"
+									},
+									{
+										"backdrop_url": "/backdrop/280565250/{profile}",
+										"backdrop_blur_hash": "LLG9Q,9G2Twc60-;%zI;%MR%Rjbw"
+									},
+									{
+										"backdrop_url": "/backdrop/280565249/{profile}",
+										"backdrop_blur_hash": "LHEyxs56ABRi_4kUTxkXTIs.e9tR"
+									}
+								],
+								"tmdb_popularity": 55.629,
+								"object_type": "show_season",
+								"original_title": "Season 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss350415",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81568851",
+											"deeplink_web": "http://www.netflix.com/watch/81568851",
+											"deeplink_rokuos": "launch/12?contentID=81568851&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 4,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 55.629
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 21
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 159.6
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.5
+									}
+								],
+								"show_id": 344043,
+								"show_title": "Welcome to Wedding Hell",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm1209228",
+								"id": 1209228,
+								"title": "Norm Macdonald: Nothing Special",
+								"full_path": "/in/movie/norm-macdonald-nothing-special",
+								"poster": "/poster/281833962/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/279507797/{profile}",
+										"backdrop_blur_hash": "L39QU29[4;}?4TE2Sjr:E1-pxabb"
+									}
+								],
+								"tmdb_popularity": 50.89,
+								"object_type": "movie",
+								"original_title": "Norm Macdonald: Nothing Special",
+								"offers": [
+									{
+										"jw_entity_id": "tm1209228",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81128851",
+											"deeplink_web": "http://www.netflix.com/watch/81128851",
+											"deeplink_rokuos": "launch/12?contentID=81128851&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 975088
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 50.89
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm326323",
+								"id": 326323,
+								"title": "The Grudge",
+								"full_path": "/in/movie/the-grudge-2020",
+								"poster": "/poster/163951778/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/164069492/{profile}",
+										"backdrop_blur_hash": "LFCP@YWB_2t7-;WBt7t7~pj[ofj["
+									},
+									{
+										"backdrop_url": "/backdrop/173466505/{profile}",
+										"backdrop_blur_hash": "LGDb=].S0K-W?ctRIUn~.l^jIUEM"
+									},
+									{
+										"backdrop_url": "/backdrop/160374565/{profile}",
+										"backdrop_blur_hash": "LIA^BwRkE3i|~px[IVjbxu%MRQkB"
+									},
+									{
+										"backdrop_url": "/backdrop/168289265/{profile}",
+										"backdrop_blur_hash": "L94{M88w%Mf+Rjt6WBae%MMyt7oe"
+									},
+									{
+										"backdrop_url": "/backdrop/164112217/{profile}",
+										"backdrop_blur_hash": "L9BCx-*IEL^Q~Wo#D*n%HB}ta1Ef"
+									}
+								],
+								"tmdb_popularity": 20.956,
+								"object_type": "movie",
+								"original_title": "The Grudge",
+								"offers": [
+									{
+										"jw_entity_id": "tm326323",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80219131",
+											"deeplink_web": "http://www.netflix.com/watch/80219131",
+											"deeplink_rokuos": "launch/12?contentID=80219131&MediaType=movie"
+										},
+										"available_to": "2023-05-30",
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 108269.7
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 2636
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 4.3
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 20.956
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 25179
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 465086
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss338702",
+								"id": 338702,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/manyeo-ceryeog-nonggubu/season-1",
+								"poster": "/poster/264079511/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/270813690/{profile}",
+										"backdrop_blur_hash": "LZKS=AV_W3aeMqbYxafhI=WAorfl"
+									}
+								],
+								"tmdb_popularity": 11.158,
+								"object_type": "show_season",
+								"original_title": "Сезон 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss338702",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81581005",
+											"deeplink_web": "http://www.netflix.com/watch/81581005",
+											"deeplink_rokuos": "launch/12?contentID=81581005&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 8,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 11.158
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5
+									}
+								],
+								"show_id": 329854,
+								"show_title": "Jump Like a Witch",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm1217611",
+								"id": 1217611,
+								"title": "Mighty Little Bheem: I Love Taj Mahal",
+								"full_path": "/in/movie/mighty-little-bheem-i-love-taj-mahal",
+								"poster": "/poster/280660386/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280660387/{profile}",
+										"backdrop_blur_hash": "LIP3*E8zD8B$%dRpM#b@-No4NL%0"
+									},
+									{
+										"backdrop_url": "/backdrop/280660388/{profile}",
+										"backdrop_blur_hash": "LnKKZ?rpGwnPKls:WIR%RkbwRPkD"
+									}
+								],
+								"tmdb_popularity": 10.543,
+								"object_type": "movie",
+								"original_title": "Mighty Little Bheem: I Love Taj Mahal",
+								"offers": [
+									{
+										"jw_entity_id": "tm1217611",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81312752",
+											"deeplink_web": "http://www.netflix.com/watch/81312752",
+											"deeplink_rokuos": "launch/12?contentID=81312752&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 979421
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 10.543
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-29",
+				"providers": [
+					{
+						"total": 2,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss322179",
+								"id": 322179,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/our-blues/season-1",
+								"poster": "/poster/270138327/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/272394963/{profile}",
+										"backdrop_blur_hash": "LBDv[d4.5NQ:n9REoys:0Ksrxabd"
+									},
+									{
+										"backdrop_url": "/backdrop/270138329/{profile}",
+										"backdrop_blur_hash": "LDEo[7I9o}M_4mxvV?%3TJIA%MNZ"
+									},
+									{
+										"backdrop_url": "/backdrop/270138328/{profile}",
+										"backdrop_blur_hash": "LMMj]q9s_L-ox_s=?bWCofE1x]IV"
+									},
+									{
+										"backdrop_url": "/backdrop/272394964/{profile}",
+										"backdrop_blur_hash": "LGEpJ-RoJ4R7VtM*oet70JM{V@W?"
+									},
+									{
+										"backdrop_url": "/backdrop/270138371/{profile}",
+										"backdrop_blur_hash": "L7EyuMWB5isi4TIZRi%20K-qaNp0"
+									}
+								],
+								"tmdb_popularity": 63.815,
+								"object_type": "show_season",
+								"original_title": "الموسم 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss322179",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81568842",
+											"deeplink_web": "http://www.netflix.com/watch/81568842",
+											"deeplink_rokuos": "launch/12?contentID=81568842&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 16,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 8.2
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 63.815
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 372
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 3050.3999999999998
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.4
+									}
+								],
+								"show_id": 312984,
+								"show_title": "Our Blues",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tss330460",
+								"id": 330460,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/my-liberation-diary/season-1",
+								"poster": "/poster/272300956/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/272300957/{profile}",
+										"backdrop_blur_hash": "LDEoVnAtH[RQ?IpH-nD*~p-:xZRj"
+									},
+									{
+										"backdrop_url": "/backdrop/280565340/{profile}",
+										"backdrop_blur_hash": "LZKJ}L9GS5X9~pIUj[xuIVt7s.oL"
+									},
+									{
+										"backdrop_url": "/backdrop/272300958/{profile}",
+										"backdrop_blur_hash": "LaHVYu9Zozs6lCfmslNFI@o#xWR%"
+									},
+									{
+										"backdrop_url": "/backdrop/269926115/{profile}",
+										"backdrop_blur_hash": "LEG*+v?a~ptR_4bJogjb~VofNGt6"
+									},
+									{
+										"backdrop_url": "/backdrop/267832561/{profile}",
+										"backdrop_blur_hash": "LWKJ}L4:NdX9~pIUj[xuD*xtsme:"
+									}
+								],
+								"tmdb_popularity": 52.29,
+								"object_type": "show_season",
+								"original_title": "الموسم 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss330460",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81568411",
+											"deeplink_web": "http://www.netflix.com/watch/81568411",
+											"deeplink_rokuos": "launch/12?contentID=81568411&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 16,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 587
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 5048.2
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.2
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 52.29
+									}
+								],
+								"show_id": 321513,
+								"show_title": "My Liberation Notes",
+								"season_number": 1
+							}
+						]
+					},
+					{
+						"total": 1,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tm1100912",
+								"id": 1100912,
+								"title": "Fourwalls",
+								"full_path": "/in/movie/fourwalls",
+								"poster": "/poster/251019426/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280585295/{profile}",
+										"backdrop_blur_hash": "LRDSj}D+MHWCEOt2K7jXD%s+x^og"
+									},
+									{
+										"backdrop_url": "/backdrop/280585298/{profile}",
+										"backdrop_blur_hash": "L78zJn0JF}rpb^NFNxxC0J?vMcxv"
+									},
+									{
+										"backdrop_url": "/backdrop/280585297/{profile}",
+										"backdrop_blur_hash": "LGE2kJu1vJ-A0{w4K6NGE1R.xvS~"
+									},
+									{
+										"backdrop_url": "/backdrop/280585296/{profile}",
+										"backdrop_blur_hash": "L7C642%f0y4VJBM{wJ%LE2IV-ox["
+									},
+									{
+										"backdrop_url": "/backdrop/280585299/{profile}",
+										"backdrop_blur_hash": "LRH-lmymVC;40xwOOYJ6I:WFxvXR"
+									}
+								],
+								"tmdb_popularity": 1.547,
+								"object_type": "movie",
+								"original_title": "Fourwalls",
+								"offers": [
+									{
+										"jw_entity_id": "tm1100912",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4dd9e476-15ae-441b-a74f-6628bbc72564",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4dd9e476-15ae-441b-a74f-6628bbc72564",
+											"deeplink_rokuos": "launch/13?contentID=B09T99333P&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 970760
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 940.9
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 9.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.547
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 97
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-28",
+				"providers": [
+					{
+						"total": 2,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tss332591",
+								"id": 332591,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/the-boys-diabolical/season-1",
+								"poster": "/poster/264350299/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/264322440/{profile}",
+										"backdrop_blur_hash": "LL9Q%NROMHx]tToJR4bckWj]V?bF"
+									},
+									{
+										"backdrop_url": "/backdrop/266742614/{profile}",
+										"backdrop_blur_hash": "LGB4atI8D+OG%hf-Rjo#4mIp%1xu"
+									},
+									{
+										"backdrop_url": "/backdrop/265325725/{profile}",
+										"backdrop_blur_hash": "LOAB@bEfH@m,yYXUR5s9QRZ~tlgi"
+									},
+									{
+										"backdrop_url": "/backdrop/282029154/{profile}",
+										"backdrop_blur_hash": "LPBWiERP8^gO-poMIoSeV@s:SiWU"
+									},
+									{
+										"backdrop_url": "/backdrop/257452726/{profile}",
+										"backdrop_blur_hash": "LGDcO3$kD%E1DiRP-:S~4Ts:M|W;"
+									}
+								],
+								"tmdb_popularity": 51.973,
+								"object_type": "show_season",
+								"original_title": "Season 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss332591",
+										"type": "aggregated",
+										"monetization_type": "free",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a253a6f6-1a40-4e0e-b2c9-2230c5caa864",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a253a6f6-1a40-4e0e-b2c9-2230c5caa864",
+											"deeplink_rokuos": "launch/13?contentID=B09Q2D7MHS&MediaType=episode"
+										},
+										"presentation_type": "hd",
+										"element_count": 1,
+										"new_element_count": 1,
+										"country": "IN"
+									},
+									{
+										"jw_entity_id": "tss332591",
+										"type": "aggregated",
+										"monetization_type": "free",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a253a6f6-1a40-4e0e-b2c9-2230c5caa864",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a253a6f6-1a40-4e0e-b2c9-2230c5caa864",
+											"deeplink_rokuos": "launch/13?contentID=B09Q2D7MHS&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 1,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 8300
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 57270
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.2
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.9
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 51.973
+									}
+								],
+								"show_id": 319406,
+								"show_title": "The Boys Presents: Diabolical",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tss355801",
+								"id": 355801,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/modern-love-mumbai/season-1",
+								"poster": "/poster/274917291/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/279039908/{profile}",
+										"backdrop_blur_hash": "LSI;q;={MeIC0%S$I:WAOEM_M_tQ"
+									},
+									{
+										"backdrop_url": "/backdrop/279039909/{profile}",
+										"backdrop_blur_hash": "LfODLL~q%KIU%MRjRitRxtRjRmoz"
+									},
+									{
+										"backdrop_url": "/backdrop/279039915/{profile}",
+										"backdrop_blur_hash": "LfH-}X?b~q%MSzobRjRPogjuW;of"
+									},
+									{
+										"backdrop_url": "/backdrop/279039914/{profile}",
+										"backdrop_blur_hash": "LfJuWNNw~W$+~VjExvWAXmtRMwV@"
+									},
+									{
+										"backdrop_url": "/backdrop/279039913/{profile}",
+										"backdrop_blur_hash": "LgHwPm0gxZxYEMR-tQaKsoxFaebI"
+									}
+								],
+								"tmdb_popularity": 9.771,
+								"object_type": "show_season",
+								"original_title": "Stagione 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss355801",
+										"type": "aggregated",
+										"monetization_type": "free",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da9fb3cf-de27-4234-bc12-5030506f4393",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.da9fb3cf-de27-4234-bc12-5030506f4393",
+											"deeplink_rokuos": "launch/13?contentID=B09W5M5H9D&MediaType=episode"
+										},
+										"presentation_type": "4k",
+										"element_count": 1,
+										"new_element_count": 1,
+										"country": "IN"
+									},
+									{
+										"jw_entity_id": "tss355801",
+										"type": "aggregated",
+										"monetization_type": "free",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da9fb3cf-de27-4234-bc12-5030506f4393",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.da9fb3cf-de27-4234-bc12-5030506f4393",
+											"deeplink_rokuos": "launch/13?contentID=B09W5M5H9D&MediaType=episode"
+										},
+										"presentation_type": "hd",
+										"element_count": 1,
+										"new_element_count": 1,
+										"country": "IN"
+									},
+									{
+										"jw_entity_id": "tss355801",
+										"type": "aggregated",
+										"monetization_type": "free",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da9fb3cf-de27-4234-bc12-5030506f4393",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.da9fb3cf-de27-4234-bc12-5030506f4393",
+											"deeplink_rokuos": "launch/13?contentID=B09W5M5H9D&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 1,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 9.771
+									}
+								],
+								"show_id": 349263,
+								"season_number": 1
+							}
+						]
+					},
+					{
+						"total": 2,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss292506",
+								"id": 292506,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/spy-x-family/season-1",
+								"poster": "/poster/269897496/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/272301461/{profile}",
+										"backdrop_blur_hash": "L8F?zry=ofM0x]RPf+t7t+VsWCtQ"
+									},
+									{
+										"backdrop_url": "/backdrop/272301460/{profile}",
+										"backdrop_blur_hash": "LPI4hRFr9]WX~B-:9tS3NFt7s;Io"
+									},
+									{
+										"backdrop_url": "/backdrop/266824558/{profile}",
+										"backdrop_blur_hash": "LFFZZuD%9FV@y?t6%LsT1g-:$%oz"
+									},
+									{
+										"backdrop_url": "/backdrop/273328064/{profile}",
+										"backdrop_blur_hash": "LIJ*3Vcr57E1~A-:4.g44-WBxbNG"
+									},
+									{
+										"backdrop_url": "/backdrop/272301453/{profile}",
+										"backdrop_blur_hash": "LRJ%^5J$0LX8vy-:T0R*o|t6V@NG"
+									}
+								],
+								"tmdb_popularity": 1171.605,
+								"object_type": "show_season",
+								"original_title": "الموسم 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss292506",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81511410",
+											"deeplink_web": "http://www.netflix.com/watch/81511410",
+											"deeplink_rokuos": "launch/12?contentID=81511410&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 8,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1171.605
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 8273
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 74457
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 9
+									}
+								],
+								"show_id": 283022,
+								"show_title": "SPY x FAMILY",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tss309039",
+								"id": 309039,
+								"title": "Season 9",
+								"full_path": "/in/tv-show/the-blacklist/season-9",
+								"poster": "/poster/259437978/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/254526066/{profile}",
+										"backdrop_blur_hash": "LbD$snJ71vs:xGS2ayX864fk=0WV"
+									},
+									{
+										"backdrop_url": "/backdrop/8581114/{profile}",
+										"backdrop_blur_hash": "LGCj6Iw[a$M{Dh9ZNaIo4mxvs;j]"
+									},
+									{
+										"backdrop_url": "/backdrop/222822775/{profile}",
+										"backdrop_blur_hash": "LlJb25xu~qM{M{WB9FofIUofRjof"
+									},
+									{
+										"backdrop_url": "/backdrop/55763551/{profile}",
+										"backdrop_blur_hash": "LGCj6Iw[WXM{Dh9ZNaIo4mxvs;j]"
+									},
+									{
+										"backdrop_url": "/backdrop/222822774/{profile}",
+										"backdrop_blur_hash": "LJB3.^t700M{~qay9Fj[ayRjM{t7"
+									}
+								],
+								"tmdb_popularity": 339.051,
+								"object_type": "show_season",
+								"original_title": "Season 9",
+								"offers": [
+									{
+										"jw_entity_id": "tss309039",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/70281312",
+											"deeplink_web": "http://www.netflix.com/watch/70281312",
+											"deeplink_rokuos": "launch/12?contentID=70281312&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 22,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 339.051
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 239463
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 1915704
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 10
+									}
+								],
+								"show_id": 1639,
+								"show_title": "The Blacklist",
+								"season_number": 9
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-27",
+				"providers": [
+					{
+						"total": 9,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tm841794",
+								"id": 841794,
+								"title": "Paranormal Activity: Next of Kin",
+								"full_path": "/in/movie/untitled-paranormal-activity-sequel",
+								"poster": "/poster/253423942/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/254323140/{profile}",
+										"backdrop_blur_hash": "LB8EVn8^8^_N%gM{WBt7D$xux]D%"
+									},
+									{
+										"backdrop_url": "/backdrop/253135203/{profile}",
+										"backdrop_blur_hash": "L96R.E8wxuV[Dj.7IAxuV@Rjx]Mx"
+									},
+									{
+										"backdrop_url": "/backdrop/254233142/{profile}",
+										"backdrop_blur_hash": "L13[*g00IU^+x]ofV@RkX8s:V[Na"
+									},
+									{
+										"backdrop_url": "/backdrop/254233141/{profile}",
+										"backdrop_blur_hash": "L13uvAIU0K-p00xt-;M{%gRjnibb"
+									},
+									{
+										"backdrop_url": "/backdrop/254233140/{profile}",
+										"backdrop_blur_hash": "L12$BIt60LM|~Uoy9GNGozofsTWB"
+									}
+								],
+								"tmdb_popularity": 253.652,
+								"object_type": "movie",
+								"original_title": "Paranormal Activity: Next of Kin",
+								"offers": [
+									{
+										"jw_entity_id": "tm841794",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e7c66bb3-63f5-4d8e-a07d-c750e4e22621",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.e7c66bb3-63f5-4d8e-a07d-c750e4e22621",
+											"deeplink_rokuos": "launch/13?contentID=B09JZTCRB2&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 5.2
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 253.652
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 10210
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 609972
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 53092
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.5
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss329145",
+								"id": 329145,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/bosch-legacy/season-1",
+								"poster": "/poster/267434796/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/267449377/{profile}",
+										"backdrop_blur_hash": "LDD9k$3DV{],3=,;s:K%u+E3oz^j"
+									},
+									{
+										"backdrop_url": "/backdrop/278223220/{profile}",
+										"backdrop_blur_hash": "LNE.%_GGM|$f1fs9xuXm+wNIWB%2"
+									},
+									{
+										"backdrop_url": "/backdrop/278223219/{profile}",
+										"backdrop_blur_hash": "LFBypmAJtQn3C,}sofIo=_NdR+j?"
+									},
+									{
+										"backdrop_url": "/backdrop/278223218/{profile}",
+										"backdrop_blur_hash": "LICPO.Acoyiv3W;{j]R*Q,9ZS2%2"
+									},
+									{
+										"backdrop_url": "/backdrop/278223217/{profile}",
+										"backdrop_blur_hash": "LHC6DUAJtQn3Cm}skCIo=xNdS2j?"
+									}
+								],
+								"tmdb_popularity": 57.419,
+								"object_type": "show_season",
+								"original_title": "1. évad",
+								"offers": [
+									{
+										"jw_entity_id": "tss329145",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26e903af-4faf-43d2-8db5-c368a1613db9",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.26e903af-4faf-43d2-8db5-c368a1613db9",
+											"deeplink_rokuos": "launch/13?contentID=B09SGLWHNS&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 10,
+										"new_element_count": 2,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 57.419
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 7061
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 62136.8
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.8
+									}
+								],
+								"show_id": 320489,
+								"show_title": "Bosch: Legacy",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm1137950",
+								"id": 1137950,
+								"title": "Emergency",
+								"full_path": "/in/movie/emergency",
+								"poster": "/poster/276569878/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/270896908/{profile}",
+										"backdrop_blur_hash": "LDA+%U$%Iko%0x9tM{$jR#%NxwRh"
+									},
+									{
+										"backdrop_url": "/backdrop/257045402/{profile}",
+										"backdrop_blur_hash": "L968,IenD$o#Mwo}x]jt8^oLt7WB"
+									},
+									{
+										"backdrop_url": "/backdrop/270896911/{profile}",
+										"backdrop_blur_hash": "L65F8^+XA08^x^r=S%I9ROS%jEnh"
+									},
+									{
+										"backdrop_url": "/backdrop/270896910/{profile}",
+										"backdrop_blur_hash": "L99t7JaP0LI9nfROM~xvE3bIs:Wn"
+									},
+									{
+										"backdrop_url": "/backdrop/270896909/{profile}",
+										"backdrop_blur_hash": "L14eybxc0cr_a2%NS5DhD4M^MLtm"
+									}
+								],
+								"tmdb_popularity": 37.922,
+								"object_type": "movie",
+								"original_title": "Emergency",
+								"offers": [
+									{
+										"jw_entity_id": "tm1137950",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f713b354-90f8-4971-8832-2932f318504a",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.f713b354-90f8-4971-8832-2932f318504a",
+											"deeplink_rokuos": "launch/13?contentID=B09QGSGQSL&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 819309
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 10559.099999999999
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.1
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 37.922
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 1731
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm453896",
+								"id": 453896,
+								"title": "Mr. Jones",
+								"full_path": "/in/movie/mr-jones-2019",
+								"poster": "/poster/174630080/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/262291184/{profile}",
+										"backdrop_blur_hash": "LOJQm3E14TX8kWt7tRniI:t7oft7"
+									},
+									{
+										"backdrop_url": "/backdrop/152174184/{profile}",
+										"backdrop_blur_hash": "L56*XL9Z0L~WsoRjRjtR0L-p%L9Z"
+									},
+									{
+										"backdrop_url": "/backdrop/152174183/{profile}",
+										"backdrop_blur_hash": "LVF6kD4TIV-;x]tRITRPtRRjj[jZ"
+									},
+									{
+										"backdrop_url": "/backdrop/189157021/{profile}",
+										"backdrop_blur_hash": "L87e0GM{4Tx]aJt7M|oz%LaybIMx"
+									},
+									{
+										"backdrop_url": "/backdrop/189157020/{profile}",
+										"backdrop_blur_hash": "LIIp-t^*D*9u%KoxNHIV4TtSS2RP"
+									}
+								],
+								"tmdb_popularity": 12.166,
+								"object_type": "movie",
+								"original_title": "Mr. Jones",
+								"offers": [
+									{
+										"jw_entity_id": "tm453896",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e8ead7f-2cd9-4d9d-8e98-152b11408017",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4e8ead7f-2cd9-4d9d-8e98-152b11408017",
+											"deeplink_rokuos": "launch/13?contentID=B09Z7DBC9W&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 11143
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 509598
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 76886.7
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 3788
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.9
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 12.166
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss349887",
+								"id": 349887,
+								"title": "Season 3",
+								"full_path": "/in/tv-show/lol-last-one-laughing-2021-0/season-3",
+								"poster": "/poster/243769189/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/243966863/{profile}",
+										"backdrop_blur_hash": "LC8p=j0KbD%2^+D%Sg%1WXs,I;%1"
+									},
+									{
+										"backdrop_url": "/backdrop/243966860/{profile}",
+										"backdrop_blur_hash": "LQKc65^i#Q:%}R9uxYw^xGoMkWNa"
+									}
+								],
+								"tmdb_popularity": 11.886,
+								"object_type": "show_season",
+								"original_title": "3. évad",
+								"offers": [
+									{
+										"jw_entity_id": "tss349887",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ffd945bf-9caf-48cd-82f4-e7ed4fc1ccf4",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.ffd945bf-9caf-48cd-82f4-e7ed4fc1ccf4",
+											"deeplink_rokuos": "launch/13?contentID=B09PRD1HNG&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 6,
+										"new_element_count": 6,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 2706
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 20565.6
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 11.886
+									}
+								],
+								"show_id": 280527,
+								"season_number": 3
+							},
+							{
+								"jw_entity_id": "tm1184919",
+								"id": 1184919,
+								"title": "Room 203",
+								"full_path": "/in/movie/room-203",
+								"poster": "/poster/271307916/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/270296685/{profile}",
+										"backdrop_blur_hash": "LHBpnPx[X801-:RjM{t7-;WBWBM{"
+									},
+									{
+										"backdrop_url": "/backdrop/270296687/{profile}",
+										"backdrop_blur_hash": "L02~cKyCIAxZt8M}Mxx^krtRi_kC"
+									},
+									{
+										"backdrop_url": "/backdrop/270296686/{profile}",
+										"backdrop_blur_hash": "L25Eg8M|?ZIV~Asmt6Ip-Us.NHIp"
+									},
+									{
+										"backdrop_url": "/backdrop/270296688/{profile}",
+										"backdrop_blur_hash": "LUFO.Jt-T0IU~US$NHjD$yRjMys8"
+									},
+									{
+										"backdrop_url": "/backdrop/273239991/{profile}",
+										"backdrop_blur_hash": "LB8gHi579G~B%gRkMxt7I:w^s:JA"
+									}
+								],
+								"tmdb_popularity": 8.138,
+								"object_type": "movie",
+								"original_title": "Room 203",
+								"offers": [
+									{
+										"jw_entity_id": "tm1184919",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892ea81-c2d2-4f35-a729-c45c1fcddfd0",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.5892ea81-c2d2-4f35-a729-c45c1fcddfd0",
+											"deeplink_rokuos": "launch/13?contentID=B0B29JWRYK&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.4
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 4.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 8.138
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 497
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 885121
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 2335.9
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm465434",
+								"id": 465434,
+								"title": "Plus One",
+								"full_path": "/in/movie/plus-one",
+								"poster": "/poster/138265038/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/187106447/{profile}",
+										"backdrop_blur_hash": "LRN,RKIa~I-O_Hr^DmOmt0WBN3of"
+									},
+									{
+										"backdrop_url": "/backdrop/133265283/{profile}",
+										"backdrop_blur_hash": "LXH1oHNeWVxF~U%1WCbv?Foya#of"
+									},
+									{
+										"backdrop_url": "/backdrop/257729271/{profile}",
+										"backdrop_blur_hash": "LDDJFgNGoIo|y?aLS$ni.RIp-obc"
+									},
+									{
+										"backdrop_url": "/backdrop/257729261/{profile}",
+										"backdrop_blur_hash": "LEDJFhNGt6tRy?V@XTsp?uIp-okW"
+									},
+									{
+										"backdrop_url": "/backdrop/257729260/{profile}",
+										"backdrop_blur_hash": "LJEoYxXSi_NbJBRQNuxY~oX9bIM|"
+									}
+								],
+								"tmdb_popularity": 7.059,
+								"object_type": "movie",
+								"original_title": "Plus One",
+								"offers": [
+									{
+										"jw_entity_id": "tm465434",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.656953d5-4359-4552-9f5c-65d990641477",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.656953d5-4359-4552-9f5c-65d990641477",
+											"deeplink_rokuos": "launch/13?contentID=B0B1F7W97H&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 10633
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 508101
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 70177.8
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 4916
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.1
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 7.059
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm1191146",
+								"id": 1191146,
+								"title": "Sher Shivraj",
+								"full_path": "/in/movie/sher-shivraj",
+								"poster": "/poster/270219047/{profile}",
+								"tmdb_popularity": 4.039,
+								"object_type": "movie",
+								"original_title": "शेर शिवराज",
+								"offers": [
+									{
+										"jw_entity_id": "tm1191146",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bdb6518c-9b56-42d8-8fd8-fe4422b10b3d",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.bdb6518c-9b56-42d8-8fd8-fe4422b10b3d",
+											"deeplink_rokuos": "launch/13?contentID=B09ZNWRJ3M&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 6384
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 9
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 9.5
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 4.039
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 672
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 959834
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm81055",
+								"id": 81055,
+								"title": "Good Boy, Bad Boy",
+								"full_path": "/in/movie/good-boy-bad-boy",
+								"poster": "/poster/100470660/{profile}",
+								"tmdb_popularity": 1.465,
+								"object_type": "movie",
+								"original_title": "गुड बॉय बैड बॉय",
+								"offers": [
+									{
+										"jw_entity_id": "tm81055",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bdca0481-e8a6-4609-8b73-42a42d6b0faa",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.bdca0481-e8a6-4609-8b73-42a42d6b0faa",
+											"deeplink_rokuos": "launch/13?contentID=B09X1CH5RC&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 6927.4
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 4.7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 3.8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.465
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 1823
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 159434
+									}
+								]
+							}
+						]
+					},
+					{
+						"total": 2,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss191136",
+								"id": 191136,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/the-gentlemens-league/season-1",
+								"poster": "/poster/134406235/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/134406236/{profile}",
+										"backdrop_blur_hash": "LSJR8cWBIoj=~UoJRkay4,s:t7a#"
+									},
+									{
+										"backdrop_url": "/backdrop/142245695/{profile}",
+										"backdrop_blur_hash": "LTQuTSoe~RR.^~n$NgW?XTbIIajb"
+									},
+									{
+										"backdrop_url": "/backdrop/139986397/{profile}",
+										"backdrop_blur_hash": "LLQ737nO|pS4mfaKNMWB#}V@KPjE"
+									}
+								],
+								"tmdb_popularity": 15.88,
+								"object_type": "show_season",
+								"original_title": "1. évad",
+								"offers": [
+									{
+										"jw_entity_id": "tss191136",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81504944",
+											"deeplink_web": "http://www.netflix.com/watch/81504944",
+											"deeplink_rokuos": "launch/12?contentID=81504944&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 34,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 15.88
+									}
+								],
+								"show_id": 215341,
+								"show_title": "The Gentlemen's League",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm1062350",
+								"id": 1062350,
+								"title": "Kedibone",
+								"full_path": "/in/movie/kedibone",
+								"poster": "/poster/259056376/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/281711570/{profile}",
+										"backdrop_blur_hash": "LADS8f-kh}xZ~pkVD%WUTeR.E1Rk"
+									}
+								],
+								"tmdb_popularity": 4.281,
+								"object_type": "movie",
+								"original_title": "Kedibone",
+								"offers": [
+									{
+										"jw_entity_id": "tm1062350",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81597494",
+											"deeplink_web": "http://www.netflix.com/watch/81597494",
+											"deeplink_rokuos": "launch/12?contentID=81597494&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 8.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 4.281
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 6
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 978630
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 52.199999999999999
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-26",
+				"providers": [
+					{
+						"total": 4,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tss304739",
+								"id": 304739,
+								"title": "Season 8",
+								"full_path": "/in/tv-show/the-flash/season-8",
+								"poster": "/poster/267388866/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/253754914/{profile}",
+										"backdrop_blur_hash": "LUNtN,?q0~;jIb0hR8S}%0R*NaI="
+									},
+									{
+										"backdrop_url": "/backdrop/71245923/{profile}",
+										"backdrop_blur_hash": "LnKmnJ~B.8T0ozRjV@xtNeR-jGxa"
+									},
+									{
+										"backdrop_url": "/backdrop/253754915/{profile}",
+										"backdrop_blur_hash": "LOOK3I_I5S}YD=0hrFJU%1WAIp9w"
+									},
+									{
+										"backdrop_url": "/backdrop/65619509/{profile}",
+										"backdrop_blur_hash": "L34yGt$dVHI;LIO.iJx[JPqCQ:MK"
+									},
+									{
+										"backdrop_url": "/backdrop/242105205/{profile}",
+										"backdrop_blur_hash": "LGKIIJFvIDI;{$0%M~KfSxk89wtP"
+									}
+								],
+								"tmdb_popularity": 632.525,
+								"object_type": "show_season",
+								"original_title": "Season 8",
+								"offers": [
+									{
+										"jw_entity_id": "tss304739",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.067d3617-ea98-4b90-8c10-da8b21c3b983",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.067d3617-ea98-4b90-8c10-da8b21c3b983",
+											"deeplink_rokuos": "launch/13?contentID=B09LQ9D7TX&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 16,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 632.525
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 337785
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 2567166
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 30
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.8
+									}
+								],
+								"show_id": 11188,
+								"show_title": "The Flash",
+								"season_number": 8
+							},
+							{
+								"jw_entity_id": "tm194835",
+								"id": 194835,
+								"title": "Maggie",
+								"full_path": "/in/movie/maggie",
+								"poster": "/poster/166543891/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/178734781/{profile}",
+										"backdrop_blur_hash": "LJCP|w~q_3-:xtM{RjoLWWRjM{Rk"
+									},
+									{
+										"backdrop_url": "/backdrop/10408670/{profile}",
+										"backdrop_blur_hash": "LJCP|w~q_3-;xtM{RjoLWVRjM{Rk"
+									},
+									{
+										"backdrop_url": "/backdrop/182386804/{profile}",
+										"backdrop_blur_hash": "LDCGe+D+%E8}~nIWtQxa%K%LM|t6"
+									},
+									{
+										"backdrop_url": "/backdrop/10408671/{profile}",
+										"backdrop_blur_hash": "LDB|cn9ax-8}_KIVtQxtx@%LM|t6"
+									},
+									{
+										"backdrop_url": "/backdrop/10408673/{profile}",
+										"backdrop_blur_hash": "LA9@Y3tQ0JNs$|ogItIBSvoLt7R*"
+									}
+								],
+								"tmdb_popularity": 20.304,
+								"object_type": "movie",
+								"original_title": "Maggie",
+								"offers": [
+									{
+										"jw_entity_id": "tm194835",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84dd073d-043e-4025-9fce-23d4ef4160c8",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.84dd073d-043e-4025-9fce-23d4ef4160c8",
+											"deeplink_rokuos": "launch/13?contentID=B0B11H1PXM&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.4
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 5.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 20.304
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 44131
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 287424
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 247133.59999999999
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 4129
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm857932",
+								"id": 857932,
+								"title": "Heropanti 2",
+								"full_path": "/in/movie/heropanti-2",
+								"poster": "/poster/254356247/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/281216709/{profile}",
+										"backdrop_blur_hash": "L34B2t5RS5}r$$R+WB$*AC$%s:EM"
+									},
+									{
+										"backdrop_url": "/backdrop/171660156/{profile}",
+										"backdrop_blur_hash": "LWJa.TyL?a%J0W%fjcNGIoM|kVs+"
+									},
+									{
+										"backdrop_url": "/backdrop/267981009/{profile}",
+										"backdrop_blur_hash": "LEDJq?I94o%g~pax4ox^%MWAj?WB"
+									},
+									{
+										"backdrop_url": "/backdrop/272919910/{profile}",
+										"backdrop_blur_hash": "LQCQ7200xus:_39GxuaexZIUozt7"
+									}
+								],
+								"tmdb_popularity": 19.807,
+								"object_type": "movie",
+								"original_title": "हीरोपंती 2",
+								"offers": [
+									{
+										"jw_entity_id": "tm857932",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.abf24391-dd85-4c0e-838a-89ecb22963d1",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.abf24391-dd85-4c0e-838a-89ecb22963d1",
+											"deeplink_rokuos": "launch/13?contentID=B09SNTLH4L&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 11112
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 678835
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 44448
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 4
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 19.807
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm14545",
+								"id": 14545,
+								"title": "Chinna Vathiyar",
+								"full_path": "/in/movie/chinna-vathiyar",
+								"poster": "/poster/138551108/{profile}",
+								"tmdb_popularity": 0.84,
+								"object_type": "movie",
+								"original_title": "சின்ன வாத்தியார்",
+								"offers": [
+									{
+										"jw_entity_id": "tm14545",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10b82312-6cdb-37f1-ea90-bdb6980ef69c",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.10b82312-6cdb-37f1-ea90-bdb6980ef69c",
+											"deeplink_rokuos": "launch/13?contentID=B084TD6P8C&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 304564
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 313.2
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 5.8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 0.84
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 54
+									}
+								]
+							}
+						]
+					},
+					{
+						"total": 4,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss272131",
+								"id": 272131,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/shaman-king-2021/season-1",
+								"poster": "/poster/249457672/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/244467270/{profile}",
+										"backdrop_blur_hash": "LCL44#|.yEE:^kHr%4E3s9M{R4Mw"
+									},
+									{
+										"backdrop_url": "/backdrop/269898018/{profile}",
+										"backdrop_blur_hash": "LSJ8CV-;%LbY_4xto#ax9aInIUt7"
+									},
+									{
+										"backdrop_url": "/backdrop/243041271/{profile}",
+										"backdrop_blur_hash": "LGL44z|o_3XV~WQ,j1ICjZVsnMVq"
+									},
+									{
+										"backdrop_url": "/backdrop/244467271/{profile}",
+										"backdrop_blur_hash": "LBKKK4|:5XAy=}Hr%3OGnhRQMwRO"
+									},
+									{
+										"backdrop_url": "/backdrop/243993951/{profile}",
+										"backdrop_blur_hash": "L~K]$Cofi_ox0maybbaetMW:W=W."
+									}
+								],
+								"tmdb_popularity": 75.215,
+								"object_type": "show_season",
+								"original_title": "시즌 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss272131",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81239555",
+											"deeplink_web": "http://www.netflix.com/watch/81239555",
+											"deeplink_rokuos": "launch/12?contentID=81239555&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 52,
+										"new_element_count": 14,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 1540
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 10780
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.4
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 75.215
+									}
+								],
+								"show_id": 250092,
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tss353593",
+								"id": 353593,
+								"title": "Season 2",
+								"full_path": "/in/tv-show/insiders/season-2",
+								"poster": "/poster/280129581/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/253878876/{profile}",
+										"backdrop_blur_hash": "LEC|r0AJRm-6$lS6JCNu|;sps=I."
+									},
+									{
+										"backdrop_url": "/backdrop/253878877/{profile}",
+										"backdrop_blur_hash": "LIC4;*0}OFEm}cNeR*JUEc$%nhk7"
+									},
+									{
+										"backdrop_url": "/backdrop/252945161/{profile}",
+										"backdrop_blur_hash": "L46*qm}6uo^j._^I-x+wysR*Mbob"
+									},
+									{
+										"backdrop_url": "/backdrop/252945159/{profile}",
+										"backdrop_blur_hash": "L35|}+[b0%Eg?DSx5UNbSyaynjjH"
+									},
+									{
+										"backdrop_url": "/backdrop/252945163/{profile}",
+										"backdrop_blur_hash": "LOKbqvp{VFMcM|V}S}xu8_Vss;bq"
+									}
+								],
+								"tmdb_popularity": 22.032,
+								"object_type": "show_season",
+								"original_title": "2. évad",
+								"offers": [
+									{
+										"jw_entity_id": "tss353593",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81405213",
+											"deeplink_web": "http://www.netflix.com/watch/81405213",
+											"deeplink_rokuos": "launch/12?contentID=81405213&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 7,
+										"new_element_count": 4,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 4.2
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 22.032
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 641
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 2692.2000000000004
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.9
+									}
+								],
+								"show_id": 310335,
+								"season_number": 2
+							},
+							{
+								"jw_entity_id": "tss305628",
+								"id": 305628,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/who-rules-the-world/season-1",
+								"poster": "/poster/246950991/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280071920/{profile}",
+										"backdrop_blur_hash": "LlL}1|nixWt7~Way%Ns:WXNHV@kC"
+									},
+									{
+										"backdrop_url": "/backdrop/280071919/{profile}",
+										"backdrop_blur_hash": "LVHC~9tlR*xH~po~kXi^D*R5ogWB"
+									},
+									{
+										"backdrop_url": "/backdrop/272504423/{profile}",
+										"backdrop_blur_hash": "LHAw_E.84TMy8xZ~x^NbNHRjskx^"
+									},
+									{
+										"backdrop_url": "/backdrop/272504424/{profile}",
+										"backdrop_blur_hash": "LRHL6qe-IU%M~Vt7ofNFozj[smj]"
+									}
+								],
+								"tmdb_popularity": 15.523,
+								"object_type": "show_season",
+								"original_title": "시즌 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss305628",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81605075",
+											"deeplink_web": "http://www.netflix.com/watch/81605075",
+											"deeplink_rokuos": "launch/12?contentID=81605075&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 40,
+										"new_element_count": 6,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 2175
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 15.523
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 250
+									}
+								],
+								"show_id": 296563,
+								"show_title": "Who Rules The World",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tss349222",
+								"id": 349222,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/green-mothers-club/season-1",
+								"poster": "/poster/272703956/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/270277052/{profile}",
+										"backdrop_blur_hash": "LRJbBE-;-ns??dofa|xu?ds+oukY"
+									},
+									{
+										"backdrop_url": "/backdrop/270277051/{profile}",
+										"backdrop_blur_hash": "LJE.|UIA0MRjsjxuI:jD9Fog%2kB"
+									},
+									{
+										"backdrop_url": "/backdrop/270277050/{profile}",
+										"backdrop_blur_hash": "LCGlU@rKDG?b0daOMexU4Un$RhIn"
+									},
+									{
+										"backdrop_url": "/backdrop/270277049/{profile}"
+									},
+									{
+										"backdrop_url": "/backdrop/270277048/{profile}"
+									}
+								],
+								"tmdb_popularity": 13.393,
+								"object_type": "show_season",
+								"original_title": "시즌 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss349222",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81572801",
+											"deeplink_web": "http://www.netflix.com/watch/81572801",
+											"deeplink_rokuos": "launch/12?contentID=81572801&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 16,
+										"new_element_count": 2,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 481.8
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.3
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 13.393
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 66
+									}
+								],
+								"show_id": 343251,
+								"show_title": "Green Mothers' Club",
+								"season_number": 1
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-25",
+				"providers": [
+					{
+						"total": 11,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tss311009",
+								"id": 311009,
+								"title": "Season 19",
+								"full_path": "/in/tv-show/ncis/season-19",
+								"poster": "/poster/251241171/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/251241173/{profile}",
+										"backdrop_blur_hash": "LOC=;vD*xuoK~VRQs:xt%LoJNGxt"
+									},
+									{
+										"backdrop_url": "/backdrop/149070167/{profile}",
+										"backdrop_blur_hash": "LZCG7C0L-pRibcsoIo%LNGs.f6W="
+									},
+									{
+										"backdrop_url": "/backdrop/93405284/{profile}",
+										"backdrop_blur_hash": "LC7Uk$xaH?M{?^ofIAV@cDWBRPof"
+									},
+									{
+										"backdrop_url": "/backdrop/241098199/{profile}",
+										"backdrop_blur_hash": "LRIO,}?abwof~q-ptRkC%gxuD%kC"
+									},
+									{
+										"backdrop_url": "/backdrop/178284618/{profile}",
+										"backdrop_blur_hash": "LjI}-P~qt7%L~q-;juay9FRjayM{"
+									}
+								],
+								"tmdb_popularity": 331.657,
+								"object_type": "show_season",
+								"original_title": "الموسم 19",
+								"offers": [
+									{
+										"jw_entity_id": "tss311009",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8328c308-166a-4a0f-ab1c-c959dffd42d8",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.8328c308-166a-4a0f-ab1c-c959dffd42d8",
+											"deeplink_rokuos": "launch/13?contentID=B09GRRD8SZ&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 21,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 331.657
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 141727
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 1105470.5999999999
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 47
+									}
+								],
+								"show_id": 22337,
+								"show_title": "NCIS",
+								"season_number": 19
+							},
+							{
+								"jw_entity_id": "tm473447",
+								"id": 473447,
+								"title": "Infinite",
+								"full_path": "/in/movie/infinite",
+								"poster": "/poster/246418704/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/253055856/{profile}",
+										"backdrop_blur_hash": "L5A0?r%KjXM}?bRot7%K9DWBM|IV"
+									},
+									{
+										"backdrop_url": "/backdrop/246427951/{profile}",
+										"backdrop_blur_hash": "L7ECtMWARhE20KIqt7-.s6xuM|WE"
+									},
+									{
+										"backdrop_url": "/backdrop/245647035/{profile}",
+										"backdrop_blur_hash": "L6BM-[t2oHIp.8NLt7-n8^flM|M|"
+									},
+									{
+										"backdrop_url": "/backdrop/249540248/{profile}",
+										"backdrop_blur_hash": "LB8qsVUZAw}E%gKiFexYE3s:t4EL"
+									},
+									{
+										"backdrop_url": "/backdrop/246312784/{profile}",
+										"backdrop_blur_hash": "L684e,%f0MIBsnWBIVt74:Rks.xt"
+									}
+								],
+								"tmdb_popularity": 193.268,
+								"object_type": "movie",
+								"original_title": "Infinite",
+								"offers": [
+									{
+										"jw_entity_id": "tm473447",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d73ef401-6810-41d1-bf89-9b6ae5fc5101",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.d73ef401-6810-41d1-bf89-9b6ae5fc5101",
+											"deeplink_rokuos": "launch/13?contentID=B09BK5B5DW&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 5.4
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 193.268
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 45968
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 581726
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 248227.2
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 66
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.7
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss310981",
+								"id": 310981,
+								"title": "Season 5",
+								"full_path": "/in/tv-show/station-19/season-5",
+								"poster": "/poster/251774515/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/251933378/{profile}",
+										"backdrop_blur_hash": "LVGO.ro0afs.|[snWVa|rsWqj[S2"
+									},
+									{
+										"backdrop_url": "/backdrop/225878374/{profile}",
+										"backdrop_blur_hash": "LrJthw%2-:xu~pWEt5Wq-:M|M{V["
+									},
+									{
+										"backdrop_url": "/backdrop/203617234/{profile}",
+										"backdrop_blur_hash": "LuHTdIX8xtay~Boft7ay-:oeSgf6"
+									},
+									{
+										"backdrop_url": "/backdrop/47926914/{profile}",
+										"backdrop_blur_hash": "LM9%uWbc=}kYH;W9M_oaT0t8o#oM"
+									},
+									{
+										"backdrop_url": "/backdrop/165708944/{profile}",
+										"backdrop_blur_hash": "LEG+E#~pD%tR-:IU9GD*x]-pbHIU"
+									}
+								],
+								"tmdb_popularity": 145.207,
+								"object_type": "show_season",
+								"original_title": "Season 5",
+								"offers": [
+									{
+										"jw_entity_id": "tss310981",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.db83e8da-05d7-4e46-84ad-10ac751f1861",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.db83e8da-05d7-4e46-84ad-10ac751f1861",
+											"deeplink_rokuos": "launch/13?contentID=B09HNNRYYX&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 18,
+										"new_element_count": 2,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 14048
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 94121.6
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 359
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.2
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 145.207
+									}
+								],
+								"show_id": 78407,
+								"show_title": "Station 19",
+								"season_number": 5
+							},
+							{
+								"jw_entity_id": "tm681578",
+								"id": 681578,
+								"title": "The Rental",
+								"full_path": "/in/movie/the-rental",
+								"poster": "/poster/186898001/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/196044936/{profile}",
+										"backdrop_blur_hash": "LhHyOLj[~qa#x[azRjjst6jsR*a}"
+									},
+									{
+										"backdrop_url": "/backdrop/195124133/{profile}",
+										"backdrop_blur_hash": "LE3m|+WRSjb{aEkai[aHR%nMaHax"
+									},
+									{
+										"backdrop_url": "/backdrop/194324402/{profile}",
+										"backdrop_blur_hash": "LTJR{zay~qozt7fRWBay%Mj[Myay"
+									},
+									{
+										"backdrop_url": "/backdrop/195124136/{profile}",
+										"backdrop_blur_hash": "LfIE-5Mwt5xt~qMxRjfRt8RjM{t7"
+									},
+									{
+										"backdrop_url": "/backdrop/195124132/{profile}",
+										"backdrop_blur_hash": "Lb6b=vnLRPX9tpf4aKj@RkbxoejE"
+									}
+								],
+								"tmdb_popularity": 41.533,
+								"object_type": "movie",
+								"original_title": "The Rental",
+								"offers": [
+									{
+										"jw_entity_id": "tm681578",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f3ac7cf1-5f0e-444f-9253-2ba096d16b60",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.f3ac7cf1-5f0e-444f-9253-2ba096d16b60",
+											"deeplink_rokuos": "launch/13?contentID=B09RQFB34Z&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 41.533
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 29560
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 587496
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 168492
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 1523
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 5.7
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss352033",
+								"id": 352033,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/lovestruck-high/season-1",
+								"poster": "/poster/272248815/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280565352/{profile}",
+										"backdrop_blur_hash": "LKLC;T?vn#rW}gD%E2kC~1-UofbY"
+									},
+									{
+										"backdrop_url": "/backdrop/279148813/{profile}",
+										"backdrop_blur_hash": "LQFF{0%NtMaw08tRogRkkPtQWEae"
+									},
+									{
+										"backdrop_url": "/backdrop/272248816/{profile}",
+										"backdrop_blur_hash": "LXLyibf6#jof~1oer;azV?WBRoWB"
+									},
+									{
+										"backdrop_url": "/backdrop/280565353/{profile}",
+										"backdrop_blur_hash": "LQFF~6%MtMaw08tRogRkkPtQWEae"
+									}
+								],
+								"tmdb_popularity": 13.774,
+								"object_type": "show_season",
+								"original_title": "Temporada 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss352033",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.81bf5598-f56c-4a97-a2c3-c42d93219ac5",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.81bf5598-f56c-4a97-a2c3-c42d93219ac5",
+											"deeplink_rokuos": "launch/13?contentID=B09PV8L752&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 6,
+										"new_element_count": 3,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 253.5
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 4
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 3.9
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 13.774
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 65
+									}
+								],
+								"show_id": 345981,
+								"show_title": "Lovestruck High",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm1107686",
+								"id": 1107686,
+								"title": "Unknown Dimension: The Story of Paranormal Activity",
+								"full_path": "/in/movie/unknown-dimension-the-story-of-paranormal-activity",
+								"poster": "/poster/254257387/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/254291224/{profile}",
+										"backdrop_blur_hash": "LK5=#KRlI7%jogaeWAofj@WAacoe"
+									}
+								],
+								"tmdb_popularity": 5.729,
+								"object_type": "movie",
+								"original_title": "Unknown Dimension: The Story of Paranormal Activity",
+								"offers": [
+									{
+										"jw_entity_id": "tm1107686",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a91de2f-df6e-4853-98bf-f78862b146b5",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.6a91de2f-df6e-4853-98bf-f78862b146b5",
+											"deeplink_rokuos": "launch/13?contentID=B09KT9Z3WF&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 869434
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.1
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 5.729
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm1200895",
+								"id": 1200895,
+								"title": "Katha Kanchiki Manam Intiki",
+								"full_path": "/in/movie/katha-kanchiki-manam-intiki",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/272643604/{profile}",
+										"backdrop_blur_hash": "L#M@ca~qxuWBoeofM{t6xtbHWCjs"
+									},
+									{
+										"backdrop_url": "/backdrop/272643603/{profile}",
+										"backdrop_blur_hash": "LMHL9qK$Sb~9%#9]%Mx[I:ofxuIq"
+									},
+									{
+										"backdrop_url": "/backdrop/272643605/{profile}",
+										"backdrop_blur_hash": "LIJa.SG?0cr{%f9dt-OT54wItRxH"
+									},
+									{
+										"backdrop_url": "/backdrop/281529164/{profile}",
+										"backdrop_blur_hash": "LDBy%EX:x^sl_4t7ozxuS%xDs:o#"
+									},
+									{
+										"backdrop_url": "/backdrop/281529163/{profile}",
+										"backdrop_blur_hash": "LTC%p#X-67V@G^g3x]njGaX8xue:"
+									}
+								],
+								"tmdb_popularity": 2.744,
+								"object_type": "movie",
+								"original_title": "కథ కంచికి మనం ఇంటికి",
+								"offers": [
+									{
+										"jw_entity_id": "tm1200895",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6a6ede9-1802-40cb-b1d6-f80ed4b0c1eb",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.b6a6ede9-1802-40cb-b1d6-f80ed4b0c1eb",
+											"deeplink_rokuos": "launch/13?contentID=B09PQT3SBV&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 2.744
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 968122
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm52533",
+								"id": 52533,
+								"title": "Yuvvraaj",
+								"full_path": "/in/movie/yuvvraaj",
+								"poster": "/poster/248300859/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/11122624/{profile}",
+										"backdrop_blur_hash": "LEJ$d0~W%19u]MIUa#JB9]9u9uVt"
+									},
+									{
+										"backdrop_url": "/backdrop/11122623/{profile}",
+										"backdrop_blur_hash": "LRL:+D0M?F?Hv|?aIp9Gxusl%MNI"
+									},
+									{
+										"backdrop_url": "/backdrop/109953/{profile}",
+										"backdrop_blur_hash": "LEJ$d0~W%19u]MIUa#JB9]9u9uVt"
+									},
+									{
+										"backdrop_url": "/backdrop/109952/{profile}",
+										"backdrop_blur_hash": "LRL|P#0M?F?Hv|?aIp9Gxusl%MNI"
+									}
+								],
+								"tmdb_popularity": 2.43,
+								"object_type": "movie",
+								"original_title": "युव्वराज",
+								"offers": [
+									{
+										"jw_entity_id": "tm52533",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cabade61-d6f1-4083-a110-d1a1f0a59d44",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.cabade61-d6f1-4083-a110-d1a1f0a59d44",
+											"deeplink_rokuos": "launch/13?contentID=B0B137GPC9&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 2.43
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 4397
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 20358
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 18027.699999999997
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 4.1
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm16619",
+								"id": 16619,
+								"title": "Kudiyirundha Koyil",
+								"full_path": "/in/movie/kudiyirundha-koyil",
+								"poster": "/poster/250372679/{profile}",
+								"tmdb_popularity": 0.696,
+								"object_type": "movie",
+								"original_title": "குடியிருந்த கோயில்",
+								"offers": [
+									{
+										"jw_entity_id": "tm16619",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1bab243-37b8-41fc-9629-507cb255e178",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.f1bab243-37b8-41fc-9629-507cb255e178",
+											"deeplink_rokuos": "launch/13?contentID=B09F3Q1T7M&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 0.696
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 263676
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.5
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm42358",
+								"id": 42358,
+								"title": "Thooral Ninnu Pochu",
+								"full_path": "/in/movie/thooral-ninnu-pochu",
+								"poster": "/poster/12097433/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/12097434/{profile}",
+										"backdrop_blur_hash": "LEK+u~%D8x12mPr|,a#i3D#QIU=y"
+									},
+									{
+										"backdrop_url": "/backdrop/2145512/{profile}",
+										"backdrop_blur_hash": "LEK+u~%D8x12mPr|,a#i3D#QIU=y"
+									}
+								],
+								"tmdb_popularity": 0.6,
+								"object_type": "movie",
+								"original_title": "Thooral Ninnu Pochu",
+								"offers": [
+									{
+										"jw_entity_id": "tm42358",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c945207f-cd57-460e-9790-d35d58b666c6",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.c945207f-cd57-460e-9790-d35d58b666c6",
+											"deeplink_rokuos": "launch/13?contentID=B09RZZH49M&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 0.6
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 310766
+									}
+								]
+							}
+						]
+					},
+					{
+						"total": 4,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tm1207715",
+								"id": 1207715,
+								"title": "Larva Pendant",
+								"full_path": "/in/movie/larva-pendant",
+								"poster": "/poster/280657463/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280858069/{profile}",
+										"backdrop_blur_hash": "LPEUo1Eh9^xs~7bsI;bHJSxqs-WE"
+									},
+									{
+										"backdrop_url": "/backdrop/280858068/{profile}",
+										"backdrop_blur_hash": "L;Ehz]RQW@WC.mWFn$bHWBfln$j?"
+									},
+									{
+										"backdrop_url": "/backdrop/280858070/{profile}",
+										"backdrop_blur_hash": "LFBMV*},NFEmEgNInOwI9tjLr@xC"
+									},
+									{
+										"backdrop_url": "/backdrop/277093842/{profile}",
+										"backdrop_blur_hash": "LNDu*S=^0#9e%_$jV@NJEgRR%0xZ"
+									}
+								],
+								"tmdb_popularity": 37.003,
+								"object_type": "movie",
+								"original_title": "Larva Pendant",
+								"offers": [
+									{
+										"jw_entity_id": "tm1207715",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81313780",
+											"deeplink_web": "http://www.netflix.com/watch/81313780",
+											"deeplink_rokuos": "launch/12?contentID=81313780&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 37.003
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 973608
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss350450",
+								"id": 350450,
+								"title": "Season 5",
+								"full_path": "/in/tv-show/somebody-feed-phil/season-5",
+								"poster": "/poster/39552491/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/68174475/{profile}",
+										"backdrop_blur_hash": "LUH-us4.0K_3Mx-otRIoRPozWBRO"
+									}
+								],
+								"tmdb_popularity": 28.781,
+								"object_type": "show_season",
+								"original_title": "Season 5",
+								"offers": [
+									{
+										"jw_entity_id": "tss350450",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80146601",
+											"deeplink_web": "http://www.netflix.com/watch/80146601",
+											"deeplink_rokuos": "launch/12?contentID=80146601&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 5,
+										"new_element_count": 5,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 28.781
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 4662
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 38228.399999999994
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 3048
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.3
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.2
+									}
+								],
+								"show_id": 77955,
+								"show_title": "Somebody Feed Phil",
+								"season_number": 5
+							},
+							{
+								"jw_entity_id": "tss352820",
+								"id": 352820,
+								"title": "Season 4",
+								"full_path": "/in/tv-show/the-circle-2020/season-4",
+								"poster": "/poster/279510511/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/251475986/{profile}",
+										"backdrop_blur_hash": "LPKj{.wjz#=e-@K0Vbjc5@oxK1EK"
+									},
+									{
+										"backdrop_url": "/backdrop/251475987/{profile}",
+										"backdrop_blur_hash": "LKGj:2}##mD$~C-5nz$xI.WaR$W@"
+									},
+									{
+										"backdrop_url": "/backdrop/250841065/{profile}",
+										"backdrop_blur_hash": "LCF}29wHv09dInNebcX+tj^7ELR5"
+									},
+									{
+										"backdrop_url": "/backdrop/244466653/{profile}",
+										"backdrop_blur_hash": "LiDRaKWA1HogxcWBR*oMNuj[wde."
+									},
+									{
+										"backdrop_url": "/backdrop/163581855/{profile}",
+										"backdrop_blur_hash": "LOECIT0cD%-q^mI-R$xHM|s;X5WC"
+									}
+								],
+								"tmdb_popularity": 19.586,
+								"object_type": "show_season",
+								"original_title": "4. sezóna",
+								"offers": [
+									{
+										"jw_entity_id": "tss352820",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81044551",
+											"deeplink_web": "http://www.netflix.com/watch/81044551",
+											"deeplink_rokuos": "launch/12?contentID=81044551&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 13,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 49143.6
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 1856
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.6
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.3
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 19.586
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 6732
+									}
+								],
+								"show_id": 223986,
+								"show_title": "The Circle",
+								"season_number": 4
+							},
+							{
+								"jw_entity_id": "tm370685",
+								"id": 370685,
+								"title": "Dazzling Mirage",
+								"full_path": "/in/movie/dazzling-mirage",
+								"poster": "/poster/249125522/{profile}",
+								"tmdb_popularity": 3.065,
+								"object_type": "movie",
+								"original_title": "Dazzling Mirage",
+								"offers": [
+									{
+										"jw_entity_id": "tm370685",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80127438",
+											"deeplink_web": "http://www.netflix.com/watch/80127438",
+											"deeplink_rokuos": "launch/12?contentID=80127438&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 502655
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 3.065
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-24",
+				"providers": [
+					{
+						"total": 7,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tm1083254",
+								"id": 1083254,
+								"title": "Eating Our Way to Extinction",
+								"full_path": "/in/movie/eating-our-way-to-extinction",
+								"poster": "/poster/252657420/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/252657421/{profile}",
+										"backdrop_blur_hash": "LA7-m0Id4ToD%MxuM{IU4p--x[D-"
+									}
+								],
+								"tmdb_popularity": 4.964,
+								"object_type": "movie",
+								"original_title": "Eating Our Way to Extinction",
+								"offers": [
+									{
+										"jw_entity_id": "tm1083254",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e530c268-237b-45ea-8b89-3853c65547f5",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.e530c268-237b-45ea-8b89-3853c65547f5",
+											"deeplink_rokuos": "launch/13?contentID=B09WQC4YLY&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 288
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 858381
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 1900.8
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 4.964
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm58688",
+								"id": 58688,
+								"title": "Taal",
+								"full_path": "/in/movie/taal",
+								"poster": "/poster/182267757/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/281217317/{profile}",
+										"backdrop_blur_hash": "LBFN#LI]Om-z1[nnRj%K4?9HD,D-"
+									},
+									{
+										"backdrop_url": "/backdrop/281217316/{profile}",
+										"backdrop_blur_hash": "L9A0RJxb1}E2ofjZRPWV5QWV,;xF"
+									},
+									{
+										"backdrop_url": "/backdrop/281217315/{profile}",
+										"backdrop_blur_hash": "LKBogK9v0}V[WCoeR+s.9uxZxFoy"
+									},
+									{
+										"backdrop_url": "/backdrop/281217314/{profile}",
+										"backdrop_blur_hash": "LWC7NcoH9DxvI,oN%5RjSiogslWA"
+									},
+									{
+										"backdrop_url": "/backdrop/11126028/{profile}",
+										"backdrop_blur_hash": "LqK]AOMyIW}?X7V[sBahM#wzw|e;"
+									}
+								],
+								"tmdb_popularity": 3.492,
+								"object_type": "movie",
+								"original_title": "ताल",
+								"offers": [
+									{
+										"jw_entity_id": "tm58688",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbd94c7d-133e-44c7-a09e-63012a507f2b",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.dbd94c7d-133e-44c7-a09e-63012a507f2b",
+											"deeplink_rokuos": "launch/13?contentID=B09X8366YB&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 6.6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 3.492
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 5394
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 20929
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 35600.4
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.4
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm180815",
+								"id": 180815,
+								"title": "Iqbal",
+								"full_path": "/in/movie/iqbal",
+								"poster": "/poster/138659280/{profile}",
+								"tmdb_popularity": 2.776,
+								"object_type": "movie",
+								"original_title": "Iqbal",
+								"offers": [
+									{
+										"jw_entity_id": "tm180815",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.85baf079-c31c-493a-82f3-4e35fb2eaedc",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.85baf079-c31c-493a-82f3-4e35fb2eaedc",
+											"deeplink_rokuos": "launch/13?contentID=B09Y1RMN75&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 16844
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 21567
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 136436.4
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.1
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 2.776
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm32538",
+								"id": 32538,
+								"title": "Saravana",
+								"full_path": "/in/movie/saravana",
+								"poster": "/poster/138698981/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/11490924/{profile}",
+										"backdrop_blur_hash": "LYJaDjXA?u?a0Lsmn$n%I:nhe-Ri"
+									}
+								],
+								"tmdb_popularity": 2.486,
+								"object_type": "movie",
+								"original_title": "சரவணா",
+								"offers": [
+									{
+										"jw_entity_id": "tm32538",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b96f311-13be-4edf-ba3b-e9ba145bc90f",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4b96f311-13be-4edf-ba3b-e9ba145bc90f",
+											"deeplink_rokuos": "launch/13?contentID=B09GPYBRVK&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 4.7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 5
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 2.486
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 689
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 69625
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 3445
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm1110897",
+								"id": 1110897,
+								"title": "The Rose Villa",
+								"full_path": "/in/movie/the-rose-villa",
+								"poster": "/poster/255591197/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/256356235/{profile}",
+										"backdrop_blur_hash": "LCA0Hu11jFEQAG=vE3tPX8V[smR-"
+									},
+									{
+										"backdrop_url": "/backdrop/256356236/{profile}",
+										"backdrop_blur_hash": "LOFF]F%fyCx[_Mxun*M|Rk%fV@V@"
+									}
+								],
+								"tmdb_popularity": 1.297,
+								"object_type": "movie",
+								"original_title": "The Rose Villa",
+								"offers": [
+									{
+										"jw_entity_id": "tm1110897",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c53c3118-e03c-4724-9d24-1197b0b192b1",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.c53c3118-e03c-4724-9d24-1197b0b192b1",
+											"deeplink_rokuos": "launch/13?contentID=B09L8P6YGD&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.297
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 1630
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 897077
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 9617
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 5.9
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm120420",
+								"id": 120420,
+								"title": "Badhaai Ho Badhaai",
+								"full_path": "/in/movie/badhaai-ho-badhaai",
+								"poster": "/poster/138584742/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/193104929/{profile}",
+										"backdrop_blur_hash": "LWN]OK0NP2N3lnwHxax[x]oxi_xs"
+									},
+									{
+										"backdrop_url": "/backdrop/178670259/{profile}",
+										"backdrop_blur_hash": "LRNS$+N5MwyqQkIAXToa57XnRPr="
+									}
+								],
+								"tmdb_popularity": 1.209,
+								"object_type": "movie",
+								"original_title": "Badhaai Ho Badhaai",
+								"offers": [
+									{
+										"jw_entity_id": "tm120420",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a85cf666-0c0d-4987-9424-18e5c15f27bb",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a85cf666-0c0d-4987-9424-18e5c15f27bb",
+											"deeplink_rokuos": "launch/13?contentID=B0B1BMZ3RJ&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 4.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.209
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 708
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 234179
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 3327.6
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 5.5
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm41374",
+								"id": 41374,
+								"title": "Pandurangadu",
+								"full_path": "/in/movie/pandurangadu",
+								"poster": "/poster/142587650/{profile}",
+								"tmdb_popularity": 0.6,
+								"object_type": "movie",
+								"original_title": "Pandurangadu",
+								"offers": [
+									{
+										"jw_entity_id": "tm41374",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1414d2ea-cce6-4c13-9cb1-b21aa355ec12",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.1414d2ea-cce6-4c13-9cb1-b21aa355ec12",
+											"deeplink_rokuos": "launch/13?contentID=B0B176YZ25&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:score",
+										"value": 3.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 0.6
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 1123
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 280323
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 4155.1
+									}
+								]
+							}
+						]
+					},
+					{
+						"total": 3,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss237725",
+								"id": 237725,
+								"title": "Season 6",
+								"full_path": "/in/tv-show/better-call-saul/season-6",
+								"poster": "/poster/269649815/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/269897860/{profile}",
+										"backdrop_blur_hash": "LA7JLtFc1G[qKhw{iwNtOWn%wKJm"
+									},
+									{
+										"backdrop_url": "/backdrop/177838702/{profile}",
+										"backdrop_blur_hash": "LFE36h9G%JtQ_N-:9FtR?vaKIoRk"
+									},
+									{
+										"backdrop_url": "/backdrop/273394972/{profile}",
+										"backdrop_blur_hash": "LKAwJ2_4%NRkxu%MkDozIVRjj]WX"
+									},
+									{
+										"backdrop_url": "/backdrop/8635049/{profile}",
+										"backdrop_blur_hash": "LrGk^1oeWVR-_Nt6ayju?cWCa}oe"
+									},
+									{
+										"backdrop_url": "/backdrop/171468199/{profile}",
+										"backdrop_blur_hash": "LGFr@H_1?tR5_Ns:ogxY?Zn$RQt6"
+									}
+								],
+								"tmdb_popularity": 294.141,
+								"object_type": "show_season",
+								"original_title": "시즌 6",
+								"offers": [
+									{
+										"jw_entity_id": "tss237725",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80021955",
+											"deeplink_web": "http://www.netflix.com/watch/80021955",
+											"deeplink_rokuos": "launch/12?contentID=80021955&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 7,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 294.141
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 414121
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 3644264.8000000005
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 66
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.8
+									}
+								],
+								"show_id": 8,
+								"show_title": "Better Call Saul",
+								"season_number": 6
+							},
+							{
+								"jw_entity_id": "tm1204402",
+								"id": 1204402,
+								"title": "Ricky Gervais: SuperNature",
+								"full_path": "/in/movie/ricky-gervais-supernature",
+								"poster": "/poster/281506232/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280653521/{profile}",
+										"backdrop_blur_hash": "LD9Z7*0xNY%2}]9tX4-V-BS1NGxZ"
+									},
+									{
+										"backdrop_url": "/backdrop/280653522/{profile}",
+										"backdrop_blur_hash": "LB8{:]s;0xWUt8WC9@kS}uj[ELoL"
+									},
+									{
+										"backdrop_url": "/backdrop/277629735/{profile}",
+										"backdrop_blur_hash": "L55hGobI0Ks-Mva#S1ad-=fiIpog"
+									},
+									{
+										"backdrop_url": "/backdrop/281152170/{profile}",
+										"backdrop_blur_hash": "LBAvhLFsNYIU}[56ox-VQm9ZNH-:"
+									}
+								],
+								"tmdb_popularity": 31.618,
+								"object_type": "movie",
+								"original_title": "Ricky Gervais: SuperNature",
+								"offers": [
+									{
+										"jw_entity_id": "tm1204402",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80225917",
+											"deeplink_web": "http://www.netflix.com/watch/80225917",
+											"deeplink_rokuos": "launch/12?contentID=80225917&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 3256
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 973164
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 25396.8
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.4
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.8
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 31.618
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm917842",
+								"id": 917842,
+								"title": "Words on Bathroom Walls",
+								"full_path": "/in/movie/words-on-bathroom-walls",
+								"poster": "/poster/200539176/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/253939328/{profile}",
+										"backdrop_blur_hash": "LGFXk#M{Tz9G-n~WoHSi?b%1tRIU"
+									},
+									{
+										"backdrop_url": "/backdrop/240463606/{profile}",
+										"backdrop_blur_hash": "LMGawhou?btQ^i~qngXS?Hods:D%"
+									},
+									{
+										"backdrop_url": "/backdrop/237940368/{profile}",
+										"backdrop_blur_hash": "LQIX,6~XNyW?x9D*In%M%gIB%2t7"
+									},
+									{
+										"backdrop_url": "/backdrop/198250977/{profile}",
+										"backdrop_blur_hash": "LNDHac=y0~0}EoI^xC=xJBR:kCxF"
+									},
+									{
+										"backdrop_url": "/backdrop/255666857/{profile}",
+										"backdrop_blur_hash": "LNGaqNo}_2W,={~qskSh?akCjGIU"
+									}
+								],
+								"tmdb_popularity": 9.967,
+								"object_type": "movie",
+								"original_title": "Words on Bathroom Walls",
+								"offers": [
+									{
+										"jw_entity_id": "tm917842",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81311296",
+											"deeplink_web": "http://www.netflix.com/watch/81311296",
+											"deeplink_rokuos": "launch/12?contentID=81311296&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 9188
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 523781
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 65234.799999999996
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 2129
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.1
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 9.967
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-23",
+				"providers": [
+					{
+						"total": 3,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tm1204317",
+								"id": 1204317,
+								"title": "Godspeed",
+								"full_path": "/in/movie/yolun-acik-olsun",
+								"poster": "/poster/273740820/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280861770/{profile}",
+										"backdrop_blur_hash": "LMGI14_2E19Gv{jXS$R:0fjYR-xt"
+									},
+									{
+										"backdrop_url": "/backdrop/273740821/{profile}",
+										"backdrop_blur_hash": "LMExws-oNHE3^i%LNIIp0gbFRlxt"
+									},
+									{
+										"backdrop_url": "/backdrop/280377839/{profile}",
+										"backdrop_blur_hash": "LlLpppV@Mxxu~pj[jEbIpJozkAju"
+									},
+									{
+										"backdrop_url": "/backdrop/280377838/{profile}",
+										"backdrop_blur_hash": "LACF*H9Fadxv0fS5W=smIn=|oeNG"
+									},
+									{
+										"backdrop_url": "/backdrop/273740822/{profile}",
+										"backdrop_blur_hash": "L7B|4m~2xlXNXa9eD,s+%DR:%3fh"
+									}
+								],
+								"tmdb_popularity": 192.581,
+								"object_type": "movie",
+								"original_title": "Yolun Açik Olsun",
+								"offers": [
+									{
+										"jw_entity_id": "tm1204317",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81346062",
+											"deeplink_web": "http://www.netflix.com/watch/81346062",
+											"deeplink_rokuos": "launch/12?contentID=81346062&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 1044
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 971647
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 6994.8
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.7
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 192.581
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tss324332",
+								"id": 324332,
+								"title": "Season 2",
+								"full_path": "/in/tv-show/ghost-in-the-shell-sac_2045/season-2",
+								"poster": "/poster/277456971/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/168072246/{profile}",
+										"backdrop_blur_hash": "L?Psn-oe~qRkxuofWBWBNGWBs:og"
+									},
+									{
+										"backdrop_url": "/backdrop/191194769/{profile}",
+										"backdrop_blur_hash": "LcHMmUkC0tV@Ipj[ogWBRjWWozod"
+									},
+									{
+										"backdrop_url": "/backdrop/279005131/{profile}",
+										"backdrop_blur_hash": "LF9HSIpMF#RNO[axVqVrtBV=nhaH"
+									},
+									{
+										"backdrop_url": "/backdrop/240972155/{profile}",
+										"backdrop_blur_hash": "LQ6JCEkXMcV?VBadRikCW@j=tRf,"
+									},
+									{
+										"backdrop_url": "/backdrop/177637347/{profile}",
+										"backdrop_blur_hash": "LD9jj1toPEOWTItnS#tUIToaofNt"
+									}
+								],
+								"tmdb_popularity": 70.172,
+								"object_type": "show_season",
+								"original_title": "시즌 2",
+								"offers": [
+									{
+										"jw_entity_id": "tss324332",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81030224",
+											"deeplink_web": "http://www.netflix.com/watch/81030224",
+											"deeplink_rokuos": "launch/12?contentID=81030224&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 12,
+										"new_element_count": 12,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6.2
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 70.172
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 2205
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 13671
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 4855
+									}
+								],
+								"show_id": 103329,
+								"show_title": "Ghost in the Shell: SAC_2045",
+								"season_number": 2
+							},
+							{
+								"jw_entity_id": "tm1172947",
+								"id": 1172947,
+								"title": "Toolsidas Junior",
+								"full_path": "/in/movie/toolsidas-junior",
+								"poster": "/poster/280587826/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280411507/{profile}",
+										"backdrop_blur_hash": "LO6S_oOlogjGL+i|oeWVSwr_R*oM"
+									},
+									{
+										"backdrop_url": "/backdrop/264602125/{profile}",
+										"backdrop_blur_hash": "LcHe5hIV0L%M?FoMM|M|%fNGRjt7"
+									},
+									{
+										"backdrop_url": "/backdrop/280259259/{profile}",
+										"backdrop_blur_hash": "LfJ@2Sxa0LofyCRkIUofxus:RiWB"
+									},
+									{
+										"backdrop_url": "/backdrop/280259260/{profile}",
+										"backdrop_blur_hash": "LdIE8]NH0M%LyCoyi_t7MzxtxtRk"
+									}
+								],
+								"tmdb_popularity": 5.482,
+								"object_type": "movie",
+								"original_title": "तूलसीदास जूनियर",
+								"offers": [
+									{
+										"jw_entity_id": "tm1172947",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81107547",
+											"deeplink_web": "http://www.netflix.com/watch/81107547",
+											"deeplink_rokuos": "launch/12?contentID=81107547&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "imdb:votes",
+										"value": 78
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 774806
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 694.2
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.9
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 5.482
+									}
+								]
+							}
+						]
+					},
+					{
+						"total": 2,
+						"provider_id": 119,
+						"items": [
+							{
+								"jw_entity_id": "tss331395",
+								"id": 331395,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/the-king-of-pigs/season-1",
+								"poster": "/poster/270394050/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/270393032/{profile}",
+										"backdrop_blur_hash": "LfE2wo00-;IoWBofWBofIoozj[jF"
+									},
+									{
+										"backdrop_url": "/backdrop/270394052/{profile}",
+										"backdrop_blur_hash": "LM6+@aVsIAt7H;o~x^WBVraJe-WB"
+									},
+									{
+										"backdrop_url": "/backdrop/270394053/{profile}",
+										"backdrop_blur_hash": "LHFsD1_N.lMx_LMyI;%faeNGnOxu"
+									},
+									{
+										"backdrop_url": "/backdrop/270394055/{profile}",
+										"backdrop_blur_hash": "LbJbd4DP.mY4?bIAsEkpMxRjMxaL"
+									},
+									{
+										"backdrop_url": "/backdrop/270394054/{profile}",
+										"backdrop_blur_hash": "LhHL;zDj%g%M~qoyja%MWBofRixu"
+									}
+								],
+								"tmdb_popularity": 15.676,
+								"object_type": "show_season",
+								"original_title": "Stagione 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss331395",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.85816c1e-40de-4ef0-99a7-fc076ee5c957",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.85816c1e-40de-4ef0-99a7-fc076ee5c957",
+											"deeplink_rokuos": "launch/13?contentID=B09TJZ6RGR&MediaType=episode"
+										},
+										"presentation_type": "sd",
+										"element_count": 6,
+										"new_element_count": 2,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 15.676
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 38
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 338.2
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 7.8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 8.9
+									}
+								],
+								"show_id": 321874,
+								"show_title": "The King of Pigs",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm823020",
+								"id": 823020,
+								"title": "Chola",
+								"full_path": "/in/movie/shadow-of-water",
+								"poster": "/poster/146194008/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/160692678/{profile}",
+										"backdrop_blur_hash": "LHAu%GoL0eWVd=aytloK-payIoof"
+									},
+									{
+										"backdrop_url": "/backdrop/160692677/{profile}",
+										"backdrop_blur_hash": "LGFi3$s8~T-;t8Vs9GoM4payM|W;"
+									},
+									{
+										"backdrop_url": "/backdrop/160692676/{profile}",
+										"backdrop_blur_hash": "LHH1VLb]0NWXx?=_-nIVxYV[t6oy"
+									}
+								],
+								"tmdb_popularity": 1.4,
+								"object_type": "movie",
+								"original_title": "ചോല",
+								"offers": [
+									{
+										"jw_entity_id": "tm823020",
+										"monetization_type": "flatrate",
+										"provider_id": 119,
+										"package_short_name": "prv",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ab8090b-b6d8-f9ff-f67e-f12f74c725d3",
+											"deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.0ab8090b-b6d8-f9ff-f67e-f12f74c725d3",
+											"deeplink_rokuos": "launch/13?contentID=B084H33561&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 1.4
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 389
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 618237
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 2139.5
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 3.3
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 5.5
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"date": "2022-05-22",
+				"providers": [
+					{
+						"total": 3,
+						"provider_id": 8,
+						"items": [
+							{
+								"jw_entity_id": "tss322983",
+								"id": 322983,
+								"title": "Season 1",
+								"full_path": "/in/tv-show/tomorrow/season-1",
+								"poster": "/poster/269381437/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/269931133/{profile}",
+										"backdrop_blur_hash": "LWA,9sOu$RactWI.jYofR-r:S1W?"
+									},
+									{
+										"backdrop_url": "/backdrop/281866737/{profile}",
+										"backdrop_blur_hash": "LCAm0Y0fIp-o-ANwRj%2ENV@xts."
+									},
+									{
+										"backdrop_url": "/backdrop/268119312/{profile}",
+										"backdrop_blur_hash": "LYBMTTp0xcwItpJ7S4soRoVrV?X8"
+									},
+									{
+										"backdrop_url": "/backdrop/269931134/{profile}",
+										"backdrop_blur_hash": "LLF}QNxv0e-B9ZROWBbwtlxuxZa#"
+									},
+									{
+										"backdrop_url": "/backdrop/272395609/{profile}",
+										"backdrop_blur_hash": "L68;7QEIMw-=~D9@WB$fDhgPs;Vs"
+									}
+								],
+								"tmdb_popularity": 62.597,
+								"object_type": "show_season",
+								"original_title": "Sezon 1",
+								"offers": [
+									{
+										"jw_entity_id": "tss322983",
+										"type": "aggregated",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81503460",
+											"deeplink_web": "http://www.netflix.com/watch/81503460",
+											"deeplink_rokuos": "launch/12?contentID=81503460&MediaType=show"
+										},
+										"presentation_type": "sd",
+										"element_count": 16,
+										"new_element_count": 1,
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 62.597
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 7489
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 54669.7
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8.5
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 7.3
+									}
+								],
+								"show_id": 314164,
+								"show_title": "Tomorrow",
+								"season_number": 1
+							},
+							{
+								"jw_entity_id": "tm432161",
+								"id": 432161,
+								"title": "The Lodge",
+								"full_path": "/in/movie/the-lodge-2020",
+								"poster": "/poster/175232823/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/179764393/{profile}",
+										"backdrop_blur_hash": "L65OZ@4nR4_3xBR.kCs+01?atR9G"
+									},
+									{
+										"backdrop_url": "/backdrop/241578171/{profile}",
+										"backdrop_blur_hash": "LE8g,1Rk00%0RiRkRl%1^*WCE2t6"
+									},
+									{
+										"backdrop_url": "/backdrop/178297613/{profile}",
+										"backdrop_blur_hash": "L59as*ITD%H?.So#ohRP8xozM_x]"
+									},
+									{
+										"backdrop_url": "/backdrop/178297612/{profile}",
+										"backdrop_blur_hash": "LVBqG6.9.TRO%hfit8M_V[Rjf6kB"
+									},
+									{
+										"backdrop_url": "/backdrop/178297611/{profile}",
+										"backdrop_blur_hash": "LQIPG8I9x^DNMwDhI9x^MwR5V@x^"
+									}
+								],
+								"tmdb_popularity": 19.373,
+								"object_type": "movie",
+								"original_title": "The Lodge",
+								"offers": [
+									{
+										"jw_entity_id": "tm432161",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/80218982",
+											"deeplink_web": "http://www.netflix.com/watch/80218982",
+											"deeplink_rokuos": "launch/12?contentID=80218982&MediaType=movie"
+										},
+										"available_to": "2023-05-21",
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:id",
+										"value": 474764
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 267318
+									},
+									{
+										"provider_type": "imdb:popularity",
+										"value": 1554
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 6.1
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 6
+									},
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 19.373
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 44553
+									}
+								]
+							},
+							{
+								"jw_entity_id": "tm1041329",
+								"id": 1041329,
+								"title": "One Second",
+								"full_path": "/in/movie/one-second-2021",
+								"poster": "/poster/242337808/{profile}",
+								"backdrops": [
+									{
+										"backdrop_url": "/backdrop/280833610/{profile}",
+										"backdrop_blur_hash": "LbC@Nk~pxaS$O@S#nOjES1S4WXjZ"
+									},
+									{
+										"backdrop_url": "/backdrop/280833612/{profile}",
+										"backdrop_blur_hash": "LFBoXA}@IVMyrrwd-U-oNHn*xGoL"
+									},
+									{
+										"backdrop_url": "/backdrop/249930411/{profile}",
+										"backdrop_blur_hash": "LPF?RsDNtRH@PWnmn4f#0MIWV@tk"
+									},
+									{
+										"backdrop_url": "/backdrop/280833611/{profile}",
+										"backdrop_blur_hash": "LDKcFHvNp[56~6R5M{%15kSPjdb_"
+									}
+								],
+								"tmdb_popularity": 3.298,
+								"object_type": "movie",
+								"original_title": "ثانية واحدة",
+								"offers": [
+									{
+										"jw_entity_id": "tm1041329",
+										"monetization_type": "flatrate",
+										"provider_id": 8,
+										"package_short_name": "nfx",
+										"currency": "INR",
+										"urls": {
+											"standard_web": "http://www.netflix.com/title/81497743",
+											"deeplink_web": "http://www.netflix.com/watch/81497743",
+											"deeplink_rokuos": "launch/12?contentID=81497743&MediaType=movie"
+										},
+										"presentation_type": "sd",
+										"country": "IN"
+									}
+								],
+								"scoring": [
+									{
+										"provider_type": "tmdb:popularity",
+										"value": 3.298
+									},
+									{
+										"provider_type": "imdb:votes",
+										"value": 289
+									},
+									{
+										"provider_type": "tmdb:id",
+										"value": 827818
+									},
+									{
+										"provider_type": "imdb:multiplied",
+										"value": 1387.2
+									},
+									{
+										"provider_type": "tmdb:score",
+										"value": 8
+									},
+									{
+										"provider_type": "imdb:score",
+										"value": 4.8
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		],
+		"page": 1,
+		"page_size": 10
+	}
+}
