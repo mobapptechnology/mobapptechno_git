@@ -3,13 +3,19 @@
    "data":[
       {
          "icon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/social.png",
-         "appList":[
+         "appList":[              
             {
-               "id":"1",
-               "name":"Tiktok",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/1_tiktok.png",
-               "url":"https://www.tiktok.com/"
+               "id":"4",
+               "name":"Facebook",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/4_facebook.png",
+               "url":"https://www.facebook.com/"
             },
+            {
+               "id":"12",
+               "name":"Linkedin",
+               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_linkedin.png",
+               "url":"https://www.linkedin.com/"
+            },          
             {
                "id":"2",
                "name":"Instagram",
@@ -21,12 +27,6 @@
                "name":"Snapchat",
                "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/3_snapchat.png",
                "url":"https://www.snapchat.com/"
-            },
-            {
-               "id":"4",
-               "name":"Facebook",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/4_facebook.png",
-               "url":"https://www.facebook.com/"
             },
             {
                "id":"5",
@@ -69,13 +69,7 @@
                "name":"WhatsApp",
                "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/11_whatsapp.png",
                "url":"https://www.whatsapp.com/"
-            },
-            {
-               "id":"12",
-               "name":"Linkedin",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_linkedin.png",
-               "url":"https://www.linkedin.com/"
-            },
+            },            
             {
                "id":"13",
                "name":"Youtube",
