@@ -1,0 +1,187 @@
+{
+    "status": "1",
+    "data":[ {
+      "color": [
+        {
+          "url": "#FF0000",
+          "title": "Red"
+        },
+        {
+          "url": "#2751E8",
+          "title": "Blue"
+        },
+        {
+          "url": "#E8C827",
+          "title": "Yellow"
+        },
+        {
+          "url": "#0A0A0A",
+          "title": "Black"
+        },
+        {
+          "url": "#FFFFFF",
+          "title": "White"
+        },
+        {
+          "url": "#09BD27",
+          "title": "Green"
+        },
+        {
+          "url": "#E317D5",
+          "title": "Pink"
+        },
+        {
+          "url": "#949194",
+          "title": "Gray"
+        }
+      ],
+      "categories": [
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Trendings.png",
+          "title": "Trendings"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Recent.png",
+          "title": "Recent"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Animals.png",
+          "title": "Animals"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Anime.png",
+          "title": "Anime"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Bollywood.png",
+          "title": "Bollywood"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Logos.png",
+          "title": "Logos"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Car_Vehicles.png",
+          "title": "Car & Vehicles"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Design.png",
+          "title": "Design"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Drawings.png",
+          "title": "Drawings"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Entertainments.png",
+          "title": "Entertainments"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Funny.png",
+          "title": "Funny"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Games.png",
+          "title": "Games"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Holidays.png",
+          "title": "Holidays"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Love.png",
+          "title": "Love"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Music.png",
+          "title": "Music"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Nature.png",
+          "title": "Nature"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/News_Politics.png",
+          "title": "News & Politics"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Other.png",
+          "title": "Other"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Patterns.png",
+          "title": "Patterns"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/People.png",
+          "title": "People"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Sayings.png",
+          "title": "Sayings"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Spirituals.png",
+          "title": "Spirituals"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Sports.png",
+          "title": "Sports"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Technology.png",
+          "title": "Technology"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Space.png",
+          "title": "Space"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/Comics.png",
+          "title": "Comics"
+        }
+      ],
+      "populer_search": [
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/a.png",
+          "title": "Quotes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/b.png",
+          "title": "Stranger Things"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/c.png",
+          "title": "Anime"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/d.png",
+          "title": "Naruto"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/e.png",
+          "title": "Demon Slayer"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/e.png",
+          "title": "Halloween"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/d.png",
+          "title": "Black"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/c.png",
+          "title": "Fall"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/b.png",
+          "title": "Star Wars"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/appssmart/api/main/wallpaperringtone/img/a.png",
+          "title": "One Piece"
+        }
+      ]
+    }]
+  }
