@@ -12,10 +12,14 @@
         "is_image_playstore": "n",
         "package_name": "com.birthdaysongwithnamemaker.photovideomakerwithmusic",
         "img_url": "",
-        "img_url_splash": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/onewebify_in_1.png",
-        "img_native_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/newebify_banner_1.png",
-        "img_banner_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/newebify_banner_1.png",
+        "img_url_splash": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image.jpg",
+        "img_native_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_native_ad.jpg",
+        "img_banner_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad.jpg",
         "img_banner_ad_large": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/onewebify_large_1.png",
+        "img_native_500_350": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_350_1.png"],
+        "img_native_500_100": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_100_1.png"],
+        "img_native_500_450": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_450_1.png"],
+        "img_native_500_150": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_150_1.png"],
         "img_banner_ad_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/ic_ads.png",
         "weblink": "https://u.livetvgram.com/appsly/"
       }

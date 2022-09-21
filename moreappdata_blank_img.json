@@ -16,6 +16,10 @@
         "img_native_ad": "",
         "img_banner_ad": "",
         "img_banner_ad_large": "",
+        "img_native_500_350": [""],
+        "img_native_500_100": [""],
+        "img_native_500_450": [""],
+        "img_native_500_150": [""],
         "img_banner_ad_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/ic_ads.png",
         "weblink": "https://play284.atmequiz.com/"
       }
