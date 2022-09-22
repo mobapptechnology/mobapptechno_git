@@ -11,11 +11,11 @@
         "disclaimer_message": "The usage of our app is free and does not require any software or registration. By using our app you accept our Terms of Use.\n\n Material on this app may include links to external websites. These external information sources are outside control. It is the responsibility of the user to make his or her own decisions about the accuracy and reliability and correctness of information found. Some of the information provided on this app is supplied by third parties.\n\n It is important that all users understand that third party information is not provided or endorsed by us and your legal relationship is with the third party. Please be aware that we have not necessarily checked third party content.",
         "is_image_playstore": "n",
         "package_name": "com.birthdaysongwithnamemaker.photovideomakerwithmusic",
-        "img_url": "",
-        "img_url_splash": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image.jpg",
-        "img_native_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_native_ad.jpg",
-        "img_banner_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad.jpg",
-        "img_banner_ad_large": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/onewebify_large_1.png",
+        "img_url_card": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_card_ad_150_150_1.png",
+        "img_url_splash": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image_1.jpg",
+        "img_native_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_native_ad_1.jpg",
+        "img_banner_ad": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_1.jpg",
+        "img_banner_ad_large": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_large_300_250_1.png",
         "img_banner_ad_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/ic_ads.png",
         "weblink": "https://u.livetvgram.com/appsly/"
       }
