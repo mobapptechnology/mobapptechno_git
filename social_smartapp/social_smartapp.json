@@ -15,19 +15,7 @@
                "name":"Linkedin",
                "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/12_linkedin.png",
                "url":"https://www.linkedin.com/"
-            },          
-            {
-               "id":"2",
-               "name":"Instagram",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/2_insta.png",
-               "url":"https://www.instagram.com/"
-            },
-            {
-               "id":"3",
-               "name":"Snapchat",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/3_snapchat.png",
-               "url":"https://www.snapchat.com/"
-            },
+            },            
             {
                "id":"5",
                "name":"Twitter",
@@ -51,13 +39,7 @@
                "name":"Tumblr",
                "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/8_tumblr.png",
                "url":"https://www.tumblr.com/"
-            },
-            {
-               "id":"9",
-               "name":"Telegram",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/9_telegram.png",
-               "url":"https://telegram.org/"
-            },
+            },            
             {
                "id":"10",
                "name":"Mojapp",
