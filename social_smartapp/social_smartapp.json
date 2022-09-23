@@ -41,24 +41,6 @@
                "url":"https://www.tumblr.com/"
             },            
             {
-               "id":"10",
-               "name":"Mojapp",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/10_mojapp.png",
-               "url":"https://mojapp.in/"
-            },
-            {
-               "id":"11",
-               "name":"WhatsApp",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/11_whatsapp.png",
-               "url":"https://www.whatsapp.com/"
-            },            
-            {
-               "id":"13",
-               "name":"Youtube",
-               "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/13_youtube.png",
-               "url":"https://www.youtube.com/"
-            },
-            {
                "id":"14",
                "name":"Pinterest",
                "appIcon":"https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/social_smartapp/img/14_pinterest.png",
