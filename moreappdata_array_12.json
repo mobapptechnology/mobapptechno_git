@@ -1,0 +1,27 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "is_slider_one": "n",
+        "is_slider_one_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_one/get_app_list.json",          
+        "is_slider_two": "n",          
+        "is_slider_two_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/get_app_list.json",          
+        "is_more_app": "n",
+        "is_more_app_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/get_app_list.json",
+        "disclaimer_message": "The usage of our app is free and does not require any software or registration. By using our app you accept our Terms of Use.\n\n Material on this app may include links to external websites. These external information sources are outside control. It is the responsibility of the user to make his or her own decisions about the accuracy and reliability and correctness of information found. Some of the information provided on this app is supplied by third parties.\n\n It is important that all users understand that third party information is not provided or endorsed by us and your legal relationship is with the third party. Please be aware that we have not necessarily checked third party content.",
+        "is_image_playstore": "n",
+        "package_name": "com.birthdaysongwithnamemaker.photovideomakerwithmusic",        
+        "img_url_card": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_card_ad_150_150.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_card_ad_150_150_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_card_ad_150_150_3.png"],
+        "img_url_splash": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image_1.jpg","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image_3.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/quiz_image_4.png"],
+        "img_native_ad": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_native_ad_1.jpg","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_native_ad_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_native_ad_3.png"],
+        "img_banner_ad": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_1.jpg","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_2.jpg","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_3.jpg"],
+        "img_banner_ad_large": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_large_300_250_1.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_large_300_250_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/img_banner_ad_large_300_250_3.png"],
+        "img_native_500_350": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_350_1.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_350_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_450_3.png"],
+        "img_native_500_100": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_100_1.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_100_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_100_3.png"],
+        "img_native_500_450": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_450_1.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_450_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_350_3.png"],
+        "img_native_500_150": ["https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_150_1.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_150_2.png","https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/500_150_3.png"],
+        "img_banner_ad_icon": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/digital_seva/other/ic_ads.png",
+        "weblink": "https://u.livetvgram.com/appsly/"
+      }
+  ]
+}
