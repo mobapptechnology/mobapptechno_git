@@ -10,7 +10,7 @@
         "packageId": 8,
         "selected": true,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_netflix.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_netflix.png"
       },
       {
         "clearName": "Amazon Prime Video",
@@ -20,7 +20,7 @@
         "packageId": 119,
         "selected": true,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_amazonprime.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_amazonprime.png"
       },
       {
         "clearName": "Hotstar",
@@ -30,7 +30,7 @@
         "packageId": 122,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_hotstar.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_hotstar.png"
       },
       {
         "clearName": "Voot",
@@ -40,7 +40,7 @@
         "packageId": 121,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_voot.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_voot.png"
       },
       {
         "clearName": "Jio Cinema",
@@ -50,7 +50,7 @@
         "packageId": 220,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_jiocinema.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_jiocinema.png"
       },
       {
         "clearName": "Zee5",
@@ -60,7 +60,7 @@
         "packageId": 232,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_zee5.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_zee5.png"
       },
       {
         "clearName": "Eros Now",
@@ -70,7 +70,7 @@
         "packageId": 218,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_eros_now.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_eros_now.png"
       },
       {
         "clearName": "Mubi",
@@ -80,7 +80,7 @@
         "packageId": 11,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_mubi.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_mubi.png"
       },
       {
         "clearName": "Apple TV Plus",
@@ -90,7 +90,7 @@
         "packageId": 350,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_appletv.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_appletv.png"
       },
       {
         "clearName": "Sony Liv",
@@ -100,7 +100,7 @@
         "packageId": 237,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_sonyliv.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_sonyliv.png"
       },
       {
         "clearName": "YouTube",
@@ -110,7 +110,7 @@
         "packageId": 192,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_youtube.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_youtube.png"
       },
       {
         "clearName": "GuideDoc",
@@ -120,7 +120,7 @@
         "packageId": 100,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_guide_doc.jpg"
+        "icon": "https://movieplex.live/assets/trackplex/ic_guide_doc.jpg"
       },
       {
         "clearName": "Yupp TV",
@@ -130,7 +130,7 @@
         "packageId": 255,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_yupp_tv.jpg"
+        "icon": "https://movieplex.live/assets/trackplex/ic_yupp_tv.jpg"
       },
       {
         "clearName": "Sun Nxt",
@@ -140,7 +140,7 @@
         "packageId": 309,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_sun_next.jpg"
+        "icon": "https://movieplex.live/assets/trackplex/ic_sun_next.jpg"
       },
       {
         "clearName": "Alt Balaji",
@@ -150,7 +150,7 @@
         "packageId": 319,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_alt_balaji.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_alt_balaji.png"
       },
       {
         "clearName": "Hungama Play",
@@ -160,7 +160,7 @@
         "packageId": 437,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_hungama.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_hungama.png"
       },
       {
         "clearName": "Curiosity Stream",
@@ -170,7 +170,7 @@
         "packageId": 190,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_curiosity_stream.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_curiosity_stream.png"
       },
       {
         "clearName": "ShemarooMe",
@@ -180,7 +180,7 @@
         "packageId": 474,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_shemaroo.jpg"
+        "icon": "https://movieplex.live/assets/trackplex/ic_shemaroo.jpg"
       },
       {
         "clearName": "Tata Sky",
@@ -190,7 +190,7 @@
         "packageId": 502,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_tata_sky.jpg"
+        "icon": "https://movieplex.live/assets/trackplex/ic_tata_sky.jpg"
       },
       {
         "clearName": "Discovery Plus",
@@ -200,7 +200,7 @@
         "packageId": 510,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_discovery.jpg"
+        "icon": "https://movieplex.live/assets/trackplex/ic_discovery.jpg"
       },
       {
         "clearName": "ManoramaMax",
@@ -210,7 +210,7 @@
         "packageId": 482,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_manorama.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_manorama.png"
       },
       {
         "clearName": "Rooster Teeth",
@@ -220,7 +220,7 @@
         "packageId": 485,
         "selected": false,
         "is_enable": true,
-        "icon": "https://raw.githubusercontent.com/appssmart/api/main/trackplex/img/ic_rooster_teeth.png"
+        "icon": "https://movieplex.live/assets/trackplex/ic_rooster_teeth.png"
       }
     ]
   }
